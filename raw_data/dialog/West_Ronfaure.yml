@@ -18208,7 +18208,7 @@ entries:
   7478: We watch day and night to ensure that no monsters approach the city, and no troublemakers loiter nearby...so teamwork is essential.${prompt}
   7479: You've formed a party before, right? An organized party is stronger than the combined strength of its members.${prompt}
   7480: Parties with people of the same nationality tend to be organized--because you can always rely on your own countrymen when times are rough.${prompt}
-  7481: Try to form a party with at least two members, all with allegiance to the same country. Think you can do it?${prompt}
+  7481: Try to form a party with six party members, all with allegiance to the same country. Think you can do it?${prompt}
   7482: |-
     Try forming a party?
     ${selection-lines}
@@ -18218,15 +18218,15 @@ entries:
   7484: Hmm, not bad... Not bad at all. You've done well; few opponents could face your combined might. Good luck!${prompt}
   7485: |-
     Ready for your next task?
-    This time, I want you to make a party with at least two members, all of the same race!${prompt}
+    This time, I want you to make a party with six members, all of the same race!${prompt}
   7486: Companions in arms who share the same blood in their veins fight fiercer than your usual rag-tag mobs. Think you can do it?${prompt}
   7487: As I thought, a party of the same race presents a formidable unity that is rarely seen! Treasure your bond, and you will go far.${prompt}
-  7488: Ready for your next task? I want you to form a party, at least two members strong, all with the same job!${prompt}
+  7488: Ready for your next task? I want you to form a party, six members strong, all with the same job!${prompt}
   7489: Those who walk the same path as you are truly trustworthy. How about it?${prompt}
   7490: Excellent! Well done! I believe you've learned the value of teamwork.${prompt}
   7491: You may not measure up to my elite squad here, but keep at it, and someday, maybe you'll win a post here in the watchtower.${prompt}
   7492: I give you this to commemorate your achievement, and the strength of your party. May you and your comrades-in-arms grow in strength, and prosper.${prompt}
-  7493: Hmm...you seem to be short of members. You need more people than just yourself. Bring them here once you've gathered them.${prompt}
+  7493: Hmm...you seem to be short of members. Bring them here once you've gathered them.${prompt}
   7494: Not all of your members are of the same nationality!${prompt}
   7495: Not all of your members are of the same race!${prompt}
   7496: Not all of your members have the same job!${prompt}
