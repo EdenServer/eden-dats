@@ -31,7 +31,9 @@ jobs:
       - name: Generate and collect all DATs
         run: |
           mkdir generated_dats
-          cp -r external_dats/* generated_dats/
+          if [ -f "external_dats" ]; then
+              cp -r external_dats/* generated_dats/
+          fi
           chmod +x ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }}
           ${{ fromJson(steps.tinkerer.outputs.downloaded_files)[0] }} make-dats ${{ github.workspace }}
 
