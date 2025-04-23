@@ -16919,8 +16919,8 @@ items:
     singular_name: scroll of Reraise
     plural_name: scrolls of Reraise
     description: |-
-      WHM Lv.25
-      SCH Lv.35 (Addendum: White)
+      WHM Lv.33
+      SCH Lv.40 (Addendum: White)
       Teaches the white magic Reraise.
       Grants you the effect of Raise when you are KO'd.
   flags:
@@ -17085,8 +17085,8 @@ items:
     singular_name: scroll of Reraise II
     plural_name: scrolls of Reraise II
     description: |-
-      WHM Lv.56
-      SCH Lv.70 (Addendum: White)
+      WHM Lv.60
+      SCH Lv.75 (Addendum: White)
       Teaches the white magic Reraise II.
       Grants you the effect of Raise II when you are KO'd.
   flags:
@@ -17114,8 +17114,7 @@ items:
     singular_name: scroll of Reraise III
     plural_name: scrolls of Reraise III
     description: |-
-      WHM Lv.70
-      SCH Lv.91 (Addendum: White)
+      WHM Lv.75
       Teaches the white magic Reraise III.
       Grants you the effect of Raise III when you are KO'd.
   flags:
