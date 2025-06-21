@@ -27253,7 +27253,7 @@ items:
     description: |-
       The detoxified gelatinous remains of a
       clot, whipped up into a tasty dessert.
-      MP+12% (Max. 85) INT-6
+      MP+12% (Max. 85) INT+6
       MP recovered while healing +2
   flags:
   - MysteryBox
