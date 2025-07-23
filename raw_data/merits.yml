@@ -1,0 +1,8496 @@
+bytes_per_list: 0
+flip_bytes: true
+lists:
+  0:
+  - string: '0'
+  1:
+  - string: '0'
+  2:
+  - string: HP/MP
+  3:
+  - string: |-
+      Adjust your maximum HP and MP.
+      Max. total ability increases: 75
+  4:
+  - string: Attributes
+  5:
+  - string: |-
+      Adjust your 7 main attributes.
+      Max. total ability increases: 105
+  6:
+  - string: Combat Skills
+  7:
+  - string: |-
+      Adjust your combat skills.
+      Max. total ability increases: 152
+  8:
+  - string: Magic Skills
+  9:
+  - string: |-
+      Adjust your magic skills.
+      Max. total ability increases: 112
+  10:
+  - string: Others
+  11:
+  - string: |-
+      Adjust various other attributes.
+      Max. total ability increases: 10
+  12:
+  - string: Warrior
+  13:
+  - string: |-
+      Adjust various abilities for WAR lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  14:
+  - string: Monk
+  15:
+  - string: |-
+      Adjust various abilities for MNK lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  16:
+  - string: White Mage
+  17:
+  - string: |-
+      Adjust various abilities for WHM lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  18:
+  - string: Black Mage
+  19:
+  - string: |-
+      Adjust various abilities for BLM lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  20:
+  - string: Red Mage
+  21:
+  - string: |-
+      Adjust various abilities for RDM lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  22:
+  - string: Thief
+  23:
+  - string: |-
+      Adjust various abilities for THF lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  24:
+  - string: Paladin
+  25:
+  - string: |-
+      Adjust various abilities for PLD lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  26:
+  - string: Dark Knight
+  27:
+  - string: |-
+      Adjust various abilities for DRK lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  28:
+  - string: Beastmaster
+  29:
+  - string: |-
+      Adjust various abilities for BST lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  30:
+  - string: Bard
+  31:
+  - string: |-
+      Adjust various abilities for BRD lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  32:
+  - string: Ranger
+  33:
+  - string: |-
+      Adjust various abilities for RNG lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  34:
+  - string: Samurai
+  35:
+  - string: |-
+      Adjust various abilities for SAM lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  36:
+  - string: Ninja
+  37:
+  - string: |-
+      Adjust various abilities for NIN lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  38:
+  - string: Dragoon
+  39:
+  - string: |-
+      Adjust various abilities for DRG lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  40:
+  - string: Summoner
+  41:
+  - string: |-
+      Adjust various abilities for SMN lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  42:
+  - string: Blue Mage
+  43:
+  - string: |-
+      Adjust various abilities for BLU lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  44:
+  - string: Corsair
+  45:
+  - string: |-
+      Adjust various abilities for COR lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  46:
+  - string: Puppetmaster
+  47:
+  - string: |-
+      Adjust various abilities for PUP lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  48:
+  - string: Dancer
+  49:
+  - string: |-
+      Adjust various abilities for DNC lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  50:
+  - string: Scholar
+  51:
+  - string: |-
+      Adjust various abilities for SCH lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  52:
+  - string: Weapon Skills
+  53:
+  - string: 'Adjust weapon skills for levels 96 and above. Total ability increases: 15.'
+  54:
+  - string: Geomancer
+  55:
+  - string: |-
+      Adjust various abilities for GEO lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  56:
+  - string: Rune Fencer
+  57:
+  - string: |-
+      Adjust various abilities for RUN lv.75 or above.
+      Group 1 max. total ability increases: 10
+      Group 2 max. total ability increases: 10
+  58:
+  - string: MeripoName29
+  59:
+  - string: Meripo 29 help text.
+  60:
+  - string: MeripoName30
+  61:
+  - string: Meripo 30 help text.
+  62:
+  - string: MeripoName31
+  63:
+  - string: Meripo 31 help text.
+  64:
+  - string: Max HP
+  65:
+  - string: Adjust your maximum HP by 10 points.
+  66:
+  - string: Max MP
+  67:
+  - string: Adjust your maximum MP by 10 points.
+  68:
+  - string: Maximum Merit Points
+  69:
+  - string: Adjust your maximum number of merit points by 1 point.
+  70:
+  - string: MeripoName35
+  71:
+  - string: Meripo 35 help text.
+  72:
+  - string: MeripoName36
+  73:
+  - string: Meripo 36 help text.
+  74:
+  - string: MeripoName37
+  75:
+  - string: Meripo 37 help text.
+  76:
+  - string: MeripoName38
+  77:
+  - string: Meripo 38 help text.
+  78:
+  - string: MeripoName39
+  79:
+  - string: Meripo 39 help text.
+  80:
+  - string: MeripoName40
+  81:
+  - string: Meripo 40 help text.
+  82:
+  - string: MeripoName41
+  83:
+  - string: Meripo 41 help text.
+  84:
+  - string: MeripoName42
+  85:
+  - string: Meripo 42 help text.
+  86:
+  - string: MeripoName43
+  87:
+  - string: Meripo 43 help text.
+  88:
+  - string: MeripoName44
+  89:
+  - string: Meripo 44 help text.
+  90:
+  - string: MeripoName45
+  91:
+  - string: Meripo 45 help text.
+  92:
+  - string: MeripoName46
+  93:
+  - string: Meripo 46 help text.
+  94:
+  - string: MeripoName47
+  95:
+  - string: Meripo 47 help text.
+  96:
+  - string: MeripoName48
+  97:
+  - string: Meripo 48 help text.
+  98:
+  - string: MeripoName49
+  99:
+  - string: Meripo 49 help text.
+  100:
+  - string: MeripoName50
+  101:
+  - string: Meripo 50 help text.
+  102:
+  - string: MeripoName51
+  103:
+  - string: Meripo 51 help text.
+  104:
+  - string: MeripoName52
+  105:
+  - string: Meripo 52 help text.
+  106:
+  - string: MeripoName53
+  107:
+  - string: Meripo 53 help text.
+  108:
+  - string: MeripoName54
+  109:
+  - string: Meripo 54 help text.
+  110:
+  - string: MeripoName55
+  111:
+  - string: Meripo 55 help text.
+  112:
+  - string: MeripoName56
+  113:
+  - string: Meripo 56 help text.
+  114:
+  - string: MeripoName57
+  115:
+  - string: Meripo 57 help text.
+  116:
+  - string: MeripoName58
+  117:
+  - string: Meripo 58 help text.
+  118:
+  - string: MeripoName59
+  119:
+  - string: Meripo 59 help text.
+  120:
+  - string: MeripoName60
+  121:
+  - string: Meripo 60 help text.
+  122:
+  - string: MeripoName61
+  123:
+  - string: Meripo 61 help text.
+  124:
+  - string: MeripoName62
+  125:
+  - string: Meripo 62 help text.
+  126:
+  - string: MeripoName63
+  127:
+  - string: Meripo 63 help text.
+  128:
+  - string: STR
+  129:
+  - string: Adjust your STR by 1 point.
+  130:
+  - string: DEX
+  131:
+  - string: Adjust your DEX by 1 point.
+  132:
+  - string: VIT
+  133:
+  - string: Adjust your VIT by 1 point.
+  134:
+  - string: AGI
+  135:
+  - string: Adjust your AGI by 1 point.
+  136:
+  - string: INT
+  137:
+  - string: Adjust your INT by 1 point.
+  138:
+  - string: MND
+  139:
+  - string: Adjust your MND by 1 point.
+  140:
+  - string: CHR
+  141:
+  - string: Adjust your CHR by 1 point.
+  142:
+  - string: MeripoName71
+  143:
+  - string: Meripo 71 help text.
+  144:
+  - string: MeripoName72
+  145:
+  - string: Meripo 72 help text.
+  146:
+  - string: MeripoName73
+  147:
+  - string: Meripo 73 help text.
+  148:
+  - string: MeripoName74
+  149:
+  - string: Meripo 74 help text.
+  150:
+  - string: MeripoName75
+  151:
+  - string: Meripo 75 help text.
+  152:
+  - string: MeripoName76
+  153:
+  - string: Meripo 76 help text.
+  154:
+  - string: MeripoName77
+  155:
+  - string: Meripo 77 help text.
+  156:
+  - string: MeripoName78
+  157:
+  - string: Meripo 78 help text.
+  158:
+  - string: MeripoName79
+  159:
+  - string: Meripo 79 help text.
+  160:
+  - string: MeripoName80
+  161:
+  - string: Meripo 80 help text.
+  162:
+  - string: MeripoName81
+  163:
+  - string: Meripo 81 help text.
+  164:
+  - string: MeripoName82
+  165:
+  - string: Meripo 82 help text.
+  166:
+  - string: MeripoName83
+  167:
+  - string: Meripo 83 help text.
+  168:
+  - string: MeripoName84
+  169:
+  - string: Meripo 84 help text.
+  170:
+  - string: MeripoName85
+  171:
+  - string: Meripo 85 help text.
+  172:
+  - string: MeripoName86
+  173:
+  - string: Meripo 86 help text.
+  174:
+  - string: MeripoName87
+  175:
+  - string: Meripo 87 help text.
+  176:
+  - string: MeripoName88
+  177:
+  - string: Meripo 88 help text.
+  178:
+  - string: MeripoName89
+  179:
+  - string: Meripo 89 help text.
+  180:
+  - string: MeripoName90
+  181:
+  - string: Meripo 90 help text.
+  182:
+  - string: MeripoName91
+  183:
+  - string: Meripo 91 help text.
+  184:
+  - string: MeripoName92
+  185:
+  - string: Meripo 92 help text.
+  186:
+  - string: MeripoName93
+  187:
+  - string: Meripo 93 help text.
+  188:
+  - string: MeripoName94
+  189:
+  - string: Meripo 94 help text.
+  190:
+  - string: MeripoName95
+  191:
+  - string: Meripo 95 help text.
+  192:
+  - string: Hand-to-Hand Skill
+  193:
+  - string: Adjust your hand-to-hand skill by 2 points.
+  194:
+  - string: Dagger Skill
+  195:
+  - string: Adjust your dagger skill by 2 points.
+  196:
+  - string: Sword Skill
+  197:
+  - string: Adjust your sword skill by 2 points.
+  198:
+  - string: Great Sword Skill
+  199:
+  - string: Adjust your great sword skill by 2 points.
+  200:
+  - string: Axe Skill
+  201:
+  - string: Adjust your axe skill by 2 points.
+  202:
+  - string: Great Axe Skill
+  203:
+  - string: Adjust your great axe skill by 2 points.
+  204:
+  - string: Scythe Skill
+  205:
+  - string: Adjust your scythe skill by 2 points.
+  206:
+  - string: Polearm Skill
+  207:
+  - string: Adjust your polearm skill by 2 points.
+  208:
+  - string: Katana Skill
+  209:
+  - string: Adjust your katana skill by 2 points.
+  210:
+  - string: Great Katana Skill
+  211:
+  - string: Adjust your great katana skill by 2 points.
+  212:
+  - string: Club Skill
+  213:
+  - string: Adjust your club skill by 2 points.
+  214:
+  - string: Staff Skill
+  215:
+  - string: Adjust your staff skill by 2 points.
+  216:
+  - string: Archery Skill
+  217:
+  - string: Adjust your archery skill by 2 points.
+  218:
+  - string: Marksmanship Skill
+  219:
+  - string: Adjust your marksmanship skill by 2 points.
+  220:
+  - string: Throwing Skill
+  221:
+  - string: Adjust your throwing skill by 2 points.
+  222:
+  - string: Guarding Skill
+  223:
+  - string: Adjust your guarding skill by 2 points.
+  224:
+  - string: Evasion Skill
+  225:
+  - string: Adjust your evasion skill by 2 points.
+  226:
+  - string: Shield Skill
+  227:
+  - string: Adjust your shield skill by 2 points.
+  228:
+  - string: Parrying Skill
+  229:
+  - string: Adjust your parrying skill by 2 points.
+  230:
+  - string: MeripoName115
+  231:
+  - string: Meripo 115 help text.
+  232:
+  - string: MeripoName116
+  233:
+  - string: Meripo 116 help text.
+  234:
+  - string: MeripoName117
+  235:
+  - string: Meripo 117 help text.
+  236:
+  - string: MeripoName118
+  237:
+  - string: Meripo 118 help text.
+  238:
+  - string: MeripoName119
+  239:
+  - string: Meripo 119 help text.
+  240:
+  - string: MeripoName120
+  241:
+  - string: Meripo 120 help text.
+  242:
+  - string: MeripoName121
+  243:
+  - string: Meripo 121 help text.
+  244:
+  - string: MeripoName122
+  245:
+  - string: Meripo 122 help text.
+  246:
+  - string: MeripoName123
+  247:
+  - string: Meripo 123 help text.
+  248:
+  - string: MeripoName124
+  249:
+  - string: Meripo 124 help text.
+  250:
+  - string: MeripoName125
+  251:
+  - string: Meripo 125 help text.
+  252:
+  - string: MeripoName126
+  253:
+  - string: Meripo 126 help text.
+  254:
+  - string: MeripoName127
+  255:
+  - string: Meripo 127 help text.
+  256:
+  - string: Divine Magic Skill
+  257:
+  - string: Adjust your divine magic skill by 2 points.
+  258:
+  - string: Healing Magic Skill
+  259:
+  - string: Adjust your healing magic skill by 2 points.
+  260:
+  - string: Enhancing Magic Skill
+  261:
+  - string: Adjust your enhancing magic skill by 2 points.
+  262:
+  - string: Enfeebling Magic Skill
+  263:
+  - string: Adjust your enfeebling magic skill by 2 points.
+  264:
+  - string: Elemental Magic Skill
+  265:
+  - string: Adjust your elemental magic skill by 2 points.
+  266:
+  - string: Dark Magic Skill
+  267:
+  - string: Adjust your dark magic skill by 2 points.
+  268:
+  - string: Summoning Magic Skill
+  269:
+  - string: Adjust your summoning magic skill by 2 points.
+  270:
+  - string: Ninjutsu Skill
+  271:
+  - string: Adjust your ninjutsu skill by 2 points.
+  272:
+  - string: Singing Skill
+  273:
+  - string: Adjust your singing skill by 2 points.
+  274:
+  - string: String Instrument Skill
+  275:
+  - string: Adjust your string instrument skill by 2 points.
+  276:
+  - string: Wind Instrument Skill
+  277:
+  - string: Adjust your wind instrument skill by 2 points.
+  278:
+  - string: Blue Magic Skill
+  279:
+  - string: Adjust your blue magic skill by 2 points.
+  280:
+  - string: Geomancy Skill
+  281:
+  - string: Adjust your geomancy skill by 2 points.
+  282:
+  - string: Handbell Skill
+  283:
+  - string: Adjust your handbell skill by 2 points.
+  284:
+  - string: MeripoName142
+  285:
+  - string: Meripo 142 help text.
+  286:
+  - string: MeripoName143
+  287:
+  - string: Meripo 143 help text.
+  288:
+  - string: MeripoName144
+  289:
+  - string: Meripo 144 help text.
+  290:
+  - string: MeripoName145
+  291:
+  - string: Meripo 145 help text.
+  292:
+  - string: MeripoName146
+  293:
+  - string: Meripo 146 help text.
+  294:
+  - string: MeripoName147
+  295:
+  - string: Meripo 147 help text.
+  296:
+  - string: MeripoName148
+  297:
+  - string: Meripo 148 help text.
+  298:
+  - string: MeripoName149
+  299:
+  - string: Meripo 149 help text.
+  300:
+  - string: MeripoName150
+  301:
+  - string: Meripo 150 help text.
+  302:
+  - string: MeripoName151
+  303:
+  - string: Meripo 151 help text.
+  304:
+  - string: MeripoName152
+  305:
+  - string: Meripo 152 help text.
+  306:
+  - string: MeripoName153
+  307:
+  - string: Meripo 153 help text.
+  308:
+  - string: MeripoName154
+  309:
+  - string: Meripo 154 help text.
+  310:
+  - string: MeripoName155
+  311:
+  - string: Meripo 155 help text.
+  312:
+  - string: MeripoName156
+  313:
+  - string: Meripo 156 help text.
+  314:
+  - string: MeripoName157
+  315:
+  - string: Meripo 157 help text.
+  316:
+  - string: MeripoName158
+  317:
+  - string: Meripo 158 help text.
+  318:
+  - string: MeripoName159
+  319:
+  - string: Meripo 159 help text.
+  320:
+  - string: Enmity Increase
+  321:
+  - string: Increase your enmity 1 point.
+  322:
+  - string: Enmity Decrease
+  323:
+  - string: Decrease your enmity 1 point.
+  324:
+  - string: Critical Hit Rate
+  325:
+  - string: Adjust your critical hit rate by 1 percent.
+  326:
+  - string: Enemy Critical Hit Rate
+  327:
+  - string: Adjust enemies' critical hit rate by 1 percent.
+  328:
+  - string: Spell Interruption Rate
+  329:
+  - string: Adjust your spell interruption rate by 2 percent.
+  330:
+  - string: MeripoName165
+  331:
+  - string: Meripo 165 help text.
+  332:
+  - string: MeripoName166
+  333:
+  - string: Meripo 166 help text.
+  334:
+  - string: MeripoName167
+  335:
+  - string: Meripo 167 help text.
+  336:
+  - string: MeripoName168
+  337:
+  - string: Meripo 168 help text.
+  338:
+  - string: MeripoName169
+  339:
+  - string: Meripo 169 help text.
+  340:
+  - string: MeripoName170
+  341:
+  - string: Meripo 170 help text.
+  342:
+  - string: MeripoName171
+  343:
+  - string: Meripo 171 help text.
+  344:
+  - string: MeripoName172
+  345:
+  - string: Meripo 172 help text.
+  346:
+  - string: MeripoName173
+  347:
+  - string: Meripo 173 help text.
+  348:
+  - string: MeripoName174
+  349:
+  - string: Meripo 174 help text.
+  350:
+  - string: MeripoName175
+  351:
+  - string: Meripo 175 help text.
+  352:
+  - string: MeripoName176
+  353:
+  - string: Meripo 176 help text.
+  354:
+  - string: MeripoName177
+  355:
+  - string: Meripo 177 help text.
+  356:
+  - string: MeripoName178
+  357:
+  - string: Meripo 178 help text.
+  358:
+  - string: MeripoName179
+  359:
+  - string: Meripo 179 help text.
+  360:
+  - string: MeripoName180
+  361:
+  - string: Meripo 180 help text.
+  362:
+  - string: MeripoName181
+  363:
+  - string: Meripo 181 help text.
+  364:
+  - string: MeripoName182
+  365:
+  - string: Meripo 182 help text.
+  366:
+  - string: MeripoName183
+  367:
+  - string: Meripo 183 help text.
+  368:
+  - string: MeripoName184
+  369:
+  - string: Meripo 184 help text.
+  370:
+  - string: MeripoName185
+  371:
+  - string: Meripo 185 help text.
+  372:
+  - string: MeripoName186
+  373:
+  - string: Meripo 186 help text.
+  374:
+  - string: MeripoName187
+  375:
+  - string: Meripo 187 help text.
+  376:
+  - string: MeripoName188
+  377:
+  - string: Meripo 188 help text.
+  378:
+  - string: MeripoName189
+  379:
+  - string: Meripo 189 help text.
+  380:
+  - string: MeripoName190
+  381:
+  - string: Meripo 190 help text.
+  382:
+  - string: MeripoName191
+  383:
+  - string: Meripo 191 help text.
+  384:
+  - string: Berserk Recast
+  385:
+  - string: Shorten recast time by 10 seconds.
+  386:
+  - string: Defender Recast
+  387:
+  - string: Shorten recast time by 6 seconds.
+  388:
+  - string: Warcry Recast
+  389:
+  - string: Shorten recast time by 10 seconds.
+  390:
+  - string: Aggressor Recast
+  391:
+  - string: Shorten recast time by 10 seconds.
+  392:
+  - string: Double Attack Rate
+  393:
+  - string: Increase double attack rate by 1 percent.
+  394:
+  - string: MeripoName197
+  395:
+  - string: Meripo 197 help text.
+  396:
+  - string: MeripoName198
+  397:
+  - string: Meripo 198 help text.
+  398:
+  - string: MeripoName199
+  399:
+  - string: Meripo 199 help text.
+  400:
+  - string: MeripoName200
+  401:
+  - string: Meripo 200 help text.
+  402:
+  - string: MeripoName201
+  403:
+  - string: Meripo 201 help text.
+  404:
+  - string: MeripoName202
+  405:
+  - string: Meripo 202 help text.
+  406:
+  - string: MeripoName203
+  407:
+  - string: Meripo 203 help text.
+  408:
+  - string: MeripoName204
+  409:
+  - string: Meripo 204 help text.
+  410:
+  - string: MeripoName205
+  411:
+  - string: Meripo 205 help text.
+  412:
+  - string: MeripoName206
+  413:
+  - string: Meripo 206 help text.
+  414:
+  - string: MeripoName207
+  415:
+  - string: Meripo 207 help text.
+  416:
+  - string: MeripoName208
+  417:
+  - string: Meripo 208 help text.
+  418:
+  - string: MeripoName209
+  419:
+  - string: Meripo 209 help text.
+  420:
+  - string: MeripoName210
+  421:
+  - string: Meripo 210 help text.
+  422:
+  - string: MeripoName211
+  423:
+  - string: Meripo 211 help text.
+  424:
+  - string: MeripoName212
+  425:
+  - string: Meripo 212 help text.
+  426:
+  - string: MeripoName213
+  427:
+  - string: Meripo 213 help text.
+  428:
+  - string: MeripoName214
+  429:
+  - string: Meripo 214 help text.
+  430:
+  - string: MeripoName215
+  431:
+  - string: Meripo 215 help text.
+  432:
+  - string: MeripoName216
+  433:
+  - string: Meripo 216 help text.
+  434:
+  - string: MeripoName217
+  435:
+  - string: Meripo 217 help text.
+  436:
+  - string: MeripoName218
+  437:
+  - string: Meripo 218 help text.
+  438:
+  - string: MeripoName219
+  439:
+  - string: Meripo 219 help text.
+  440:
+  - string: MeripoName220
+  441:
+  - string: Meripo 220 help text.
+  442:
+  - string: MeripoName221
+  443:
+  - string: Meripo 221 help text.
+  444:
+  - string: MeripoName222
+  445:
+  - string: Meripo 222 help text.
+  446:
+  - string: MeripoName223
+  447:
+  - string: Meripo 223 help text.
+  448:
+  - string: Focus Recast
+  449:
+  - string: Shorten recast time by 4 seconds.
+  450:
+  - string: Dodge Recast
+  451:
+  - string: Shorten recast time by 4 seconds.
+  452:
+  - string: Chakra Recast
+  453:
+  - string: Shorten recast time by 6 seconds.
+  454:
+  - string: Counter Rate
+  455:
+  - string: Increase counter attack rate by 1 percent.
+  456:
+  - string: Kick Attack Rate
+  457:
+  - string: Increase kick attack rate by 1 percent.
+  458:
+  - string: MeripoName229
+  459:
+  - string: Meripo 229 help text.
+  460:
+  - string: MeripoName230
+  461:
+  - string: Meripo 230 help text.
+  462:
+  - string: MeripoName231
+  463:
+  - string: Meripo 231 help text.
+  464:
+  - string: MeripoName232
+  465:
+  - string: Meripo 232 help text.
+  466:
+  - string: MeripoName233
+  467:
+  - string: Meripo 233 help text.
+  468:
+  - string: MeripoName234
+  469:
+  - string: Meripo 234 help text.
+  470:
+  - string: MeripoName235
+  471:
+  - string: Meripo 235 help text.
+  472:
+  - string: MeripoName236
+  473:
+  - string: Meripo 236 help text.
+  474:
+  - string: MeripoName237
+  475:
+  - string: Meripo 237 help text.
+  476:
+  - string: MeripoName238
+  477:
+  - string: Meripo 238 help text.
+  478:
+  - string: MeripoName239
+  479:
+  - string: Meripo 239 help text.
+  480:
+  - string: MeripoName240
+  481:
+  - string: Meripo 240 help text.
+  482:
+  - string: MeripoName241
+  483:
+  - string: Meripo 241 help text.
+  484:
+  - string: MeripoName242
+  485:
+  - string: Meripo 242 help text.
+  486:
+  - string: MeripoName243
+  487:
+  - string: Meripo 243 help text.
+  488:
+  - string: MeripoName244
+  489:
+  - string: Meripo 244 help text.
+  490:
+  - string: MeripoName245
+  491:
+  - string: Meripo 245 help text.
+  492:
+  - string: MeripoName246
+  493:
+  - string: Meripo 246 help text.
+  494:
+  - string: MeripoName247
+  495:
+  - string: Meripo 247 help text.
+  496:
+  - string: MeripoName248
+  497:
+  - string: Meripo 248 help text.
+  498:
+  - string: MeripoName249
+  499:
+  - string: Meripo 249 help text.
+  500:
+  - string: MeripoName250
+  501:
+  - string: Meripo 250 help text.
+  502:
+  - string: MeripoName251
+  503:
+  - string: Meripo 251 help text.
+  504:
+  - string: MeripoName252
+  505:
+  - string: Meripo 252 help text.
+  506:
+  - string: MeripoName253
+  507:
+  - string: Meripo 253 help text.
+  508:
+  - string: MeripoName254
+  509:
+  - string: Meripo 254 help text.
+  510:
+  - string: MeripoName255
+  511:
+  - string: Meripo 255 help text.
+  512:
+  - string: Divine Seal Recast
+  513:
+  - string: Shorten recast time by 20 seconds.
+  514:
+  - string: Cure Cast Time
+  515:
+  - string: Shorten cast time of all Cure spells by 4 percent.
+  516:
+  - string: Bar Spell Effect
+  517:
+  - string: Increase potency of Bar spells and add a magic defense bonus of 2 points.
+  518:
+  - string: Banish Effect
+  519:
+  - string: Increase damage of Banish by 2, and length of def. down effect by 2 seconds.
+  520:
+  - string: Regen Effect
+  521:
+  - string: Increase the amount of HP recovered each interval by 1.
+  522:
+  - string: MeripoName261
+  523:
+  - string: Meripo 261 help text.
+  524:
+  - string: MeripoName262
+  525:
+  - string: Meripo 262 help text.
+  526:
+  - string: MeripoName263
+  527:
+  - string: Meripo 263 help text.
+  528:
+  - string: MeripoName264
+  529:
+  - string: Meripo 264 help text.
+  530:
+  - string: MeripoName265
+  531:
+  - string: Meripo 265 help text.
+  532:
+  - string: MeripoName266
+  533:
+  - string: Meripo 266 help text.
+  534:
+  - string: MeripoName267
+  535:
+  - string: Meripo 267 help text.
+  536:
+  - string: MeripoName268
+  537:
+  - string: Meripo 268 help text.
+  538:
+  - string: MeripoName269
+  539:
+  - string: Meripo 269 help text.
+  540:
+  - string: MeripoName270
+  541:
+  - string: Meripo 270 help text.
+  542:
+  - string: MeripoName271
+  543:
+  - string: Meripo 271 help text.
+  544:
+  - string: MeripoName272
+  545:
+  - string: Meripo 272 help text.
+  546:
+  - string: MeripoName273
+  547:
+  - string: Meripo 273 help text.
+  548:
+  - string: MeripoName274
+  549:
+  - string: Meripo 274 help text.
+  550:
+  - string: MeripoName275
+  551:
+  - string: Meripo 275 help text.
+  552:
+  - string: MeripoName276
+  553:
+  - string: Meripo 276 help text.
+  554:
+  - string: MeripoName277
+  555:
+  - string: Meripo 277 help text.
+  556:
+  - string: MeripoName278
+  557:
+  - string: Meripo 278 help text.
+  558:
+  - string: MeripoName279
+  559:
+  - string: Meripo 279 help text.
+  560:
+  - string: MeripoName280
+  561:
+  - string: Meripo 280 help text.
+  562:
+  - string: MeripoName281
+  563:
+  - string: Meripo 281 help text.
+  564:
+  - string: MeripoName282
+  565:
+  - string: Meripo 282 help text.
+  566:
+  - string: MeripoName283
+  567:
+  - string: Meripo 283 help text.
+  568:
+  - string: MeripoName284
+  569:
+  - string: Meripo 284 help text.
+  570:
+  - string: MeripoName285
+  571:
+  - string: Meripo 285 help text.
+  572:
+  - string: MeripoName286
+  573:
+  - string: Meripo 286 help text.
+  574:
+  - string: MeripoName287
+  575:
+  - string: Meripo 287 help text.
+  576:
+  - string: Elemental Seal Recast
+  577:
+  - string: Shorten recast time by 20 seconds.
+  578:
+  - string: Fire Magic Potency
+  579:
+  - string: Increase the potency of Fire spells by 2.
+  580:
+  - string: Ice Magic Potency
+  581:
+  - string: Increase the potency of Ice spells by 2.
+  582:
+  - string: Wind Magic Potency
+  583:
+  - string: Increase the potency of Wind spells by 2.
+  584:
+  - string: Earth Magic Potency
+  585:
+  - string: Increase the potency of Earth spells by 2.
+  586:
+  - string: Lightning Magic Potency
+  587:
+  - string: Increase the potency of Lightning spells by 2.
+  588:
+  - string: Water Magic Potency
+  589:
+  - string: Increase the potency of Water spells by 2.
+  590:
+  - string: MeripoName295
+  591:
+  - string: Meripo 295 help text.
+  592:
+  - string: MeripoName296
+  593:
+  - string: Meripo 296 help text.
+  594:
+  - string: MeripoName297
+  595:
+  - string: Meripo 297 help text.
+  596:
+  - string: MeripoName298
+  597:
+  - string: Meripo 298 help text.
+  598:
+  - string: MeripoName299
+  599:
+  - string: Meripo 299 help text.
+  600:
+  - string: MeripoName300
+  601:
+  - string: Meripo 300 help text.
+  602:
+  - string: MeripoName301
+  603:
+  - string: Meripo 301 help text.
+  604:
+  - string: MeripoName302
+  605:
+  - string: Meripo 302 help text.
+  606:
+  - string: MeripoName303
+  607:
+  - string: Meripo 303 help text.
+  608:
+  - string: MeripoName304
+  609:
+  - string: Meripo 304 help text.
+  610:
+  - string: MeripoName305
+  611:
+  - string: Meripo 305 help text.
+  612:
+  - string: MeripoName306
+  613:
+  - string: Meripo 306 help text.
+  614:
+  - string: MeripoName307
+  615:
+  - string: Meripo 307 help text.
+  616:
+  - string: MeripoName308
+  617:
+  - string: Meripo 308 help text.
+  618:
+  - string: MeripoName309
+  619:
+  - string: Meripo 309 help text.
+  620:
+  - string: MeripoName310
+  621:
+  - string: Meripo 310 help text.
+  622:
+  - string: MeripoName311
+  623:
+  - string: Meripo 311 help text.
+  624:
+  - string: MeripoName312
+  625:
+  - string: Meripo 312 help text.
+  626:
+  - string: MeripoName313
+  627:
+  - string: Meripo 313 help text.
+  628:
+  - string: MeripoName314
+  629:
+  - string: Meripo 314 help text.
+  630:
+  - string: MeripoName315
+  631:
+  - string: Meripo 315 help text.
+  632:
+  - string: MeripoName316
+  633:
+  - string: Meripo 316 help text.
+  634:
+  - string: MeripoName317
+  635:
+  - string: Meripo 317 help text.
+  636:
+  - string: MeripoName318
+  637:
+  - string: Meripo 318 help text.
+  638:
+  - string: MeripoName319
+  639:
+  - string: Meripo 319 help text.
+  640:
+  - string: Convert Recast
+  641:
+  - string: Shorten recast time by 20 seconds.
+  642:
+  - string: Fire Magic Accuracy
+  643:
+  - string: Increase the accuracy of Fire spells by 3.
+  644:
+  - string: Ice Magic Accuracy
+  645:
+  - string: Increase the accuracy of Ice spells by 3.
+  646:
+  - string: Wind Magic Accuracy
+  647:
+  - string: Increase the accuracy of Wind spells by 3.
+  648:
+  - string: Earth Magic Accuracy
+  649:
+  - string: Increase the accuracy of Earth spells by 3.
+  650:
+  - string: Lightning Magic Accuracy
+  651:
+  - string: Increase the accuracy of Lightning spells by 3.
+  652:
+  - string: Water Magic Accuracy
+  653:
+  - string: Increase the accuracy of Water spells by 3.
+  654:
+  - string: MeripoName327
+  655:
+  - string: Meripo 327 help text.
+  656:
+  - string: MeripoName328
+  657:
+  - string: Meripo 328 help text.
+  658:
+  - string: MeripoName329
+  659:
+  - string: Meripo 329 help text.
+  660:
+  - string: MeripoName330
+  661:
+  - string: Meripo 330 help text.
+  662:
+  - string: MeripoName331
+  663:
+  - string: Meripo 331 help text.
+  664:
+  - string: MeripoName332
+  665:
+  - string: Meripo 332 help text.
+  666:
+  - string: MeripoName333
+  667:
+  - string: Meripo 333 help text.
+  668:
+  - string: MeripoName334
+  669:
+  - string: Meripo 334 help text.
+  670:
+  - string: MeripoName335
+  671:
+  - string: Meripo 335 help text.
+  672:
+  - string: MeripoName336
+  673:
+  - string: Meripo 336 help text.
+  674:
+  - string: MeripoName337
+  675:
+  - string: Meripo 337 help text.
+  676:
+  - string: MeripoName338
+  677:
+  - string: Meripo 338 help text.
+  678:
+  - string: MeripoName339
+  679:
+  - string: Meripo 339 help text.
+  680:
+  - string: MeripoName340
+  681:
+  - string: Meripo 340 help text.
+  682:
+  - string: MeripoName341
+  683:
+  - string: Meripo 341 help text.
+  684:
+  - string: MeripoName342
+  685:
+  - string: Meripo 342 help text.
+  686:
+  - string: MeripoName343
+  687:
+  - string: Meripo 343 help text.
+  688:
+  - string: MeripoName344
+  689:
+  - string: Meripo 344 help text.
+  690:
+  - string: MeripoName345
+  691:
+  - string: Meripo 345 help text.
+  692:
+  - string: MeripoName346
+  693:
+  - string: Meripo 346 help text.
+  694:
+  - string: MeripoName347
+  695:
+  - string: Meripo 347 help text.
+  696:
+  - string: MeripoName348
+  697:
+  - string: Meripo 348 help text.
+  698:
+  - string: MeripoName349
+  699:
+  - string: Meripo 349 help text.
+  700:
+  - string: MeripoName350
+  701:
+  - string: Meripo 350 help text.
+  702:
+  - string: MeripoName351
+  703:
+  - string: Meripo 351 help text.
+  704:
+  - string: Flee Recast
+  705:
+  - string: Shorten recast time by 10 seconds.
+  706:
+  - string: Hide Recast
+  707:
+  - string: Shorten recast time by 10 seconds.
+  708:
+  - string: Sneak Attack Recast
+  709:
+  - string: Shorten recast time by 2 seconds.
+  710:
+  - string: Trick Attack Recast
+  711:
+  - string: Shorten recast time by 2 seconds.
+  712:
+  - string: Triple Attack Rate
+  713:
+  - string: Increase triple attack rate by 1 percent.
+  714:
+  - string: MeripoName357
+  715:
+  - string: Meripo 357 help text.
+  716:
+  - string: MeripoName358
+  717:
+  - string: Meripo 358 help text.
+  718:
+  - string: MeripoName359
+  719:
+  - string: Meripo 359 help text.
+  720:
+  - string: MeripoName360
+  721:
+  - string: Meripo 360 help text.
+  722:
+  - string: MeripoName361
+  723:
+  - string: Meripo 361 help text.
+  724:
+  - string: MeripoName362
+  725:
+  - string: Meripo 362 help text.
+  726:
+  - string: MeripoName363
+  727:
+  - string: Meripo 363 help text.
+  728:
+  - string: MeripoName364
+  729:
+  - string: Meripo 364 help text.
+  730:
+  - string: MeripoName365
+  731:
+  - string: Meripo 365 help text.
+  732:
+  - string: MeripoName366
+  733:
+  - string: Meripo 366 help text.
+  734:
+  - string: MeripoName367
+  735:
+  - string: Meripo 367 help text.
+  736:
+  - string: MeripoName368
+  737:
+  - string: Meripo 368 help text.
+  738:
+  - string: MeripoName369
+  739:
+  - string: Meripo 369 help text.
+  740:
+  - string: MeripoName370
+  741:
+  - string: Meripo 370 help text.
+  742:
+  - string: MeripoName371
+  743:
+  - string: Meripo 371 help text.
+  744:
+  - string: MeripoName372
+  745:
+  - string: Meripo 372 help text.
+  746:
+  - string: MeripoName373
+  747:
+  - string: Meripo 373 help text.
+  748:
+  - string: MeripoName374
+  749:
+  - string: Meripo 374 help text.
+  750:
+  - string: MeripoName375
+  751:
+  - string: Meripo 375 help text.
+  752:
+  - string: MeripoName376
+  753:
+  - string: Meripo 376 help text.
+  754:
+  - string: MeripoName377
+  755:
+  - string: Meripo 377 help text.
+  756:
+  - string: MeripoName378
+  757:
+  - string: Meripo 378 help text.
+  758:
+  - string: MeripoName379
+  759:
+  - string: Meripo 379 help text.
+  760:
+  - string: MeripoName380
+  761:
+  - string: Meripo 380 help text.
+  762:
+  - string: MeripoName381
+  763:
+  - string: Meripo 381 help text.
+  764:
+  - string: MeripoName382
+  765:
+  - string: Meripo 382 help text.
+  766:
+  - string: MeripoName383
+  767:
+  - string: Meripo 383 help text.
+  768:
+  - string: Shield Bash Recast
+  769:
+  - string: Shorten recast time by 6 seconds.
+  770:
+  - string: Holy Circle Recast
+  771:
+  - string: Shorten recast time by 10 seconds.
+  772:
+  - string: Sentinel Recast
+  773:
+  - string: Shorten recast time by 10 seconds.
+  774:
+  - string: Cover Effect Length
+  775:
+  - string: Lengthen time of effect by 4 seconds.
+  776:
+  - string: Rampart Recast
+  777:
+  - string: Shorten recast time by 10 seconds.
+  778:
+  - string: MeripoName389
+  779:
+  - string: Meripo 389 help text.
+  780:
+  - string: MeripoName390
+  781:
+  - string: Meripo 390 help text.
+  782:
+  - string: MeripoName391
+  783:
+  - string: Meripo 391 help text.
+  784:
+  - string: MeripoName392
+  785:
+  - string: Meripo 392 help text.
+  786:
+  - string: MeripoName393
+  787:
+  - string: Meripo 393 help text.
+  788:
+  - string: MeripoName394
+  789:
+  - string: Meripo 394 help text.
+  790:
+  - string: MeripoName395
+  791:
+  - string: Meripo 395 help text.
+  792:
+  - string: MeripoName396
+  793:
+  - string: Meripo 396 help text.
+  794:
+  - string: MeripoName397
+  795:
+  - string: Meripo 397 help text.
+  796:
+  - string: MeripoName398
+  797:
+  - string: Meripo 398 help text.
+  798:
+  - string: MeripoName399
+  799:
+  - string: Meripo 399 help text.
+  800:
+  - string: MeripoName400
+  801:
+  - string: Meripo 400 help text.
+  802:
+  - string: MeripoName401
+  803:
+  - string: Meripo 401 help text.
+  804:
+  - string: MeripoName402
+  805:
+  - string: Meripo 402 help text.
+  806:
+  - string: MeripoName403
+  807:
+  - string: Meripo 403 help text.
+  808:
+  - string: MeripoName404
+  809:
+  - string: Meripo 404 help text.
+  810:
+  - string: MeripoName405
+  811:
+  - string: Meripo 405 help text.
+  812:
+  - string: MeripoName406
+  813:
+  - string: Meripo 406 help text.
+  814:
+  - string: MeripoName407
+  815:
+  - string: Meripo 407 help text.
+  816:
+  - string: MeripoName408
+  817:
+  - string: Meripo 408 help text.
+  818:
+  - string: MeripoName409
+  819:
+  - string: Meripo 409 help text.
+  820:
+  - string: MeripoName410
+  821:
+  - string: Meripo 410 help text.
+  822:
+  - string: MeripoName411
+  823:
+  - string: Meripo 411 help text.
+  824:
+  - string: MeripoName412
+  825:
+  - string: Meripo 412 help text.
+  826:
+  - string: MeripoName413
+  827:
+  - string: Meripo 413 help text.
+  828:
+  - string: MeripoName414
+  829:
+  - string: Meripo 414 help text.
+  830:
+  - string: MeripoName415
+  831:
+  - string: Meripo 415 help text.
+  832:
+  - string: Souleater Recast
+  833:
+  - string: Shorten recast time by 12 seconds.
+  834:
+  - string: Arcane Circle Recast
+  835:
+  - string: Shorten recast time by 10 seconds.
+  836:
+  - string: Last Resort Recast
+  837:
+  - string: Shorten recast time by 10 seconds.
+  838:
+  - string: Last Resort Effect
+  839:
+  - string: Increase attacks by 2 percent, but lower defense by 2 percent.
+  840:
+  - string: Weapon Bash Recast
+  841:
+  - string: Shorten recast time by 6 seconds.
+  842:
+  - string: MeripoName421
+  843:
+  - string: Meripo 421 help text.
+  844:
+  - string: MeripoName422
+  845:
+  - string: Meripo 422 help text.
+  846:
+  - string: MeripoName423
+  847:
+  - string: Meripo 423 help text.
+  848:
+  - string: MeripoName424
+  849:
+  - string: Meripo 424 help text.
+  850:
+  - string: MeripoName425
+  851:
+  - string: Meripo 425 help text.
+  852:
+  - string: MeripoName426
+  853:
+  - string: Meripo 426 help text.
+  854:
+  - string: MeripoName427
+  855:
+  - string: Meripo 427 help text.
+  856:
+  - string: MeripoName428
+  857:
+  - string: Meripo 428 help text.
+  858:
+  - string: MeripoName429
+  859:
+  - string: Meripo 429 help text.
+  860:
+  - string: MeripoName430
+  861:
+  - string: Meripo 430 help text.
+  862:
+  - string: MeripoName431
+  863:
+  - string: Meripo 431 help text.
+  864:
+  - string: MeripoName432
+  865:
+  - string: Meripo 432 help text.
+  866:
+  - string: MeripoName433
+  867:
+  - string: Meripo 433 help text.
+  868:
+  - string: MeripoName434
+  869:
+  - string: Meripo 434 help text.
+  870:
+  - string: MeripoName435
+  871:
+  - string: Meripo 435 help text.
+  872:
+  - string: MeripoName436
+  873:
+  - string: Meripo 436 help text.
+  874:
+  - string: MeripoName437
+  875:
+  - string: Meripo 437 help text.
+  876:
+  - string: MeripoName438
+  877:
+  - string: Meripo 438 help text.
+  878:
+  - string: MeripoName439
+  879:
+  - string: Meripo 439 help text.
+  880:
+  - string: MeripoName440
+  881:
+  - string: Meripo 440 help text.
+  882:
+  - string: MeripoName441
+  883:
+  - string: Meripo 441 help text.
+  884:
+  - string: MeripoName442
+  885:
+  - string: Meripo 442 help text.
+  886:
+  - string: MeripoName443
+  887:
+  - string: Meripo 443 help text.
+  888:
+  - string: MeripoName444
+  889:
+  - string: Meripo 444 help text.
+  890:
+  - string: MeripoName445
+  891:
+  - string: Meripo 445 help text.
+  892:
+  - string: MeripoName446
+  893:
+  - string: Meripo 446 help text.
+  894:
+  - string: MeripoName447
+  895:
+  - string: Meripo 447 help text.
+  896:
+  - string: Killer Effects
+  897:
+  - string: Increase intimidation rate on all killer effects by 1 percent.
+  898:
+  - string: Reward Recast
+  899:
+  - string: Shorten recast time by 3 seconds.
+  900:
+  - string: Call Beast Recast
+  901:
+  - string: Shorten recast time by 10 seconds.
+  902:
+  - string: Sic Recast
+  903:
+  - string: Shorten recast time for Sic by 2 seconds, and Ready by 1 second.
+  904:
+  - string: Tame Recast
+  905:
+  - string: Shorten recast time by 20 seconds.
+  906:
+  - string: MeripoName453
+  907:
+  - string: Meripo 453 help text.
+  908:
+  - string: MeripoName454
+  909:
+  - string: Meripo 454 help text.
+  910:
+  - string: MeripoName455
+  911:
+  - string: Meripo 455 help text.
+  912:
+  - string: MeripoName456
+  913:
+  - string: Meripo 456 help text.
+  914:
+  - string: MeripoName457
+  915:
+  - string: Meripo 457 help text.
+  916:
+  - string: MeripoName458
+  917:
+  - string: Meripo 458 help text.
+  918:
+  - string: MeripoName459
+  919:
+  - string: Meripo 459 help text.
+  920:
+  - string: MeripoName460
+  921:
+  - string: Meripo 460 help text.
+  922:
+  - string: MeripoName461
+  923:
+  - string: Meripo 461 help text.
+  924:
+  - string: MeripoName462
+  925:
+  - string: Meripo 462 help text.
+  926:
+  - string: MeripoName463
+  927:
+  - string: Meripo 463 help text.
+  928:
+  - string: MeripoName464
+  929:
+  - string: Meripo 464 help text.
+  930:
+  - string: MeripoName465
+  931:
+  - string: Meripo 465 help text.
+  932:
+  - string: MeripoName466
+  933:
+  - string: Meripo 466 help text.
+  934:
+  - string: MeripoName467
+  935:
+  - string: Meripo 467 help text.
+  936:
+  - string: MeripoName468
+  937:
+  - string: Meripo 468 help text.
+  938:
+  - string: MeripoName469
+  939:
+  - string: Meripo 469 help text.
+  940:
+  - string: MeripoName470
+  941:
+  - string: Meripo 470 help text.
+  942:
+  - string: MeripoName471
+  943:
+  - string: Meripo 471 help text.
+  944:
+  - string: MeripoName472
+  945:
+  - string: Meripo 472 help text.
+  946:
+  - string: MeripoName473
+  947:
+  - string: Meripo 473 help text.
+  948:
+  - string: MeripoName474
+  949:
+  - string: Meripo 474 help text.
+  950:
+  - string: MeripoName475
+  951:
+  - string: Meripo 475 help text.
+  952:
+  - string: MeripoName476
+  953:
+  - string: Meripo 476 help text.
+  954:
+  - string: MeripoName477
+  955:
+  - string: Meripo 477 help text.
+  956:
+  - string: MeripoName478
+  957:
+  - string: Meripo 478 help text.
+  958:
+  - string: MeripoName479
+  959:
+  - string: Meripo 479 help text.
+  960:
+  - string: Lullaby Recast
+  961:
+  - string: Shorten recast time by 1 second.
+  962:
+  - string: Finale Recast
+  963:
+  - string: Shorten recast time by 1 second.
+  964:
+  - string: Minne Effect
+  965:
+  - string: Increase defense enhancement by 2.
+  966:
+  - string: Minuet Effect
+  967:
+  - string: Increase attack enhancement by 1.
+  968:
+  - string: Madrigal Effect
+  969:
+  - string: Increase melee accuracy enhancement by 1.
+  970:
+  - string: MeripoName485
+  971:
+  - string: Meripo 485 help text.
+  972:
+  - string: MeripoName486
+  973:
+  - string: Meripo 486 help text.
+  974:
+  - string: MeripoName487
+  975:
+  - string: Meripo 487 help text.
+  976:
+  - string: MeripoName488
+  977:
+  - string: Meripo 488 help text.
+  978:
+  - string: MeripoName489
+  979:
+  - string: Meripo 489 help text.
+  980:
+  - string: MeripoName490
+  981:
+  - string: Meripo 490 help text.
+  982:
+  - string: MeripoName491
+  983:
+  - string: Meripo 491 help text.
+  984:
+  - string: MeripoName492
+  985:
+  - string: Meripo 492 help text.
+  986:
+  - string: MeripoName493
+  987:
+  - string: Meripo 493 help text.
+  988:
+  - string: MeripoName494
+  989:
+  - string: Meripo 494 help text.
+  990:
+  - string: MeripoName495
+  991:
+  - string: Meripo 495 help text.
+  992:
+  - string: MeripoName496
+  993:
+  - string: Meripo 496 help text.
+  994:
+  - string: MeripoName497
+  995:
+  - string: Meripo 497 help text.
+  996:
+  - string: MeripoName498
+  997:
+  - string: Meripo 498 help text.
+  998:
+  - string: MeripoName499
+  999:
+  - string: Meripo 499 help text.
+  1000:
+  - string: MeripoName500
+  1001:
+  - string: Meripo 500 help text.
+  1002:
+  - string: MeripoName501
+  1003:
+  - string: Meripo 501 help text.
+  1004:
+  - string: MeripoName502
+  1005:
+  - string: Meripo 502 help text.
+  1006:
+  - string: MeripoName503
+  1007:
+  - string: Meripo 503 help text.
+  1008:
+  - string: MeripoName504
+  1009:
+  - string: Meripo 504 help text.
+  1010:
+  - string: MeripoName505
+  1011:
+  - string: Meripo 505 help text.
+  1012:
+  - string: MeripoName506
+  1013:
+  - string: Meripo 506 help text.
+  1014:
+  - string: MeripoName507
+  1015:
+  - string: Meripo 507 help text.
+  1016:
+  - string: MeripoName508
+  1017:
+  - string: Meripo 508 help text.
+  1018:
+  - string: MeripoName509
+  1019:
+  - string: Meripo 509 help text.
+  1020:
+  - string: MeripoName510
+  1021:
+  - string: Meripo 510 help text.
+  1022:
+  - string: MeripoName511
+  1023:
+  - string: Meripo 511 help text.
+  1024:
+  - string: Scavenge Effect
+  1025:
+  - string: Increase the chance of finding ammunition by 5 percent.
+  1026:
+  - string: Camouflage Recast
+  1027:
+  - string: Shorten recast time by 10 seconds.
+  1028:
+  - string: Sharpshot Recast
+  1029:
+  - string: Shorten recast time by 10 seconds.
+  1030:
+  - string: Unlimited Shot Recast
+  1031:
+  - string: Shorten recast time by 6 seconds.
+  1032:
+  - string: Rapid Shot Rate
+  1033:
+  - string: Increase rapid shot rate by 1 percent.
+  1034:
+  - string: MeripoName517
+  1035:
+  - string: Meripo 517 help text.
+  1036:
+  - string: MeripoName518
+  1037:
+  - string: Meripo 518 help text.
+  1038:
+  - string: MeripoName519
+  1039:
+  - string: Meripo 519 help text.
+  1040:
+  - string: MeripoName520
+  1041:
+  - string: Meripo 520 help text.
+  1042:
+  - string: MeripoName521
+  1043:
+  - string: Meripo 521 help text.
+  1044:
+  - string: MeripoName522
+  1045:
+  - string: Meripo 522 help text.
+  1046:
+  - string: MeripoName523
+  1047:
+  - string: Meripo 523 help text.
+  1048:
+  - string: MeripoName524
+  1049:
+  - string: Meripo 524 help text.
+  1050:
+  - string: MeripoName525
+  1051:
+  - string: Meripo 525 help text.
+  1052:
+  - string: MeripoName526
+  1053:
+  - string: Meripo 526 help text.
+  1054:
+  - string: MeripoName527
+  1055:
+  - string: Meripo 527 help text.
+  1056:
+  - string: MeripoName528
+  1057:
+  - string: Meripo 528 help text.
+  1058:
+  - string: MeripoName529
+  1059:
+  - string: Meripo 529 help text.
+  1060:
+  - string: MeripoName530
+  1061:
+  - string: Meripo 530 help text.
+  1062:
+  - string: MeripoName531
+  1063:
+  - string: Meripo 531 help text.
+  1064:
+  - string: MeripoName532
+  1065:
+  - string: Meripo 532 help text.
+  1066:
+  - string: MeripoName533
+  1067:
+  - string: Meripo 533 help text.
+  1068:
+  - string: MeripoName534
+  1069:
+  - string: Meripo 534 help text.
+  1070:
+  - string: MeripoName535
+  1071:
+  - string: Meripo 535 help text.
+  1072:
+  - string: MeripoName536
+  1073:
+  - string: Meripo 536 help text.
+  1074:
+  - string: MeripoName537
+  1075:
+  - string: Meripo 537 help text.
+  1076:
+  - string: MeripoName538
+  1077:
+  - string: Meripo 538 help text.
+  1078:
+  - string: MeripoName539
+  1079:
+  - string: Meripo 539 help text.
+  1080:
+  - string: MeripoName540
+  1081:
+  - string: Meripo 540 help text.
+  1082:
+  - string: MeripoName541
+  1083:
+  - string: Meripo 541 help text.
+  1084:
+  - string: MeripoName542
+  1085:
+  - string: Meripo 542 help text.
+  1086:
+  - string: MeripoName543
+  1087:
+  - string: Meripo 543 help text.
+  1088:
+  - string: Third Eye Recast
+  1089:
+  - string: Shorten recast time by 2 seconds.
+  1090:
+  - string: Warding Circle Recast
+  1091:
+  - string: Shorten recast time by 10 seconds.
+  1092:
+  - string: Store TP Effect
+  1093:
+  - string: Increase amount of TP stored by 2.
+  1094:
+  - string: Meditate Recast
+  1095:
+  - string: Shorten recast time by 6 seconds.
+  1096:
+  - string: Zanshin Attack Rate
+  1097:
+  - string: Increase Zanshin attack rate by 1 percent.
+  1098:
+  - string: MeripoName549
+  1099:
+  - string: Meripo 549 help text.
+  1100:
+  - string: MeripoName550
+  1101:
+  - string: Meripo 550 help text.
+  1102:
+  - string: MeripoName551
+  1103:
+  - string: Meripo 551 help text.
+  1104:
+  - string: MeripoName552
+  1105:
+  - string: Meripo 552 help text.
+  1106:
+  - string: MeripoName553
+  1107:
+  - string: Meripo 553 help text.
+  1108:
+  - string: MeripoName554
+  1109:
+  - string: Meripo 554 help text.
+  1110:
+  - string: MeripoName555
+  1111:
+  - string: Meripo 555 help text.
+  1112:
+  - string: MeripoName556
+  1113:
+  - string: Meripo 556 help text.
+  1114:
+  - string: MeripoName557
+  1115:
+  - string: Meripo 557 help text.
+  1116:
+  - string: MeripoName558
+  1117:
+  - string: Meripo 558 help text.
+  1118:
+  - string: MeripoName559
+  1119:
+  - string: Meripo 559 help text.
+  1120:
+  - string: MeripoName560
+  1121:
+  - string: Meripo 560 help text.
+  1122:
+  - string: MeripoName561
+  1123:
+  - string: Meripo 561 help text.
+  1124:
+  - string: MeripoName562
+  1125:
+  - string: Meripo 562 help text.
+  1126:
+  - string: MeripoName563
+  1127:
+  - string: Meripo 563 help text.
+  1128:
+  - string: MeripoName564
+  1129:
+  - string: Meripo 564 help text.
+  1130:
+  - string: MeripoName565
+  1131:
+  - string: Meripo 565 help text.
+  1132:
+  - string: MeripoName566
+  1133:
+  - string: Meripo 566 help text.
+  1134:
+  - string: MeripoName567
+  1135:
+  - string: Meripo 567 help text.
+  1136:
+  - string: MeripoName568
+  1137:
+  - string: Meripo 568 help text.
+  1138:
+  - string: MeripoName569
+  1139:
+  - string: Meripo 569 help text.
+  1140:
+  - string: MeripoName570
+  1141:
+  - string: Meripo 570 help text.
+  1142:
+  - string: MeripoName571
+  1143:
+  - string: Meripo 571 help text.
+  1144:
+  - string: MeripoName572
+  1145:
+  - string: Meripo 572 help text.
+  1146:
+  - string: MeripoName573
+  1147:
+  - string: Meripo 573 help text.
+  1148:
+  - string: MeripoName574
+  1149:
+  - string: Meripo 574 help text.
+  1150:
+  - string: MeripoName575
+  1151:
+  - string: Meripo 575 help text.
+  1152:
+  - string: Subtle Blow Effect
+  1153:
+  - string: Increase subtle blow effect by 1.
+  1154:
+  - string: Katon Effect
+  1155:
+  - string: Increase damage by 2, and length of water resistance down effect by 2 seconds.
+  1156:
+  - string: Hyoton Effect
+  1157:
+  - string: Increase damage by 2, and length of fire resistance down effect by 2 seconds.
+  1158:
+  - string: Huton Effect
+  1159:
+  - string: Increase damage by 2, and length of ice resistance down effect by 2 seconds.
+  1160:
+  - string: Doton Effect
+  1161:
+  - string: Increase damage by 2, and length of wind resistance down effect by 2 seconds.
+  1162:
+  - string: Raiton Effect
+  1163:
+  - string: Increase damage by 2, and length of earth resistance down effect by 2 seconds.
+  1164:
+  - string: Suiton Effect
+  1165:
+  - string: Increase damage by 2, and length of ltng. resistance down effect by 2 seconds.
+  1166:
+  - string: MeripoName583
+  1167:
+  - string: Meripo 583 help text.
+  1168:
+  - string: MeripoName584
+  1169:
+  - string: Meripo 584 help text.
+  1170:
+  - string: MeripoName585
+  1171:
+  - string: Meripo 585 help text.
+  1172:
+  - string: MeripoName586
+  1173:
+  - string: Meripo 586 help text.
+  1174:
+  - string: MeripoName587
+  1175:
+  - string: Meripo 587 help text.
+  1176:
+  - string: MeripoName588
+  1177:
+  - string: Meripo 588 help text.
+  1178:
+  - string: MeripoName589
+  1179:
+  - string: Meripo 589 help text.
+  1180:
+  - string: MeripoName590
+  1181:
+  - string: Meripo 590 help text.
+  1182:
+  - string: MeripoName591
+  1183:
+  - string: Meripo 591 help text.
+  1184:
+  - string: MeripoName592
+  1185:
+  - string: Meripo 592 help text.
+  1186:
+  - string: MeripoName593
+  1187:
+  - string: Meripo 593 help text.
+  1188:
+  - string: MeripoName594
+  1189:
+  - string: Meripo 594 help text.
+  1190:
+  - string: MeripoName595
+  1191:
+  - string: Meripo 595 help text.
+  1192:
+  - string: MeripoName596
+  1193:
+  - string: Meripo 596 help text.
+  1194:
+  - string: MeripoName597
+  1195:
+  - string: Meripo 597 help text.
+  1196:
+  - string: MeripoName598
+  1197:
+  - string: Meripo 598 help text.
+  1198:
+  - string: MeripoName599
+  1199:
+  - string: Meripo 599 help text.
+  1200:
+  - string: MeripoName600
+  1201:
+  - string: Meripo 600 help text.
+  1202:
+  - string: MeripoName601
+  1203:
+  - string: Meripo 601 help text.
+  1204:
+  - string: MeripoName602
+  1205:
+  - string: Meripo 602 help text.
+  1206:
+  - string: MeripoName603
+  1207:
+  - string: Meripo 603 help text.
+  1208:
+  - string: MeripoName604
+  1209:
+  - string: Meripo 604 help text.
+  1210:
+  - string: MeripoName605
+  1211:
+  - string: Meripo 605 help text.
+  1212:
+  - string: MeripoName606
+  1213:
+  - string: Meripo 606 help text.
+  1214:
+  - string: MeripoName607
+  1215:
+  - string: Meripo 607 help text.
+  1216:
+  - string: Ancient Circle Recast
+  1217:
+  - string: Shorten recast time by 10 seconds.
+  1218:
+  - string: Jump Recast
+  1219:
+  - string: Shorten recast time by 2 seconds.
+  1220:
+  - string: High Jump Recast
+  1221:
+  - string: Shorten recast time by 4 seconds.
+  1222:
+  - string: Super Jump Recast
+  1223:
+  - string: Shorten recast time by 6 seconds.
+  1224:
+  - string: Spirit Link Recast
+  1225:
+  - string: Shorten recast time by 3 seconds.
+  1226:
+  - string: MeripoName613
+  1227:
+  - string: Meripo 613 help text.
+  1228:
+  - string: MeripoName614
+  1229:
+  - string: Meripo 614 help text.
+  1230:
+  - string: MeripoName615
+  1231:
+  - string: Meripo 615 help text.
+  1232:
+  - string: MeripoName616
+  1233:
+  - string: Meripo 616 help text.
+  1234:
+  - string: MeripoName617
+  1235:
+  - string: Meripo 617 help text.
+  1236:
+  - string: MeripoName618
+  1237:
+  - string: Meripo 618 help text.
+  1238:
+  - string: MeripoName619
+  1239:
+  - string: Meripo 619 help text.
+  1240:
+  - string: MeripoName620
+  1241:
+  - string: Meripo 620 help text.
+  1242:
+  - string: MeripoName621
+  1243:
+  - string: Meripo 621 help text.
+  1244:
+  - string: MeripoName622
+  1245:
+  - string: Meripo 622 help text.
+  1246:
+  - string: MeripoName623
+  1247:
+  - string: Meripo 623 help text.
+  1248:
+  - string: MeripoName624
+  1249:
+  - string: Meripo 624 help text.
+  1250:
+  - string: MeripoName625
+  1251:
+  - string: Meripo 625 help text.
+  1252:
+  - string: MeripoName626
+  1253:
+  - string: Meripo 626 help text.
+  1254:
+  - string: MeripoName627
+  1255:
+  - string: Meripo 627 help text.
+  1256:
+  - string: MeripoName628
+  1257:
+  - string: Meripo 628 help text.
+  1258:
+  - string: MeripoName629
+  1259:
+  - string: Meripo 629 help text.
+  1260:
+  - string: MeripoName630
+  1261:
+  - string: Meripo 630 help text.
+  1262:
+  - string: MeripoName631
+  1263:
+  - string: Meripo 631 help text.
+  1264:
+  - string: MeripoName632
+  1265:
+  - string: Meripo 632 help text.
+  1266:
+  - string: MeripoName633
+  1267:
+  - string: Meripo 633 help text.
+  1268:
+  - string: MeripoName634
+  1269:
+  - string: Meripo 634 help text.
+  1270:
+  - string: MeripoName635
+  1271:
+  - string: Meripo 635 help text.
+  1272:
+  - string: MeripoName636
+  1273:
+  - string: Meripo 636 help text.
+  1274:
+  - string: MeripoName637
+  1275:
+  - string: Meripo 637 help text.
+  1276:
+  - string: MeripoName638
+  1277:
+  - string: Meripo 638 help text.
+  1278:
+  - string: MeripoName639
+  1279:
+  - string: Meripo 639 help text.
+  1280:
+  - string: Avatar Physical Accuracy
+  1281:
+  - string: Increase avatars' physical accuracy by 3.
+  1282:
+  - string: Avatar Physical Attack
+  1283:
+  - string: Increase avatars' physical attacks by 2.
+  1284:
+  - string: Avatar Magical Accuracy
+  1285:
+  - string: Increase avatars' magical accuracy by 3.
+  1286:
+  - string: Avatar Magical Attack
+  1287:
+  - string: Increase avatars' magical attacks by 2.
+  1288:
+  - string: Elemental MP Cost
+  1289:
+  - string: -1 elemental perpetuation cost per upgrade
+  1290:
+  - string: MeripoName645
+  1291:
+  - string: Meripo 645 help text.
+  1292:
+  - string: MeripoName646
+  1293:
+  - string: Meripo 646 help text.
+  1294:
+  - string: MeripoName647
+  1295:
+  - string: Meripo 647 help text.
+  1296:
+  - string: MeripoName648
+  1297:
+  - string: Meripo 648 help text.
+  1298:
+  - string: MeripoName649
+  1299:
+  - string: Meripo 649 help text.
+  1300:
+  - string: MeripoName650
+  1301:
+  - string: Meripo 650 help text.
+  1302:
+  - string: MeripoName651
+  1303:
+  - string: Meripo 651 help text.
+  1304:
+  - string: MeripoName652
+  1305:
+  - string: Meripo 652 help text.
+  1306:
+  - string: MeripoName653
+  1307:
+  - string: Meripo 653 help text.
+  1308:
+  - string: MeripoName654
+  1309:
+  - string: Meripo 654 help text.
+  1310:
+  - string: MeripoName655
+  1311:
+  - string: Meripo 655 help text.
+  1312:
+  - string: MeripoName656
+  1313:
+  - string: Meripo 656 help text.
+  1314:
+  - string: MeripoName657
+  1315:
+  - string: Meripo 657 help text.
+  1316:
+  - string: MeripoName658
+  1317:
+  - string: Meripo 658 help text.
+  1318:
+  - string: MeripoName659
+  1319:
+  - string: Meripo 659 help text.
+  1320:
+  - string: MeripoName660
+  1321:
+  - string: Meripo 660 help text.
+  1322:
+  - string: MeripoName661
+  1323:
+  - string: Meripo 661 help text.
+  1324:
+  - string: MeripoName662
+  1325:
+  - string: Meripo 662 help text.
+  1326:
+  - string: MeripoName663
+  1327:
+  - string: Meripo 663 help text.
+  1328:
+  - string: MeripoName664
+  1329:
+  - string: Meripo 664 help text.
+  1330:
+  - string: MeripoName665
+  1331:
+  - string: Meripo 665 help text.
+  1332:
+  - string: MeripoName666
+  1333:
+  - string: Meripo 666 help text.
+  1334:
+  - string: MeripoName667
+  1335:
+  - string: Meripo 667 help text.
+  1336:
+  - string: MeripoName668
+  1337:
+  - string: Meripo 668 help text.
+  1338:
+  - string: MeripoName669
+  1339:
+  - string: Meripo 669 help text.
+  1340:
+  - string: MeripoName670
+  1341:
+  - string: Meripo 670 help text.
+  1342:
+  - string: MeripoName671
+  1343:
+  - string: Meripo 671 help text.
+  1344:
+  - string: Chain Affinity Recast
+  1345:
+  - string: Shorten recast time by 4 seconds.
+  1346:
+  - string: Burst Affinity Recast
+  1347:
+  - string: Shorten recast time by 4 seconds.
+  1348:
+  - string: Monster Correlation
+  1349:
+  - string: Increase monster family related effects by 1.
+  1350:
+  - string: Physical Potency
+  1351:
+  - string: Increase the potency of physical blue magic spells by 2.
+  1352:
+  - string: Magical Accuracy
+  1353:
+  - string: Increase the accuracy of magical blue magic spells by 2.
+  1354:
+  - string: MeripoName677
+  1355:
+  - string: Meripo 677 help text.
+  1356:
+  - string: MeripoName678
+  1357:
+  - string: Meripo 678 help text.
+  1358:
+  - string: MeripoName679
+  1359:
+  - string: Meripo 679 help text.
+  1360:
+  - string: MeripoName680
+  1361:
+  - string: Meripo 680 help text.
+  1362:
+  - string: MeripoName681
+  1363:
+  - string: Meripo 681 help text.
+  1364:
+  - string: MeripoName682
+  1365:
+  - string: Meripo 682 help text.
+  1366:
+  - string: MeripoName683
+  1367:
+  - string: Meripo 683 help text.
+  1368:
+  - string: MeripoName684
+  1369:
+  - string: Meripo 684 help text.
+  1370:
+  - string: MeripoName685
+  1371:
+  - string: Meripo 685 help text.
+  1372:
+  - string: MeripoName686
+  1373:
+  - string: Meripo 686 help text.
+  1374:
+  - string: MeripoName687
+  1375:
+  - string: Meripo 687 help text.
+  1376:
+  - string: MeripoName688
+  1377:
+  - string: Meripo 688 help text.
+  1378:
+  - string: MeripoName689
+  1379:
+  - string: Meripo 689 help text.
+  1380:
+  - string: MeripoName690
+  1381:
+  - string: Meripo 690 help text.
+  1382:
+  - string: MeripoName691
+  1383:
+  - string: Meripo 691 help text.
+  1384:
+  - string: MeripoName692
+  1385:
+  - string: Meripo 692 help text.
+  1386:
+  - string: MeripoName693
+  1387:
+  - string: Meripo 693 help text.
+  1388:
+  - string: MeripoName694
+  1389:
+  - string: Meripo 694 help text.
+  1390:
+  - string: MeripoName695
+  1391:
+  - string: Meripo 695 help text.
+  1392:
+  - string: MeripoName696
+  1393:
+  - string: Meripo 696 help text.
+  1394:
+  - string: MeripoName697
+  1395:
+  - string: Meripo 697 help text.
+  1396:
+  - string: MeripoName698
+  1397:
+  - string: Meripo 698 help text.
+  1398:
+  - string: MeripoName699
+  1399:
+  - string: Meripo 699 help text.
+  1400:
+  - string: MeripoName700
+  1401:
+  - string: Meripo 700 help text.
+  1402:
+  - string: MeripoName701
+  1403:
+  - string: Meripo 701 help text.
+  1404:
+  - string: MeripoName702
+  1405:
+  - string: Meripo 702 help text.
+  1406:
+  - string: MeripoName703
+  1407:
+  - string: Meripo 703 help text.
+  1408:
+  - string: Phantom Roll Recast
+  1409:
+  - string: Shorten recast time by 2 seconds.
+  1410:
+  - string: Quick Draw Recast
+  1411:
+  - string: Shorten recast time by 2 seconds.
+  1412:
+  - string: Quick Draw Accuracy
+  1413:
+  - string: Increase the accuracy of Quick Draw by 2.
+  1414:
+  - string: Random Deal Recast
+  1415:
+  - string: Shorten recast time by 40 seconds.
+  1416:
+  - string: Bust Duration
+  1417:
+  - string: Shorten the duration of the Bust penalty by 10 seconds.
+  1418:
+  - string: MeripoName709
+  1419:
+  - string: Meripo 709 help text.
+  1420:
+  - string: MeripoName710
+  1421:
+  - string: Meripo 710 help text.
+  1422:
+  - string: MeripoName711
+  1423:
+  - string: Meripo 711 help text.
+  1424:
+  - string: MeripoName712
+  1425:
+  - string: Meripo 712 help text.
+  1426:
+  - string: MeripoName713
+  1427:
+  - string: Meripo 713 help text.
+  1428:
+  - string: MeripoName714
+  1429:
+  - string: Meripo 714 help text.
+  1430:
+  - string: MeripoName715
+  1431:
+  - string: Meripo 715 help text.
+  1432:
+  - string: MeripoName716
+  1433:
+  - string: Meripo 716 help text.
+  1434:
+  - string: MeripoName717
+  1435:
+  - string: Meripo 717 help text.
+  1436:
+  - string: MeripoName718
+  1437:
+  - string: Meripo 718 help text.
+  1438:
+  - string: MeripoName719
+  1439:
+  - string: Meripo 719 help text.
+  1440:
+  - string: MeripoName720
+  1441:
+  - string: Meripo 720 help text.
+  1442:
+  - string: MeripoName721
+  1443:
+  - string: Meripo 721 help text.
+  1444:
+  - string: MeripoName722
+  1445:
+  - string: Meripo 722 help text.
+  1446:
+  - string: MeripoName723
+  1447:
+  - string: Meripo 723 help text.
+  1448:
+  - string: MeripoName724
+  1449:
+  - string: Meripo 724 help text.
+  1450:
+  - string: MeripoName725
+  1451:
+  - string: Meripo 725 help text.
+  1452:
+  - string: MeripoName726
+  1453:
+  - string: Meripo 726 help text.
+  1454:
+  - string: MeripoName727
+  1455:
+  - string: Meripo 727 help text.
+  1456:
+  - string: MeripoName728
+  1457:
+  - string: Meripo 728 help text.
+  1458:
+  - string: MeripoName729
+  1459:
+  - string: Meripo 729 help text.
+  1460:
+  - string: MeripoName730
+  1461:
+  - string: Meripo 730 help text.
+  1462:
+  - string: MeripoName731
+  1463:
+  - string: Meripo 731 help text.
+  1464:
+  - string: MeripoName732
+  1465:
+  - string: Meripo 732 help text.
+  1466:
+  - string: MeripoName733
+  1467:
+  - string: Meripo 733 help text.
+  1468:
+  - string: MeripoName734
+  1469:
+  - string: Meripo 734 help text.
+  1470:
+  - string: MeripoName735
+  1471:
+  - string: Meripo 735 help text.
+  1472:
+  - string: Automaton Melee Skill
+  1473:
+  - string: Adjust automaton melee skill by 2 points.
+  1474:
+  - string: Automaton Ranged Skill
+  1475:
+  - string: Adjust automaton ranged skill by 2 points.
+  1476:
+  - string: Automaton Magic Skill
+  1477:
+  - string: Adjust automaton melee skill by 2 points.
+  1478:
+  - string: Activate Recast
+  1479:
+  - string: Shorten recast time by 40 seconds.
+  1480:
+  - string: Repair Recast
+  1481:
+  - string: Shorten recast time by 6 seconds.
+  1482:
+  - string: MeripoName741
+  1483:
+  - string: Meripo 741 help text.
+  1484:
+  - string: MeripoName742
+  1485:
+  - string: Meripo 742 help text.
+  1486:
+  - string: MeripoName743
+  1487:
+  - string: Meripo 743 help text.
+  1488:
+  - string: MeripoName744
+  1489:
+  - string: Meripo 744 help text.
+  1490:
+  - string: MeripoName745
+  1491:
+  - string: Meripo 745 help text.
+  1492:
+  - string: MeripoName746
+  1493:
+  - string: Meripo 746 help text.
+  1494:
+  - string: MeripoName747
+  1495:
+  - string: Meripo 747 help text.
+  1496:
+  - string: MeripoName748
+  1497:
+  - string: Meripo 748 help text.
+  1498:
+  - string: MeripoName749
+  1499:
+  - string: Meripo 749 help text.
+  1500:
+  - string: MeripoName750
+  1501:
+  - string: Meripo 750 help text.
+  1502:
+  - string: MeripoName751
+  1503:
+  - string: Meripo 751 help text.
+  1504:
+  - string: MeripoName752
+  1505:
+  - string: Meripo 752 help text.
+  1506:
+  - string: MeripoName753
+  1507:
+  - string: Meripo 753 help text.
+  1508:
+  - string: MeripoName754
+  1509:
+  - string: Meripo 754 help text.
+  1510:
+  - string: MeripoName755
+  1511:
+  - string: Meripo 755 help text.
+  1512:
+  - string: MeripoName756
+  1513:
+  - string: Meripo 756 help text.
+  1514:
+  - string: MeripoName757
+  1515:
+  - string: Meripo 757 help text.
+  1516:
+  - string: MeripoName758
+  1517:
+  - string: Meripo 758 help text.
+  1518:
+  - string: MeripoName759
+  1519:
+  - string: Meripo 759 help text.
+  1520:
+  - string: MeripoName760
+  1521:
+  - string: Meripo 760 help text.
+  1522:
+  - string: MeripoName761
+  1523:
+  - string: Meripo 761 help text.
+  1524:
+  - string: MeripoName762
+  1525:
+  - string: Meripo 762 help text.
+  1526:
+  - string: MeripoName763
+  1527:
+  - string: Meripo 763 help text.
+  1528:
+  - string: MeripoName764
+  1529:
+  - string: Meripo 764 help text.
+  1530:
+  - string: MeripoName765
+  1531:
+  - string: Meripo 765 help text.
+  1532:
+  - string: MeripoName766
+  1533:
+  - string: Meripo 766 help text.
+  1534:
+  - string: MeripoName767
+  1535:
+  - string: Meripo 767 help text.
+  1536:
+  - string: Step Accuracy
+  1537:
+  - string: Increase the accuracy of Steps by 3.
+  1538:
+  - string: Haste Samba Effect
+  1539:
+  - string: Increase the effect of Haste Samba by 1.
+  1540:
+  - string: Reverse Flourish Effect
+  1541:
+  - string: Increase TP gained via Reverse Flourish by 30.
+  1542:
+  - string: Building Flourish Effect
+  1543:
+  - string: Increase Building Flourish accuracy by 2, attack power by 1%, and critical hit rating by 1%.
+  1544:
+  - string: MeripoName772
+  1545:
+  - string: Meripo 772 help text.
+  1546:
+  - string: MeripoName773
+  1547:
+  - string: Meripo 773 help text.
+  1548:
+  - string: MeripoName774
+  1549:
+  - string: Meripo 774 help text.
+  1550:
+  - string: MeripoName775
+  1551:
+  - string: Meripo 775 help text.
+  1552:
+  - string: MeripoName776
+  1553:
+  - string: Meripo 776 help text.
+  1554:
+  - string: MeripoName777
+  1555:
+  - string: Meripo 777 help text.
+  1556:
+  - string: MeripoName778
+  1557:
+  - string: Meripo 778 help text.
+  1558:
+  - string: MeripoName779
+  1559:
+  - string: Meripo 779 help text.
+  1560:
+  - string: MeripoName780
+  1561:
+  - string: Meripo 780 help text.
+  1562:
+  - string: MeripoName781
+  1563:
+  - string: Meripo 781 help text.
+  1564:
+  - string: MeripoName782
+  1565:
+  - string: Meripo 782 help text.
+  1566:
+  - string: MeripoName783
+  1567:
+  - string: Meripo 783 help text.
+  1568:
+  - string: MeripoName784
+  1569:
+  - string: Meripo 784 help text.
+  1570:
+  - string: MeripoName785
+  1571:
+  - string: Meripo 785 help text.
+  1572:
+  - string: MeripoName786
+  1573:
+  - string: Meripo 786 help text.
+  1574:
+  - string: MeripoName787
+  1575:
+  - string: Meripo 787 help text.
+  1576:
+  - string: MeripoName788
+  1577:
+  - string: Meripo 788 help text.
+  1578:
+  - string: MeripoName789
+  1579:
+  - string: Meripo 789 help text.
+  1580:
+  - string: MeripoName790
+  1581:
+  - string: Meripo 790 help text.
+  1582:
+  - string: MeripoName791
+  1583:
+  - string: Meripo 791 help text.
+  1584:
+  - string: MeripoName792
+  1585:
+  - string: Meripo 792 help text.
+  1586:
+  - string: MeripoName793
+  1587:
+  - string: Meripo 793 help text.
+  1588:
+  - string: MeripoName794
+  1589:
+  - string: Meripo 794 help text.
+  1590:
+  - string: MeripoName795
+  1591:
+  - string: Meripo 795 help text.
+  1592:
+  - string: MeripoName796
+  1593:
+  - string: Meripo 796 help text.
+  1594:
+  - string: MeripoName797
+  1595:
+  - string: Meripo 797 help text.
+  1596:
+  - string: MeripoName798
+  1597:
+  - string: Meripo 798 help text.
+  1598:
+  - string: MeripoName799
+  1599:
+  - string: Meripo 799 help text.
+  1600:
+  - string: Grimoire Recast
+  1601:
+  - string: Shorten recast time of Light Arts and Darks Arts by 2 seconds.
+  1602:
+  - string: Modus Veritas Duration
+  1603:
+  - string: Increase duration of effect for Modus Veritas by 10%.
+  1604:
+  - string: Helix Magic Acc./Atk.
+  1605:
+  - string: Increase magic accuracy by 3 and magic attack bonus by 2 for helix spells.
+  1606:
+  - string: Max Sublimation
+  1607:
+  - string: Increase the maximum amount of MP available via Sublimation by 10.
+  1608:
+  - string: MeripoName804
+  1609:
+  - string: Meripo 804 help text.
+  1610:
+  - string: MeripoName805
+  1611:
+  - string: Meripo 805 help text.
+  1612:
+  - string: MeripoName806
+  1613:
+  - string: Meripo 806 help text.
+  1614:
+  - string: MeripoName807
+  1615:
+  - string: Meripo 807 help text.
+  1616:
+  - string: MeripoName808
+  1617:
+  - string: Meripo 808 help text.
+  1618:
+  - string: MeripoName809
+  1619:
+  - string: Meripo 809 help text.
+  1620:
+  - string: MeripoName810
+  1621:
+  - string: Meripo 810 help text.
+  1622:
+  - string: MeripoName811
+  1623:
+  - string: Meripo 811 help text.
+  1624:
+  - string: MeripoName812
+  1625:
+  - string: Meripo 812 help text.
+  1626:
+  - string: MeripoName813
+  1627:
+  - string: Meripo 813 help text.
+  1628:
+  - string: MeripoName814
+  1629:
+  - string: Meripo 814 help text.
+  1630:
+  - string: MeripoName815
+  1631:
+  - string: Meripo 815 help text.
+  1632:
+  - string: MeripoName816
+  1633:
+  - string: Meripo 816 help text.
+  1634:
+  - string: MeripoName817
+  1635:
+  - string: Meripo 817 help text.
+  1636:
+  - string: MeripoName818
+  1637:
+  - string: Meripo 818 help text.
+  1638:
+  - string: MeripoName819
+  1639:
+  - string: Meripo 819 help text.
+  1640:
+  - string: MeripoName820
+  1641:
+  - string: Meripo 820 help text.
+  1642:
+  - string: MeripoName821
+  1643:
+  - string: Meripo 821 help text.
+  1644:
+  - string: MeripoName822
+  1645:
+  - string: Meripo 822 help text.
+  1646:
+  - string: MeripoName823
+  1647:
+  - string: Meripo 823 help text.
+  1648:
+  - string: MeripoName824
+  1649:
+  - string: Meripo 824 help text.
+  1650:
+  - string: MeripoName825
+  1651:
+  - string: Meripo 825 help text.
+  1652:
+  - string: MeripoName826
+  1653:
+  - string: Meripo 826 help text.
+  1654:
+  - string: MeripoName827
+  1655:
+  - string: Meripo 827 help text.
+  1656:
+  - string: MeripoName828
+  1657:
+  - string: Meripo 828 help text.
+  1658:
+  - string: MeripoName829
+  1659:
+  - string: Meripo 829 help text.
+  1660:
+  - string: MeripoName830
+  1661:
+  - string: Meripo 830 help text.
+  1662:
+  - string: MeripoName831
+  1663:
+  - string: Meripo 831 help text.
+  1664:
+  - string: Shijin Spiral
+  1665:
+  - string: |-
+      Lv.96 MNK/PUP
+      Hand-to-Hand skill 357 or greater.
+      Adjust DEX bonus by 3%.
+  1666:
+  - string: Exenterator
+  1667:
+  - string: |-
+      Lv.96 WAR/RDM/THF/BST/BRD/
+       RNG/NIN/COR/DNC
+      Dagger skill 357 or greater.
+      Adjust AGI bonus by 3%.
+  1668:
+  - string: Requiescat
+  1669:
+  - string: |-
+      Lv.96 WAR/RDM/PLD/DRK/SAM/BLU/COR/RUN
+      Sword skill 357 or greater.
+      Adjust MND bonus by 3%.
+  1670:
+  - string: Resolution
+  1671:
+  - string: |-
+      Lv.96 WAR/PLD/DRK/RUN
+      Great Sword skill 357 or greater.
+      Adjust STR bonus by 3%.
+  1672:
+  - string: Ruinator
+  1673:
+  - string: |-
+      Lv.96 WAR/DRK/BST/RNG/RUN
+      Axe skill 357 or greater.
+      Adjust STR bonus by 3%.
+  1674:
+  - string: Upheaval
+  1675:
+  - string: |-
+      Lv.96 WAR/DRK/RUN
+      Great Axe skill 357 or greater.
+      Adjust VIT bonus by 3%.
+  1676:
+  - string: Entropy
+  1677:
+  - string: |-
+      Lv.96 WAR/DRK/BST
+      Scythe skill 357 or greater.
+      Adjust INT bonus by 3%.
+  1678:
+  - string: Stardiver
+  1679:
+  - string: |-
+      Lv.96 WAR/SAM/DRG
+      Polearm skill 357 or greater.
+      Adjust STR bonus by 3%.
+  1680:
+  - string: 'Blade: Shun'
+  1681:
+  - string: |-
+      Lv.96 NIN
+      Katana skill 357 or greater.
+      Adjust DEX bonus by 3%.
+  1682:
+  - string: 'Tachi: Shoha'
+  1683:
+  - string: |-
+      Lv.96 SAM
+      Great Katana skill 357 or greater.
+      Adjust STR bonus by 3%.
+  1684:
+  - string: Realmrazer
+  1685:
+  - string: |-
+      Lv.96 WAR/MNK/WHM/BLM/PLD/
+       SMN/BLU/SCH/GEO
+      Club skill 357 or greater.
+      Adjust MND bonus by 3%.
+  1686:
+  - string: Shattersoul
+  1687:
+  - string: |-
+      Lv.96 WAR/MNK/WHM/BLM/PLD/
+       BRD/DRG/SMN/SCH/GEO
+      Staff skill 357 or greater.
+      Adjust INT bonus by 3%.
+  1688:
+  - string: Apex Arrow
+  1689:
+  - string: |-
+      Lv.96 RNG/SAM
+      Archery skill 357 or greater.
+      Adjust AGI bonus by 3%.
+  1690:
+  - string: Last Stand
+  1691:
+  - string: |-
+      Lv.96 THF/RNG/COR
+      Marksmanship skill 357 or greater.
+      Adjust AGI bonus by 3%.
+  1692:
+  - string: MeripoName846
+  1693:
+  - string: Meripo 846 help text.
+  1694:
+  - string: MeripoName847
+  1695:
+  - string: Meripo 847 help text.
+  1696:
+  - string: MeripoName848
+  1697:
+  - string: Meripo 848 help text.
+  1698:
+  - string: MeripoName849
+  1699:
+  - string: Meripo 849 help text.
+  1700:
+  - string: MeripoName850
+  1701:
+  - string: Meripo 850 help text.
+  1702:
+  - string: MeripoName851
+  1703:
+  - string: Meripo 851 help text.
+  1704:
+  - string: MeripoName852
+  1705:
+  - string: Meripo 852 help text.
+  1706:
+  - string: MeripoName853
+  1707:
+  - string: Meripo 853 help text.
+  1708:
+  - string: MeripoName854
+  1709:
+  - string: Meripo 854 help text.
+  1710:
+  - string: MeripoName855
+  1711:
+  - string: Meripo 855 help text.
+  1712:
+  - string: MeripoName856
+  1713:
+  - string: Meripo 856 help text.
+  1714:
+  - string: MeripoName857
+  1715:
+  - string: Meripo 857 help text.
+  1716:
+  - string: MeripoName858
+  1717:
+  - string: Meripo 858 help text.
+  1718:
+  - string: MeripoName859
+  1719:
+  - string: Meripo 859 help text.
+  1720:
+  - string: MeripoName860
+  1721:
+  - string: Meripo 860 help text.
+  1722:
+  - string: MeripoName861
+  1723:
+  - string: Meripo 861 help text.
+  1724:
+  - string: MeripoName862
+  1725:
+  - string: Meripo 862 help text.
+  1726:
+  - string: MeripoName863
+  1727:
+  - string: Meripo 863 help text.
+  1728:
+  - string: Full Circle Effect
+  1729:
+  - string: Increase the amount of MP returned by 5 percent.
+  1730:
+  - string: Ecliptic Attrition Recast
+  1731:
+  - string: Shorten recast time of Ecliptic Attrition and Lasting Emanation by 10 seconds.
+  1732:
+  - string: Life Cycle Recast
+  1733:
+  - string: Shorten recast time by 20 seconds.
+  1734:
+  - string: Blaze of Glory Recast
+  1735:
+  - string: Shorten recast time by 20 seconds.
+  1736:
+  - string: Dematerialize Recast
+  1737:
+  - string: Shorten recast time by 20 seconds.
+  1738:
+  - string: MeripoName869
+  1739:
+  - string: Meripo 869 help text.
+  1740:
+  - string: MeripoName870
+  1741:
+  - string: Meripo 870 help text.
+  1742:
+  - string: MeripoName871
+  1743:
+  - string: Meripo 871 help text.
+  1744:
+  - string: MeripoName872
+  1745:
+  - string: Meripo 872 help text.
+  1746:
+  - string: MeripoName873
+  1747:
+  - string: Meripo 873 help text.
+  1748:
+  - string: MeripoName874
+  1749:
+  - string: Meripo 874 help text.
+  1750:
+  - string: MeripoName875
+  1751:
+  - string: Meripo 875 help text.
+  1752:
+  - string: MeripoName876
+  1753:
+  - string: Meripo 876 help text.
+  1754:
+  - string: MeripoName877
+  1755:
+  - string: Meripo 877 help text.
+  1756:
+  - string: MeripoName878
+  1757:
+  - string: Meripo 878 help text.
+  1758:
+  - string: MeripoName879
+  1759:
+  - string: Meripo 879 help text.
+  1760:
+  - string: MeripoName880
+  1761:
+  - string: Meripo 880 help text.
+  1762:
+  - string: MeripoName881
+  1763:
+  - string: Meripo 881 help text.
+  1764:
+  - string: MeripoName882
+  1765:
+  - string: Meripo 882 help text.
+  1766:
+  - string: MeripoName883
+  1767:
+  - string: Meripo 883 help text.
+  1768:
+  - string: MeripoName884
+  1769:
+  - string: Meripo 884 help text.
+  1770:
+  - string: MeripoName885
+  1771:
+  - string: Meripo 885 help text.
+  1772:
+  - string: MeripoName886
+  1773:
+  - string: Meripo 886 help text.
+  1774:
+  - string: MeripoName887
+  1775:
+  - string: Meripo 887 help text.
+  1776:
+  - string: MeripoName888
+  1777:
+  - string: Meripo 888 help text.
+  1778:
+  - string: MeripoName889
+  1779:
+  - string: Meripo 889 help text.
+  1780:
+  - string: MeripoName890
+  1781:
+  - string: Meripo 890 help text.
+  1782:
+  - string: MeripoName891
+  1783:
+  - string: Meripo 891 help text.
+  1784:
+  - string: MeripoName892
+  1785:
+  - string: Meripo 892 help text.
+  1786:
+  - string: MeripoName893
+  1787:
+  - string: Meripo 893 help text.
+  1788:
+  - string: MeripoName894
+  1789:
+  - string: Meripo 894 help text.
+  1790:
+  - string: MeripoName895
+  1791:
+  - string: Meripo 895 help text.
+  1792:
+  - string: Rune Enchantment Effect
+  1793:
+  - string: Increase potency of runes harbored by 2 points.
+  1794:
+  - string: Vallation Effect
+  1795:
+  - string: Add an elemental damage reduction to Vallation and an elemental damage reduction to Valiance of 1 point per harbored rune.
+  1796:
+  - string: Lunge Effect
+  1797:
+  - string: Increase the accuracy of Lunge by 3 points per harbored rune and the accuracy of Swipe by a total of 3.
+  1798:
+  - string: Pflug Effect
+  1799:
+  - string: Enhance the likelihood of resistance activating by 1 point per harbored rune.
+  1800:
+  - string: Gambit Recast
+  1801:
+  - string: Shorten recast time by 10 seconds.
+  1802:
+  - string: MeripoName901
+  1803:
+  - string: Meripo 901 help text.
+  1804:
+  - string: MeripoName902
+  1805:
+  - string: Meripo 902 help text.
+  1806:
+  - string: MeripoName903
+  1807:
+  - string: Meripo 903 help text.
+  1808:
+  - string: MeripoName904
+  1809:
+  - string: Meripo 904 help text.
+  1810:
+  - string: MeripoName905
+  1811:
+  - string: Meripo 905 help text.
+  1812:
+  - string: MeripoName906
+  1813:
+  - string: Meripo 906 help text.
+  1814:
+  - string: MeripoName907
+  1815:
+  - string: Meripo 907 help text.
+  1816:
+  - string: MeripoName908
+  1817:
+  - string: Meripo 908 help text.
+  1818:
+  - string: MeripoName909
+  1819:
+  - string: Meripo 909 help text.
+  1820:
+  - string: MeripoName910
+  1821:
+  - string: Meripo 910 help text.
+  1822:
+  - string: MeripoName911
+  1823:
+  - string: Meripo 911 help text.
+  1824:
+  - string: MeripoName912
+  1825:
+  - string: Meripo 912 help text.
+  1826:
+  - string: MeripoName913
+  1827:
+  - string: Meripo 913 help text.
+  1828:
+  - string: MeripoName914
+  1829:
+  - string: Meripo 914 help text.
+  1830:
+  - string: MeripoName915
+  1831:
+  - string: Meripo 915 help text.
+  1832:
+  - string: MeripoName916
+  1833:
+  - string: Meripo 916 help text.
+  1834:
+  - string: MeripoName917
+  1835:
+  - string: Meripo 917 help text.
+  1836:
+  - string: MeripoName918
+  1837:
+  - string: Meripo 918 help text.
+  1838:
+  - string: MeripoName919
+  1839:
+  - string: Meripo 919 help text.
+  1840:
+  - string: MeripoName920
+  1841:
+  - string: Meripo 920 help text.
+  1842:
+  - string: MeripoName921
+  1843:
+  - string: Meripo 921 help text.
+  1844:
+  - string: MeripoName922
+  1845:
+  - string: Meripo 922 help text.
+  1846:
+  - string: MeripoName923
+  1847:
+  - string: Meripo 923 help text.
+  1848:
+  - string: MeripoName924
+  1849:
+  - string: Meripo 924 help text.
+  1850:
+  - string: MeripoName925
+  1851:
+  - string: Meripo 925 help text.
+  1852:
+  - string: MeripoName926
+  1853:
+  - string: Meripo 926 help text.
+  1854:
+  - string: MeripoName927
+  1855:
+  - string: Meripo 927 help text.
+  1856:
+  - string: MeripoName928
+  1857:
+  - string: Meripo 928 help text.
+  1858:
+  - string: MeripoName929
+  1859:
+  - string: Meripo 929 help text.
+  1860:
+  - string: MeripoName930
+  1861:
+  - string: Meripo 930 help text.
+  1862:
+  - string: MeripoName931
+  1863:
+  - string: Meripo 931 help text.
+  1864:
+  - string: MeripoName932
+  1865:
+  - string: Meripo 932 help text.
+  1866:
+  - string: MeripoName933
+  1867:
+  - string: Meripo 933 help text.
+  1868:
+  - string: MeripoName934
+  1869:
+  - string: Meripo 934 help text.
+  1870:
+  - string: MeripoName935
+  1871:
+  - string: Meripo 935 help text.
+  1872:
+  - string: MeripoName936
+  1873:
+  - string: Meripo 936 help text.
+  1874:
+  - string: MeripoName937
+  1875:
+  - string: Meripo 937 help text.
+  1876:
+  - string: MeripoName938
+  1877:
+  - string: Meripo 938 help text.
+  1878:
+  - string: MeripoName939
+  1879:
+  - string: Meripo 939 help text.
+  1880:
+  - string: MeripoName940
+  1881:
+  - string: Meripo 940 help text.
+  1882:
+  - string: MeripoName941
+  1883:
+  - string: Meripo 941 help text.
+  1884:
+  - string: MeripoName942
+  1885:
+  - string: Meripo 942 help text.
+  1886:
+  - string: MeripoName943
+  1887:
+  - string: Meripo 943 help text.
+  1888:
+  - string: MeripoName944
+  1889:
+  - string: Meripo 944 help text.
+  1890:
+  - string: MeripoName945
+  1891:
+  - string: Meripo 945 help text.
+  1892:
+  - string: MeripoName946
+  1893:
+  - string: Meripo 946 help text.
+  1894:
+  - string: MeripoName947
+  1895:
+  - string: Meripo 947 help text.
+  1896:
+  - string: MeripoName948
+  1897:
+  - string: Meripo 948 help text.
+  1898:
+  - string: MeripoName949
+  1899:
+  - string: Meripo 949 help text.
+  1900:
+  - string: MeripoName950
+  1901:
+  - string: Meripo 950 help text.
+  1902:
+  - string: MeripoName951
+  1903:
+  - string: Meripo 951 help text.
+  1904:
+  - string: MeripoName952
+  1905:
+  - string: Meripo 952 help text.
+  1906:
+  - string: MeripoName953
+  1907:
+  - string: Meripo 953 help text.
+  1908:
+  - string: MeripoName954
+  1909:
+  - string: Meripo 954 help text.
+  1910:
+  - string: MeripoName955
+  1911:
+  - string: Meripo 955 help text.
+  1912:
+  - string: MeripoName956
+  1913:
+  - string: Meripo 956 help text.
+  1914:
+  - string: MeripoName957
+  1915:
+  - string: Meripo 957 help text.
+  1916:
+  - string: MeripoName958
+  1917:
+  - string: Meripo 958 help text.
+  1918:
+  - string: MeripoName959
+  1919:
+  - string: Meripo 959 help text.
+  1920:
+  - string: MeripoName960
+  1921:
+  - string: Meripo 960 help text.
+  1922:
+  - string: MeripoName961
+  1923:
+  - string: Meripo 961 help text.
+  1924:
+  - string: MeripoName962
+  1925:
+  - string: Meripo 962 help text.
+  1926:
+  - string: MeripoName963
+  1927:
+  - string: Meripo 963 help text.
+  1928:
+  - string: MeripoName964
+  1929:
+  - string: Meripo 964 help text.
+  1930:
+  - string: MeripoName965
+  1931:
+  - string: Meripo 965 help text.
+  1932:
+  - string: MeripoName966
+  1933:
+  - string: Meripo 966 help text.
+  1934:
+  - string: MeripoName967
+  1935:
+  - string: Meripo 967 help text.
+  1936:
+  - string: MeripoName968
+  1937:
+  - string: Meripo 968 help text.
+  1938:
+  - string: MeripoName969
+  1939:
+  - string: Meripo 969 help text.
+  1940:
+  - string: MeripoName970
+  1941:
+  - string: Meripo 970 help text.
+  1942:
+  - string: MeripoName971
+  1943:
+  - string: Meripo 971 help text.
+  1944:
+  - string: MeripoName972
+  1945:
+  - string: Meripo 972 help text.
+  1946:
+  - string: MeripoName973
+  1947:
+  - string: Meripo 973 help text.
+  1948:
+  - string: MeripoName974
+  1949:
+  - string: Meripo 974 help text.
+  1950:
+  - string: MeripoName975
+  1951:
+  - string: Meripo 975 help text.
+  1952:
+  - string: MeripoName976
+  1953:
+  - string: Meripo 976 help text.
+  1954:
+  - string: MeripoName977
+  1955:
+  - string: Meripo 977 help text.
+  1956:
+  - string: MeripoName978
+  1957:
+  - string: Meripo 978 help text.
+  1958:
+  - string: MeripoName979
+  1959:
+  - string: Meripo 979 help text.
+  1960:
+  - string: MeripoName980
+  1961:
+  - string: Meripo 980 help text.
+  1962:
+  - string: MeripoName981
+  1963:
+  - string: Meripo 981 help text.
+  1964:
+  - string: MeripoName982
+  1965:
+  - string: Meripo 982 help text.
+  1966:
+  - string: MeripoName983
+  1967:
+  - string: Meripo 983 help text.
+  1968:
+  - string: MeripoName984
+  1969:
+  - string: Meripo 984 help text.
+  1970:
+  - string: MeripoName985
+  1971:
+  - string: Meripo 985 help text.
+  1972:
+  - string: MeripoName986
+  1973:
+  - string: Meripo 986 help text.
+  1974:
+  - string: MeripoName987
+  1975:
+  - string: Meripo 987 help text.
+  1976:
+  - string: MeripoName988
+  1977:
+  - string: Meripo 988 help text.
+  1978:
+  - string: MeripoName989
+  1979:
+  - string: Meripo 989 help text.
+  1980:
+  - string: MeripoName990
+  1981:
+  - string: Meripo 990 help text.
+  1982:
+  - string: MeripoName991
+  1983:
+  - string: Meripo 991 help text.
+  1984:
+  - string: MeripoName992
+  1985:
+  - string: Meripo 992 help text.
+  1986:
+  - string: MeripoName993
+  1987:
+  - string: Meripo 993 help text.
+  1988:
+  - string: MeripoName994
+  1989:
+  - string: Meripo 994 help text.
+  1990:
+  - string: MeripoName995
+  1991:
+  - string: Meripo 995 help text.
+  1992:
+  - string: MeripoName996
+  1993:
+  - string: Meripo 996 help text.
+  1994:
+  - string: MeripoName997
+  1995:
+  - string: Meripo 997 help text.
+  1996:
+  - string: MeripoName998
+  1997:
+  - string: Meripo 998 help text.
+  1998:
+  - string: MeripoName999
+  1999:
+  - string: Meripo 999 help text.
+  2000:
+  - string: MeripoName1000
+  2001:
+  - string: Meripo 1000 help text.
+  2002:
+  - string: MeripoName1001
+  2003:
+  - string: Meripo 1001 help text.
+  2004:
+  - string: MeripoName1002
+  2005:
+  - string: Meripo 1002 help text.
+  2006:
+  - string: MeripoName1003
+  2007:
+  - string: Meripo 1003 help text.
+  2008:
+  - string: MeripoName1004
+  2009:
+  - string: Meripo 1004 help text.
+  2010:
+  - string: MeripoName1005
+  2011:
+  - string: Meripo 1005 help text.
+  2012:
+  - string: MeripoName1006
+  2013:
+  - string: Meripo 1006 help text.
+  2014:
+  - string: MeripoName1007
+  2015:
+  - string: Meripo 1007 help text.
+  2016:
+  - string: MeripoName1008
+  2017:
+  - string: Meripo 1008 help text.
+  2018:
+  - string: MeripoName1009
+  2019:
+  - string: Meripo 1009 help text.
+  2020:
+  - string: MeripoName1010
+  2021:
+  - string: Meripo 1010 help text.
+  2022:
+  - string: MeripoName1011
+  2023:
+  - string: Meripo 1011 help text.
+  2024:
+  - string: MeripoName1012
+  2025:
+  - string: Meripo 1012 help text.
+  2026:
+  - string: MeripoName1013
+  2027:
+  - string: Meripo 1013 help text.
+  2028:
+  - string: MeripoName1014
+  2029:
+  - string: Meripo 1014 help text.
+  2030:
+  - string: MeripoName1015
+  2031:
+  - string: Meripo 1015 help text.
+  2032:
+  - string: MeripoName1016
+  2033:
+  - string: Meripo 1016 help text.
+  2034:
+  - string: MeripoName1017
+  2035:
+  - string: Meripo 1017 help text.
+  2036:
+  - string: MeripoName1018
+  2037:
+  - string: Meripo 1018 help text.
+  2038:
+  - string: MeripoName1019
+  2039:
+  - string: Meripo 1019 help text.
+  2040:
+  - string: MeripoName1020
+  2041:
+  - string: Meripo 1020 help text.
+  2042:
+  - string: MeripoName1021
+  2043:
+  - string: Meripo 1021 help text.
+  2044:
+  - string: MeripoName1022
+  2045:
+  - string: Meripo 1022 help text.
+  2046:
+  - string: MeripoName1023
+  2047:
+  - string: Meripo 1023 help text.
+  2048:
+  - string: Warrior's Charge
+  2049:
+  - string: |-
+      Will double your next attack.
+      Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2050:
+  - string: Tomahawk
+  2051:
+  - string: |-
+      Expends a throwing tomahawk to inflict a special defense down effect on an enemy. Recast: 3min.
+      Increase duration of effect by 15 seconds.
+  2052:
+  - string: Savagery
+  2053:
+  - string: |-
+      Adds TP bonus effect to Warcry.
+      Increase weapon skill TP bonus by 100.
+  2054:
+  - string: Aggressive Aim
+  2055:
+  - string: |-
+      Adds ranged accuracy bonus to Aggressor.
+      Increase ranged accuracy bonus by 4.
+  2056:
+  - string: ''
+  2057:
+  - string: ''
+  2058:
+  - string: ''
+  2059:
+  - string: ''
+  2060:
+  - string: ''
+  2061:
+  - string: ''
+  2062:
+  - string: ''
+  2063:
+  - string: ''
+  2064:
+  - string: ''
+  2065:
+  - string: ''
+  2066:
+  - string: ''
+  2067:
+  - string: ''
+  2068:
+  - string: ''
+  2069:
+  - string: ''
+  2070:
+  - string: ''
+  2071:
+  - string: ''
+  2072:
+  - string: ''
+  2073:
+  - string: ''
+  2074:
+  - string: ''
+  2075:
+  - string: ''
+  2076:
+  - string: ''
+  2077:
+  - string: ''
+  2078:
+  - string: ''
+  2079:
+  - string: ''
+  2080:
+  - string: ''
+  2081:
+  - string: ''
+  2082:
+  - string: ''
+  2083:
+  - string: ''
+  2084:
+  - string: ''
+  2085:
+  - string: ''
+  2086:
+  - string: ''
+  2087:
+  - string: ''
+  2088:
+  - string: ''
+  2089:
+  - string: ''
+  2090:
+  - string: ''
+  2091:
+  - string: ''
+  2092:
+  - string: ''
+  2093:
+  - string: ''
+  2094:
+  - string: ''
+  2095:
+  - string: ''
+  2096:
+  - string: ''
+  2097:
+  - string: ''
+  2098:
+  - string: ''
+  2099:
+  - string: ''
+  2100:
+  - string: ''
+  2101:
+  - string: ''
+  2102:
+  - string: ''
+  2103:
+  - string: ''
+  2104:
+  - string: ''
+  2105:
+  - string: ''
+  2106:
+  - string: ''
+  2107:
+  - string: ''
+  2108:
+  - string: ''
+  2109:
+  - string: ''
+  2110:
+  - string: ''
+  2111:
+  - string: ''
+  2112:
+  - string: Mantra
+  2113:
+  - string: 'Increases the max. HP of party members within area of effect. Recast: 10min. Increase effect by 4 percent.'
+  2114:
+  - string: Formless Strikes
+  2115:
+  - string: |-
+      While in effect, melee attacks will not be considered physical damage. No effect on weapon skills. Recast: 10min.
+      Increase effect by 5 percent.
+  2116:
+  - string: Invigorate
+  2117:
+  - string: Adds a Regen effect when using Chakra. Increase duration of effect by 24 seconds.
+  2118:
+  - string: Penance
+  2119:
+  - string: |-
+      Adds an effect to Chi Blast that inhibits an enemy's TP accumulation.
+      Increase duration of effect by 20 seconds.
+  2120:
+  - string: ''
+  2121:
+  - string: ''
+  2122:
+  - string: ''
+  2123:
+  - string: ''
+  2124:
+  - string: ''
+  2125:
+  - string: ''
+  2126:
+  - string: ''
+  2127:
+  - string: ''
+  2128:
+  - string: ''
+  2129:
+  - string: ''
+  2130:
+  - string: ''
+  2131:
+  - string: ''
+  2132:
+  - string: ''
+  2133:
+  - string: ''
+  2134:
+  - string: ''
+  2135:
+  - string: ''
+  2136:
+  - string: ''
+  2137:
+  - string: ''
+  2138:
+  - string: ''
+  2139:
+  - string: ''
+  2140:
+  - string: ''
+  2141:
+  - string: ''
+  2142:
+  - string: ''
+  2143:
+  - string: ''
+  2144:
+  - string: ''
+  2145:
+  - string: ''
+  2146:
+  - string: ''
+  2147:
+  - string: ''
+  2148:
+  - string: ''
+  2149:
+  - string: ''
+  2150:
+  - string: ''
+  2151:
+  - string: ''
+  2152:
+  - string: ''
+  2153:
+  - string: ''
+  2154:
+  - string: ''
+  2155:
+  - string: ''
+  2156:
+  - string: ''
+  2157:
+  - string: ''
+  2158:
+  - string: ''
+  2159:
+  - string: ''
+  2160:
+  - string: ''
+  2161:
+  - string: ''
+  2162:
+  - string: ''
+  2163:
+  - string: ''
+  2164:
+  - string: ''
+  2165:
+  - string: ''
+  2166:
+  - string: ''
+  2167:
+  - string: ''
+  2168:
+  - string: ''
+  2169:
+  - string: ''
+  2170:
+  - string: ''
+  2171:
+  - string: ''
+  2172:
+  - string: ''
+  2173:
+  - string: ''
+  2174:
+  - string: ''
+  2175:
+  - string: ''
+  2176:
+  - string: Martyr
+  2177:
+  - string: |-
+      Sacrifices HP to heal a party member double the amount. Recast: 10min.
+      Increase amount of HP healed by 5 percent.
+  2178:
+  - string: Devotion
+  2179:
+  - string: |-
+      Sacrifices HP to grant a party member the same amount in MP. Recast: 10min.
+      Increase amount of MP granted by 5 percent.
+  2180:
+  - string: Protectra V
+  2181:
+  - string: |-
+      Increases the defense of party members within area of effect.
+      Increase bonus defense by 5.
+  2182:
+  - string: Shellra V
+  2183:
+  - string: |-
+      Increases the magic defense of party members within area of effect.
+      Increase bonus magic defense by 1.
+  2184:
+  - string: ''
+  2185:
+  - string: ''
+  2186:
+  - string: ''
+  2187:
+  - string: ''
+  2188:
+  - string: ''
+  2189:
+  - string: ''
+  2190:
+  - string: ''
+  2191:
+  - string: ''
+  2192:
+  - string: ''
+  2193:
+  - string: ''
+  2194:
+  - string: ''
+  2195:
+  - string: ''
+  2196:
+  - string: ''
+  2197:
+  - string: ''
+  2198:
+  - string: ''
+  2199:
+  - string: ''
+  2200:
+  - string: ''
+  2201:
+  - string: ''
+  2202:
+  - string: ''
+  2203:
+  - string: ''
+  2204:
+  - string: ''
+  2205:
+  - string: ''
+  2206:
+  - string: ''
+  2207:
+  - string: ''
+  2208:
+  - string: ''
+  2209:
+  - string: ''
+  2210:
+  - string: ''
+  2211:
+  - string: ''
+  2212:
+  - string: ''
+  2213:
+  - string: ''
+  2214:
+  - string: ''
+  2215:
+  - string: ''
+  2216:
+  - string: ''
+  2217:
+  - string: ''
+  2218:
+  - string: ''
+  2219:
+  - string: ''
+  2220:
+  - string: ''
+  2221:
+  - string: ''
+  2222:
+  - string: ''
+  2223:
+  - string: ''
+  2224:
+  - string: ''
+  2225:
+  - string: ''
+  2226:
+  - string: ''
+  2227:
+  - string: ''
+  2228:
+  - string: ''
+  2229:
+  - string: ''
+  2230:
+  - string: ''
+  2231:
+  - string: ''
+  2232:
+  - string: ''
+  2233:
+  - string: ''
+  2234:
+  - string: ''
+  2235:
+  - string: ''
+  2236:
+  - string: ''
+  2237:
+  - string: ''
+  2238:
+  - string: ''
+  2239:
+  - string: ''
+  2240:
+  - string: Flare II
+  2241:
+  - string: |-
+      Deals fire damage to an enemy and lowers its resistance against water.
+      Increase Flare II magic burst damage by 3, and magic accuracy by 5.
+  2242:
+  - string: Freeze II
+  2243:
+  - string: |-
+      Deals ice damage to an enemy and lowers its resistance against fire.
+      Increase Freeze II magic burst damage by 3, and magic accuracy by 5.
+  2244:
+  - string: Tornado II
+  2245:
+  - string: |-
+      Deals wind damage to an enemy and lowers its resistance against ice.
+      Increase Tornado II magic burst damage by 3, and magic accuracy by 5.
+  2246:
+  - string: Quake II
+  2247:
+  - string: |-
+      Deals earth damage to an enemy and lowers its resistance against wind.
+      Increase Quake II magic burst damage by 3, and magic accuracy by 5.
+  2248:
+  - string: Burst II
+  2249:
+  - string: |-
+      Deals lightning damage to an enemy and lowers its resistance against earth.
+      Increase Burst II magic burst damage by 3, and magic accuracy by 5.
+  2250:
+  - string: Flood II
+  2251:
+  - string: |-
+      Deals water damage to an enemy and lowers its resistance against lightning.
+      Increase Flood II magic burst damage by 3, and magic accuracy by 5.
+  2252:
+  - string: ''
+  2253:
+  - string: ''
+  2254:
+  - string: ''
+  2255:
+  - string: ''
+  2256:
+  - string: ''
+  2257:
+  - string: ''
+  2258:
+  - string: ''
+  2259:
+  - string: ''
+  2260:
+  - string: ''
+  2261:
+  - string: ''
+  2262:
+  - string: ''
+  2263:
+  - string: ''
+  2264:
+  - string: ''
+  2265:
+  - string: ''
+  2266:
+  - string: ''
+  2267:
+  - string: ''
+  2268:
+  - string: ''
+  2269:
+  - string: ''
+  2270:
+  - string: ''
+  2271:
+  - string: ''
+  2272:
+  - string: ''
+  2273:
+  - string: ''
+  2274:
+  - string: ''
+  2275:
+  - string: ''
+  2276:
+  - string: ''
+  2277:
+  - string: ''
+  2278:
+  - string: ''
+  2279:
+  - string: ''
+  2280:
+  - string: ''
+  2281:
+  - string: ''
+  2282:
+  - string: ''
+  2283:
+  - string: ''
+  2284:
+  - string: ''
+  2285:
+  - string: ''
+  2286:
+  - string: ''
+  2287:
+  - string: ''
+  2288:
+  - string: ''
+  2289:
+  - string: ''
+  2290:
+  - string: ''
+  2291:
+  - string: ''
+  2292:
+  - string: ''
+  2293:
+  - string: ''
+  2294:
+  - string: ''
+  2295:
+  - string: ''
+  2296:
+  - string: ''
+  2297:
+  - string: ''
+  2298:
+  - string: ''
+  2299:
+  - string: ''
+  2300:
+  - string: ''
+  2301:
+  - string: ''
+  2302:
+  - string: ''
+  2303:
+  - string: ''
+  2304:
+  - string: Dia III
+  2305:
+  - string: |-
+      Lowers an enemy's defense and gradually deals light elemental damage.
+      Increase duration of effect by 30 seconds.
+  2306:
+  - string: Slow II
+  2307:
+  - string: 'Reduces an enemy''s attack speed. Increase Slow II effect by 1 and magic accuracy by 2. '
+  2308:
+  - string: Paralyze II
+  2309:
+  - string: "Paralyzes an enemy.\nIncrease Paralyze II effect by 1 and magic accuracy by 2. "
+  2310:
+  - string: Phalanx II
+  2311:
+  - string: |-
+      Grants a party member a certain amount of damage resistance.
+      Increase Phalanx II duration by 30 seconds and damage reduction by 3.
+  2312:
+  - string: Bio III
+  2313:
+  - string: |-
+      Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.
+      Increase duration of effect by 30 seconds.
+  2314:
+  - string: Blind II
+  2315:
+  - string: Blinds an enemy, lowers its accuracy. Increase Blind II accuracy down effect by 1 and magic accuracy by 2.
+  2316:
+  - string: ''
+  2317:
+  - string: ''
+  2318:
+  - string: ''
+  2319:
+  - string: ''
+  2320:
+  - string: ''
+  2321:
+  - string: ''
+  2322:
+  - string: ''
+  2323:
+  - string: ''
+  2324:
+  - string: ''
+  2325:
+  - string: ''
+  2326:
+  - string: ''
+  2327:
+  - string: ''
+  2328:
+  - string: ''
+  2329:
+  - string: ''
+  2330:
+  - string: ''
+  2331:
+  - string: ''
+  2332:
+  - string: ''
+  2333:
+  - string: ''
+  2334:
+  - string: ''
+  2335:
+  - string: ''
+  2336:
+  - string: ''
+  2337:
+  - string: ''
+  2338:
+  - string: ''
+  2339:
+  - string: ''
+  2340:
+  - string: ''
+  2341:
+  - string: ''
+  2342:
+  - string: ''
+  2343:
+  - string: ''
+  2344:
+  - string: ''
+  2345:
+  - string: ''
+  2346:
+  - string: ''
+  2347:
+  - string: ''
+  2348:
+  - string: ''
+  2349:
+  - string: ''
+  2350:
+  - string: ''
+  2351:
+  - string: ''
+  2352:
+  - string: ''
+  2353:
+  - string: ''
+  2354:
+  - string: ''
+  2355:
+  - string: ''
+  2356:
+  - string: ''
+  2357:
+  - string: ''
+  2358:
+  - string: ''
+  2359:
+  - string: ''
+  2360:
+  - string: ''
+  2361:
+  - string: ''
+  2362:
+  - string: ''
+  2363:
+  - string: ''
+  2364:
+  - string: ''
+  2365:
+  - string: ''
+  2366:
+  - string: ''
+  2367:
+  - string: ''
+  2368:
+  - string: Assassin's Charge
+  2369:
+  - string: |-
+      Will triple your next attack.
+      Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2370:
+  - string: Feint
+  2371:
+  - string: |-
+      Your next successful attack will greatly reduce an enemy's evasion. Recast: 10min.
+      Each additional merit upgrade lowers recast time by 2 minutes.
+  2372:
+  - string: Aura Steal
+  2373:
+  - string: Adds a Dispel effect to Steal. Occasionally absorbs dispelled effect. Increase absorb rate by 20 percent.
+  2374:
+  - string: Ambush
+  2375:
+  - string: |-
+      Grants an accuracy bonus to melee and ranged attacks from behind an enemy.
+      Increase accuracy bonus by 3.
+  2376:
+  - string: ''
+  2377:
+  - string: ''
+  2378:
+  - string: ''
+  2379:
+  - string: ''
+  2380:
+  - string: ''
+  2381:
+  - string: ''
+  2382:
+  - string: ''
+  2383:
+  - string: ''
+  2384:
+  - string: ''
+  2385:
+  - string: ''
+  2386:
+  - string: ''
+  2387:
+  - string: ''
+  2388:
+  - string: ''
+  2389:
+  - string: ''
+  2390:
+  - string: ''
+  2391:
+  - string: ''
+  2392:
+  - string: ''
+  2393:
+  - string: ''
+  2394:
+  - string: ''
+  2395:
+  - string: ''
+  2396:
+  - string: ''
+  2397:
+  - string: ''
+  2398:
+  - string: ''
+  2399:
+  - string: ''
+  2400:
+  - string: ''
+  2401:
+  - string: ''
+  2402:
+  - string: ''
+  2403:
+  - string: ''
+  2404:
+  - string: ''
+  2405:
+  - string: ''
+  2406:
+  - string: ''
+  2407:
+  - string: ''
+  2408:
+  - string: ''
+  2409:
+  - string: ''
+  2410:
+  - string: ''
+  2411:
+  - string: ''
+  2412:
+  - string: ''
+  2413:
+  - string: ''
+  2414:
+  - string: ''
+  2415:
+  - string: ''
+  2416:
+  - string: ''
+  2417:
+  - string: ''
+  2418:
+  - string: ''
+  2419:
+  - string: ''
+  2420:
+  - string: ''
+  2421:
+  - string: ''
+  2422:
+  - string: ''
+  2423:
+  - string: ''
+  2424:
+  - string: ''
+  2425:
+  - string: ''
+  2426:
+  - string: ''
+  2427:
+  - string: ''
+  2428:
+  - string: ''
+  2429:
+  - string: ''
+  2430:
+  - string: ''
+  2431:
+  - string: ''
+  2432:
+  - string: Fealty
+  2433:
+  - string: |-
+      Grants a powerful resistance to enfeebling magic. Recast: 10min.
+      Increase duration by 5 seconds.
+  2434:
+  - string: Chivalry
+  2435:
+  - string: |-
+      Converts TP to MP. Recast: 10min.
+      Increase amount of MP granted by 5 percent.
+  2436:
+  - string: Iron Will
+  2437:
+  - string: |-
+      Adds a spell interruption down effect to Rampart.
+      Increase effect by 19 percent.
+  2438:
+  - string: Guardian
+  2439:
+  - string: Reduces enmity loss while using Sentinel. Increase effect by 19 percent.
+  2440:
+  - string: ''
+  2441:
+  - string: ''
+  2442:
+  - string: ''
+  2443:
+  - string: ''
+  2444:
+  - string: ''
+  2445:
+  - string: ''
+  2446:
+  - string: ''
+  2447:
+  - string: ''
+  2448:
+  - string: ''
+  2449:
+  - string: ''
+  2450:
+  - string: ''
+  2451:
+  - string: ''
+  2452:
+  - string: ''
+  2453:
+  - string: ''
+  2454:
+  - string: ''
+  2455:
+  - string: ''
+  2456:
+  - string: ''
+  2457:
+  - string: ''
+  2458:
+  - string: ''
+  2459:
+  - string: ''
+  2460:
+  - string: ''
+  2461:
+  - string: ''
+  2462:
+  - string: ''
+  2463:
+  - string: ''
+  2464:
+  - string: ''
+  2465:
+  - string: ''
+  2466:
+  - string: ''
+  2467:
+  - string: ''
+  2468:
+  - string: ''
+  2469:
+  - string: ''
+  2470:
+  - string: ''
+  2471:
+  - string: ''
+  2472:
+  - string: ''
+  2473:
+  - string: ''
+  2474:
+  - string: ''
+  2475:
+  - string: ''
+  2476:
+  - string: ''
+  2477:
+  - string: ''
+  2478:
+  - string: ''
+  2479:
+  - string: ''
+  2480:
+  - string: ''
+  2481:
+  - string: ''
+  2482:
+  - string: ''
+  2483:
+  - string: ''
+  2484:
+  - string: ''
+  2485:
+  - string: ''
+  2486:
+  - string: ''
+  2487:
+  - string: ''
+  2488:
+  - string: ''
+  2489:
+  - string: ''
+  2490:
+  - string: ''
+  2491:
+  - string: ''
+  2492:
+  - string: ''
+  2493:
+  - string: ''
+  2494:
+  - string: ''
+  2495:
+  - string: ''
+  2496:
+  - string: Dark Seal
+  2497:
+  - string: |-
+      Enhances the accuracy of your next dark magic spell. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2498:
+  - string: Diabolic Eye
+  2499:
+  - string: |-
+      Reduces max. HP, increases accuracy. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2500:
+  - string: Muted Soul
+  2501:
+  - string: Reduces enmity while using Souleater. Reduce enmity by 10.
+  2502:
+  - string: Desperate Blows Effect
+  2503:
+  - string: |-
+      Reduces delay for two-handed weapons when using Last Resort.
+      Reduce delay by 5 percent.
+  2504:
+  - string: ''
+  2505:
+  - string: ''
+  2506:
+  - string: ''
+  2507:
+  - string: ''
+  2508:
+  - string: ''
+  2509:
+  - string: ''
+  2510:
+  - string: ''
+  2511:
+  - string: ''
+  2512:
+  - string: ''
+  2513:
+  - string: ''
+  2514:
+  - string: ''
+  2515:
+  - string: ''
+  2516:
+  - string: ''
+  2517:
+  - string: ''
+  2518:
+  - string: ''
+  2519:
+  - string: ''
+  2520:
+  - string: ''
+  2521:
+  - string: ''
+  2522:
+  - string: ''
+  2523:
+  - string: ''
+  2524:
+  - string: ''
+  2525:
+  - string: ''
+  2526:
+  - string: ''
+  2527:
+  - string: ''
+  2528:
+  - string: ''
+  2529:
+  - string: ''
+  2530:
+  - string: ''
+  2531:
+  - string: ''
+  2532:
+  - string: ''
+  2533:
+  - string: ''
+  2534:
+  - string: ''
+  2535:
+  - string: ''
+  2536:
+  - string: ''
+  2537:
+  - string: ''
+  2538:
+  - string: ''
+  2539:
+  - string: ''
+  2540:
+  - string: ''
+  2541:
+  - string: ''
+  2542:
+  - string: ''
+  2543:
+  - string: ''
+  2544:
+  - string: ''
+  2545:
+  - string: ''
+  2546:
+  - string: ''
+  2547:
+  - string: ''
+  2548:
+  - string: ''
+  2549:
+  - string: ''
+  2550:
+  - string: ''
+  2551:
+  - string: ''
+  2552:
+  - string: ''
+  2553:
+  - string: ''
+  2554:
+  - string: ''
+  2555:
+  - string: ''
+  2556:
+  - string: ''
+  2557:
+  - string: ''
+  2558:
+  - string: ''
+  2559:
+  - string: ''
+  2560:
+  - string: Feral Howl
+  2561:
+  - string: |-
+      Terrorizes the target. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2562:
+  - string: Killer Instinct
+  2563:
+  - string: |-
+      Grants your pet's Killer effect to party members within area of effect.
+      Party members will also deal increased damage and take less when fighting enemies of the corresponding monster family.
+      Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2564:
+  - string: Beast Affinity
+  2565:
+  - string: |-
+      Increases the level of pets summoned with Call Beast.
+      Increase pet level by 2.
+  2566:
+  - string: Beast Healer
+  2567:
+  - string: Enhances the Regen effect of Reward. Increase Regen amount by 1.
+  2568:
+  - string: ''
+  2569:
+  - string: ''
+  2570:
+  - string: ''
+  2571:
+  - string: ''
+  2572:
+  - string: ''
+  2573:
+  - string: ''
+  2574:
+  - string: ''
+  2575:
+  - string: ''
+  2576:
+  - string: ''
+  2577:
+  - string: ''
+  2578:
+  - string: ''
+  2579:
+  - string: ''
+  2580:
+  - string: ''
+  2581:
+  - string: ''
+  2582:
+  - string: ''
+  2583:
+  - string: ''
+  2584:
+  - string: ''
+  2585:
+  - string: ''
+  2586:
+  - string: ''
+  2587:
+  - string: ''
+  2588:
+  - string: ''
+  2589:
+  - string: ''
+  2590:
+  - string: ''
+  2591:
+  - string: ''
+  2592:
+  - string: ''
+  2593:
+  - string: ''
+  2594:
+  - string: ''
+  2595:
+  - string: ''
+  2596:
+  - string: ''
+  2597:
+  - string: ''
+  2598:
+  - string: ''
+  2599:
+  - string: ''
+  2600:
+  - string: ''
+  2601:
+  - string: ''
+  2602:
+  - string: ''
+  2603:
+  - string: ''
+  2604:
+  - string: ''
+  2605:
+  - string: ''
+  2606:
+  - string: ''
+  2607:
+  - string: ''
+  2608:
+  - string: ''
+  2609:
+  - string: ''
+  2610:
+  - string: ''
+  2611:
+  - string: ''
+  2612:
+  - string: ''
+  2613:
+  - string: ''
+  2614:
+  - string: ''
+  2615:
+  - string: ''
+  2616:
+  - string: ''
+  2617:
+  - string: ''
+  2618:
+  - string: ''
+  2619:
+  - string: ''
+  2620:
+  - string: ''
+  2621:
+  - string: ''
+  2622:
+  - string: ''
+  2623:
+  - string: ''
+  2624:
+  - string: Nightingale
+  2625:
+  - string: |-
+      Halves the casting and recast times of songs. Recast: 10min.
+      Increase chance of spectacular "Fast Cast" effect by 25 percent.
+  2626:
+  - string: Troubadour
+  2627:
+  - string: |-
+      Increases the casting time for songs by 1.5 and doubles the effect duration.
+      Recast: 10min.
+      Increase chance of unerring song accuracy by 25 percent.
+  2628:
+  - string: Foe Sirvente
+  2629:
+  - string: |-
+      Reduces enmity loss for party members within area of effect.
+      Increase effect by 5 percent.
+  2630:
+  - string: Adventurer's Dirge
+  2631:
+  - string: |-
+      Reduces enmity for party members within area of effect.
+      Reduce enmity by 3.
+  2632:
+  - string: ''
+  2633:
+  - string: ''
+  2634:
+  - string: ''
+  2635:
+  - string: ''
+  2636:
+  - string: ''
+  2637:
+  - string: ''
+  2638:
+  - string: ''
+  2639:
+  - string: ''
+  2640:
+  - string: ''
+  2641:
+  - string: ''
+  2642:
+  - string: ''
+  2643:
+  - string: ''
+  2644:
+  - string: ''
+  2645:
+  - string: ''
+  2646:
+  - string: ''
+  2647:
+  - string: ''
+  2648:
+  - string: ''
+  2649:
+  - string: ''
+  2650:
+  - string: ''
+  2651:
+  - string: ''
+  2652:
+  - string: ''
+  2653:
+  - string: ''
+  2654:
+  - string: ''
+  2655:
+  - string: ''
+  2656:
+  - string: ''
+  2657:
+  - string: ''
+  2658:
+  - string: ''
+  2659:
+  - string: ''
+  2660:
+  - string: ''
+  2661:
+  - string: ''
+  2662:
+  - string: ''
+  2663:
+  - string: ''
+  2664:
+  - string: ''
+  2665:
+  - string: ''
+  2666:
+  - string: ''
+  2667:
+  - string: ''
+  2668:
+  - string: ''
+  2669:
+  - string: ''
+  2670:
+  - string: ''
+  2671:
+  - string: ''
+  2672:
+  - string: ''
+  2673:
+  - string: ''
+  2674:
+  - string: ''
+  2675:
+  - string: ''
+  2676:
+  - string: ''
+  2677:
+  - string: ''
+  2678:
+  - string: ''
+  2679:
+  - string: ''
+  2680:
+  - string: ''
+  2681:
+  - string: ''
+  2682:
+  - string: ''
+  2683:
+  - string: ''
+  2684:
+  - string: ''
+  2685:
+  - string: ''
+  2686:
+  - string: ''
+  2687:
+  - string: ''
+  2688:
+  - string: Stealth Shot
+  2689:
+  - string: |-
+      Your next ranged attack will generate less enmity. Recast: 5min.
+      Reduce enmity by 10.
+  2690:
+  - string: Flashy Shot
+  2691:
+  - string: |-
+      Your next ranged attack will generate more enmity and both have increased accuracy and deal increased damage based on the level difference between you and the target. Recast: 20min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2692:
+  - string: Snapshot
+  2693:
+  - string: |-
+      Reduces delay for ranged attacks.
+      Reduce delay by 2 percent.
+  2694:
+  - string: Recycle Rate
+  2695:
+  - string: |-
+      Occasionally allows ranged attacks without consuming ammunition.
+      Increase rate of activation by 5 percent.
+  2696:
+  - string: ''
+  2697:
+  - string: ''
+  2698:
+  - string: ''
+  2699:
+  - string: ''
+  2700:
+  - string: ''
+  2701:
+  - string: ''
+  2702:
+  - string: ''
+  2703:
+  - string: ''
+  2704:
+  - string: ''
+  2705:
+  - string: ''
+  2706:
+  - string: ''
+  2707:
+  - string: ''
+  2708:
+  - string: ''
+  2709:
+  - string: ''
+  2710:
+  - string: ''
+  2711:
+  - string: ''
+  2712:
+  - string: ''
+  2713:
+  - string: ''
+  2714:
+  - string: ''
+  2715:
+  - string: ''
+  2716:
+  - string: ''
+  2717:
+  - string: ''
+  2718:
+  - string: ''
+  2719:
+  - string: ''
+  2720:
+  - string: ''
+  2721:
+  - string: ''
+  2722:
+  - string: ''
+  2723:
+  - string: ''
+  2724:
+  - string: ''
+  2725:
+  - string: ''
+  2726:
+  - string: ''
+  2727:
+  - string: ''
+  2728:
+  - string: ''
+  2729:
+  - string: ''
+  2730:
+  - string: ''
+  2731:
+  - string: ''
+  2732:
+  - string: ''
+  2733:
+  - string: ''
+  2734:
+  - string: ''
+  2735:
+  - string: ''
+  2736:
+  - string: ''
+  2737:
+  - string: ''
+  2738:
+  - string: ''
+  2739:
+  - string: ''
+  2740:
+  - string: ''
+  2741:
+  - string: ''
+  2742:
+  - string: ''
+  2743:
+  - string: ''
+  2744:
+  - string: ''
+  2745:
+  - string: ''
+  2746:
+  - string: ''
+  2747:
+  - string: ''
+  2748:
+  - string: ''
+  2749:
+  - string: ''
+  2750:
+  - string: ''
+  2751:
+  - string: ''
+  2752:
+  - string: Shikikoyo
+  2753:
+  - string: |-
+      Shares TP above 1000 with a party member. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2754:
+  - string: Blade Bash
+  2755:
+  - string: |-
+      Delivers an attack that can stun the target and occasionally cause plague. Requires great katana. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2756:
+  - string: Ikishoten
+  2757:
+  - string: |-
+      Increases amount of TP gained with a Zanshin attack.
+      Increase TP gained by 30.
+  2758:
+  - string: Overwhelm
+  2759:
+  - string: |-
+      Grants a damage bonus to weapon skills performed face-to-face with an enemy.
+      Increase damage bonus by 5% for the first three points, and by 2% for the final 2 points.
+  2760:
+  - string: ''
+  2761:
+  - string: ''
+  2762:
+  - string: ''
+  2763:
+  - string: ''
+  2764:
+  - string: ''
+  2765:
+  - string: ''
+  2766:
+  - string: ''
+  2767:
+  - string: ''
+  2768:
+  - string: ''
+  2769:
+  - string: ''
+  2770:
+  - string: ''
+  2771:
+  - string: ''
+  2772:
+  - string: ''
+  2773:
+  - string: ''
+  2774:
+  - string: ''
+  2775:
+  - string: ''
+  2776:
+  - string: ''
+  2777:
+  - string: ''
+  2778:
+  - string: ''
+  2779:
+  - string: ''
+  2780:
+  - string: ''
+  2781:
+  - string: ''
+  2782:
+  - string: ''
+  2783:
+  - string: ''
+  2784:
+  - string: ''
+  2785:
+  - string: ''
+  2786:
+  - string: ''
+  2787:
+  - string: ''
+  2788:
+  - string: ''
+  2789:
+  - string: ''
+  2790:
+  - string: ''
+  2791:
+  - string: ''
+  2792:
+  - string: ''
+  2793:
+  - string: ''
+  2794:
+  - string: ''
+  2795:
+  - string: ''
+  2796:
+  - string: ''
+  2797:
+  - string: ''
+  2798:
+  - string: ''
+  2799:
+  - string: ''
+  2800:
+  - string: ''
+  2801:
+  - string: ''
+  2802:
+  - string: ''
+  2803:
+  - string: ''
+  2804:
+  - string: ''
+  2805:
+  - string: ''
+  2806:
+  - string: ''
+  2807:
+  - string: ''
+  2808:
+  - string: ''
+  2809:
+  - string: ''
+  2810:
+  - string: ''
+  2811:
+  - string: ''
+  2812:
+  - string: ''
+  2813:
+  - string: ''
+  2814:
+  - string: ''
+  2815:
+  - string: ''
+  2816:
+  - string: Sange
+  2817:
+  - string: |-
+      Consumes remaining shadow images to perform ranged attacks.
+      Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2818:
+  - string: Ninja Tool Expertise
+  2819:
+  - string: |-
+      Occasionally allows the use of ninjutsu without consuming ninja tools.
+      Increase rate of activation by 5 percent.
+  2820:
+  - string: 'Katon: San'
+  2821:
+  - string: |-
+      Uses the ninja tool, "uchitake." Deals fire damage to an enemy and lowers its resistance against water.
+      Increase Katon: San magic attack by 5 and magic accuracy by 5.
+  2822:
+  - string: 'Hyoton: San'
+  2823:
+  - string: |-
+      Uses the ninja tool, "tsurara." Deals ice damage to an enemy and lowers its resistance against fire.
+      Increase Hyoton: San magic attack by 5 and magic accuracy by 5.
+  2824:
+  - string: 'Huton: San'
+  2825:
+  - string: |-
+      Uses the ninja tool, "kawahori-ogi." Deals wind damage to an enemy and lowers its resistance against ice.
+      Increase Huton: San magic attack by 5 and magic accuracy by 5.
+  2826:
+  - string: 'Doton: San'
+  2827:
+  - string: |-
+      Uses the ninja tool, "makibishi." Deals earth damage to an enemy and lowers its resistance against wind.
+      Increase Doton: San magic attack by 5 and magic accuracy by 5.
+  2828:
+  - string: 'Raiton: San'
+  2829:
+  - string: |-
+      Uses the ninja tool, "hiraishin." Deals lightning damage to an enemy and lowers its resistance against earth.
+      Increase Raiton: San magic attack by 5 and magic accuracy by 5.
+  2830:
+  - string: 'Suiton: San'
+  2831:
+  - string: |-
+      Uses the ninja tool, "mizu-deppo." Deals water damage to an enemy and lowers its resistance against lightning.
+      Increase Suiton: San magic attack by 5 and magic accuracy by 5.
+  2832:
+  - string: ''
+  2833:
+  - string: ''
+  2834:
+  - string: ''
+  2835:
+  - string: ''
+  2836:
+  - string: ''
+  2837:
+  - string: ''
+  2838:
+  - string: ''
+  2839:
+  - string: ''
+  2840:
+  - string: ''
+  2841:
+  - string: ''
+  2842:
+  - string: ''
+  2843:
+  - string: ''
+  2844:
+  - string: ''
+  2845:
+  - string: ''
+  2846:
+  - string: ''
+  2847:
+  - string: ''
+  2848:
+  - string: ''
+  2849:
+  - string: ''
+  2850:
+  - string: ''
+  2851:
+  - string: ''
+  2852:
+  - string: ''
+  2853:
+  - string: ''
+  2854:
+  - string: ''
+  2855:
+  - string: ''
+  2856:
+  - string: ''
+  2857:
+  - string: ''
+  2858:
+  - string: ''
+  2859:
+  - string: ''
+  2860:
+  - string: ''
+  2861:
+  - string: ''
+  2862:
+  - string: ''
+  2863:
+  - string: ''
+  2864:
+  - string: ''
+  2865:
+  - string: ''
+  2866:
+  - string: ''
+  2867:
+  - string: ''
+  2868:
+  - string: ''
+  2869:
+  - string: ''
+  2870:
+  - string: ''
+  2871:
+  - string: ''
+  2872:
+  - string: ''
+  2873:
+  - string: ''
+  2874:
+  - string: ''
+  2875:
+  - string: ''
+  2876:
+  - string: ''
+  2877:
+  - string: ''
+  2878:
+  - string: ''
+  2879:
+  - string: ''
+  2880:
+  - string: Deep Breathing
+  2881:
+  - string: |-
+      Enhances effect of next wyvern breath. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  2882:
+  - string: Angon
+  2883:
+  - string: |-
+      Expends an angon to lower an enemy's defense. Recast: 3min.
+      Increase defense down duration by 15 seconds.
+  2884:
+  - string: Empathy
+  2885:
+  - string: |-
+      Copies beneficial status effects to wyvern when using Spirit Link.
+      Increase number of copied effects by 1 and experience points obtained by 200.
+  2886:
+  - string: Strafe Effect
+  2887:
+  - string: Increases accuracy of wyvern breath. Increase accuracy by 10.
+  2888:
+  - string: ''
+  2889:
+  - string: ''
+  2890:
+  - string: ''
+  2891:
+  - string: ''
+  2892:
+  - string: ''
+  2893:
+  - string: ''
+  2894:
+  - string: ''
+  2895:
+  - string: ''
+  2896:
+  - string: ''
+  2897:
+  - string: ''
+  2898:
+  - string: ''
+  2899:
+  - string: ''
+  2900:
+  - string: ''
+  2901:
+  - string: ''
+  2902:
+  - string: ''
+  2903:
+  - string: ''
+  2904:
+  - string: ''
+  2905:
+  - string: ''
+  2906:
+  - string: ''
+  2907:
+  - string: ''
+  2908:
+  - string: ''
+  2909:
+  - string: ''
+  2910:
+  - string: ''
+  2911:
+  - string: ''
+  2912:
+  - string: ''
+  2913:
+  - string: ''
+  2914:
+  - string: ''
+  2915:
+  - string: ''
+  2916:
+  - string: ''
+  2917:
+  - string: ''
+  2918:
+  - string: ''
+  2919:
+  - string: ''
+  2920:
+  - string: ''
+  2921:
+  - string: ''
+  2922:
+  - string: ''
+  2923:
+  - string: ''
+  2924:
+  - string: ''
+  2925:
+  - string: ''
+  2926:
+  - string: ''
+  2927:
+  - string: ''
+  2928:
+  - string: ''
+  2929:
+  - string: ''
+  2930:
+  - string: ''
+  2931:
+  - string: ''
+  2932:
+  - string: ''
+  2933:
+  - string: ''
+  2934:
+  - string: ''
+  2935:
+  - string: ''
+  2936:
+  - string: ''
+  2937:
+  - string: ''
+  2938:
+  - string: ''
+  2939:
+  - string: ''
+  2940:
+  - string: ''
+  2941:
+  - string: ''
+  2942:
+  - string: ''
+  2943:
+  - string: ''
+  2944:
+  - string: Meteor Strike
+  2945:
+  - string: |-
+      Ifrit Blood Pact ability. Deals fire elemental damage.
+      Increase Meteor Strike TP bonus by 400.
+  2946:
+  - string: Heavenly Strike
+  2947:
+  - string: |-
+      Shiva Blood Pact ability. Deals ice elemental damage.
+      Increase Heavenly Strike TP bonus by 400.
+  2948:
+  - string: Wind Blade
+  2949:
+  - string: |-
+      Garuda Blood Pact ability. Deals wind elemental damage.
+      Increase Wind Blade TP bonus by 400.
+  2950:
+  - string: Geocrush
+  2951:
+  - string: |-
+      Titan Blood Pact ability. Deals earth elemental damage.
+      Increase Geocrush TP bonus by 400.
+  2952:
+  - string: Thunderstorm
+  2953:
+  - string: |-
+      Ramuh Blood Pact ability. Deals lightning elemental damage.
+      Increase Thunderstorm TP bonus by 400.
+  2954:
+  - string: Grand Fall
+  2955:
+  - string: |-
+      Leviathan Blood Pact ability. Deals water elemental damage.
+      Increase Grand Fall TP bonus by 400.
+  2956:
+  - string: ''
+  2957:
+  - string: ''
+  2958:
+  - string: ''
+  2959:
+  - string: ''
+  2960:
+  - string: ''
+  2961:
+  - string: ''
+  2962:
+  - string: ''
+  2963:
+  - string: ''
+  2964:
+  - string: ''
+  2965:
+  - string: ''
+  2966:
+  - string: ''
+  2967:
+  - string: ''
+  2968:
+  - string: ''
+  2969:
+  - string: ''
+  2970:
+  - string: ''
+  2971:
+  - string: ''
+  2972:
+  - string: ''
+  2973:
+  - string: ''
+  2974:
+  - string: ''
+  2975:
+  - string: ''
+  2976:
+  - string: ''
+  2977:
+  - string: ''
+  2978:
+  - string: ''
+  2979:
+  - string: ''
+  2980:
+  - string: ''
+  2981:
+  - string: ''
+  2982:
+  - string: ''
+  2983:
+  - string: ''
+  2984:
+  - string: ''
+  2985:
+  - string: ''
+  2986:
+  - string: ''
+  2987:
+  - string: ''
+  2988:
+  - string: ''
+  2989:
+  - string: ''
+  2990:
+  - string: ''
+  2991:
+  - string: ''
+  2992:
+  - string: ''
+  2993:
+  - string: ''
+  2994:
+  - string: ''
+  2995:
+  - string: ''
+  2996:
+  - string: ''
+  2997:
+  - string: ''
+  2998:
+  - string: ''
+  2999:
+  - string: ''
+  3000:
+  - string: ''
+  3001:
+  - string: ''
+  3002:
+  - string: ''
+  3003:
+  - string: ''
+  3004:
+  - string: ''
+  3005:
+  - string: ''
+  3006:
+  - string: ''
+  3007:
+  - string: ''
+  3008:
+  - string: Convergence
+  3009:
+  - string: |-
+      Increases the power of your next magical blue magic spell. Limits area of effect to single target. Recast: 10min.
+      Increase magic attack by 5 and magic accuracy by 5.
+  3010:
+  - string: Diffusion
+  3011:
+  - string: |-
+      Grants the effect of your next support blue magic spell to party members within range. Recast: 20min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  3012:
+  - string: Enchainment
+  3013:
+  - string: |-
+      Grants a TP bonus to Chain Affinity.
+      Increase TP bonus by 100.
+  3014:
+  - string: Assimilation
+  3015:
+  - string: |-
+      Increases maximum blue magic points.
+      Increase blue magic point maximum by 1.
+  3016:
+  - string: ''
+  3017:
+  - string: ''
+  3018:
+  - string: ''
+  3019:
+  - string: ''
+  3020:
+  - string: ''
+  3021:
+  - string: ''
+  3022:
+  - string: ''
+  3023:
+  - string: ''
+  3024:
+  - string: ''
+  3025:
+  - string: ''
+  3026:
+  - string: ''
+  3027:
+  - string: ''
+  3028:
+  - string: ''
+  3029:
+  - string: ''
+  3030:
+  - string: ''
+  3031:
+  - string: ''
+  3032:
+  - string: ''
+  3033:
+  - string: ''
+  3034:
+  - string: ''
+  3035:
+  - string: ''
+  3036:
+  - string: ''
+  3037:
+  - string: ''
+  3038:
+  - string: ''
+  3039:
+  - string: ''
+  3040:
+  - string: ''
+  3041:
+  - string: ''
+  3042:
+  - string: ''
+  3043:
+  - string: ''
+  3044:
+  - string: ''
+  3045:
+  - string: ''
+  3046:
+  - string: ''
+  3047:
+  - string: ''
+  3048:
+  - string: ''
+  3049:
+  - string: ''
+  3050:
+  - string: ''
+  3051:
+  - string: ''
+  3052:
+  - string: ''
+  3053:
+  - string: ''
+  3054:
+  - string: ''
+  3055:
+  - string: ''
+  3056:
+  - string: ''
+  3057:
+  - string: ''
+  3058:
+  - string: ''
+  3059:
+  - string: ''
+  3060:
+  - string: ''
+  3061:
+  - string: ''
+  3062:
+  - string: ''
+  3063:
+  - string: ''
+  3064:
+  - string: ''
+  3065:
+  - string: ''
+  3066:
+  - string: ''
+  3067:
+  - string: ''
+  3068:
+  - string: ''
+  3069:
+  - string: ''
+  3070:
+  - string: ''
+  3071:
+  - string: ''
+  3072:
+  - string: Snake Eye
+  3073:
+  - string: |-
+      Your next roll will automatically be a 1. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  3074:
+  - string: Fold
+  3075:
+  - string: |-
+      Erases one roll or bust effect. Targets self-cast effect with the longest remaining duration. Recast: 15min.
+      Each additional merit upgrade lowers recast time by 2 minutes and 30 seconds.
+  3076:
+  - string: Winning Streak
+  3077:
+  - string: |-
+      Extends the duration of Phantom Roll effects.
+      Increase duration of effect by 20 seconds.
+  3078:
+  - string: Loaded Deck
+  3079:
+  - string: |-
+      Focuses effect of Random Deal on abilities waiting on recast.
+      Has a chance to fail if only one ability is waiting on recast.
+      Reduce chance of failure by 10%.
+  3080:
+  - string: ''
+  3081:
+  - string: ''
+  3082:
+  - string: ''
+  3083:
+  - string: ''
+  3084:
+  - string: ''
+  3085:
+  - string: ''
+  3086:
+  - string: ''
+  3087:
+  - string: ''
+  3088:
+  - string: ''
+  3089:
+  - string: ''
+  3090:
+  - string: ''
+  3091:
+  - string: ''
+  3092:
+  - string: ''
+  3093:
+  - string: ''
+  3094:
+  - string: ''
+  3095:
+  - string: ''
+  3096:
+  - string: ''
+  3097:
+  - string: ''
+  3098:
+  - string: ''
+  3099:
+  - string: ''
+  3100:
+  - string: ''
+  3101:
+  - string: ''
+  3102:
+  - string: ''
+  3103:
+  - string: ''
+  3104:
+  - string: ''
+  3105:
+  - string: ''
+  3106:
+  - string: ''
+  3107:
+  - string: ''
+  3108:
+  - string: ''
+  3109:
+  - string: ''
+  3110:
+  - string: ''
+  3111:
+  - string: ''
+  3112:
+  - string: ''
+  3113:
+  - string: ''
+  3114:
+  - string: ''
+  3115:
+  - string: ''
+  3116:
+  - string: ''
+  3117:
+  - string: ''
+  3118:
+  - string: ''
+  3119:
+  - string: ''
+  3120:
+  - string: ''
+  3121:
+  - string: ''
+  3122:
+  - string: ''
+  3123:
+  - string: ''
+  3124:
+  - string: ''
+  3125:
+  - string: ''
+  3126:
+  - string: ''
+  3127:
+  - string: ''
+  3128:
+  - string: ''
+  3129:
+  - string: ''
+  3130:
+  - string: ''
+  3131:
+  - string: ''
+  3132:
+  - string: ''
+  3133:
+  - string: ''
+  3134:
+  - string: ''
+  3135:
+  - string: ''
+  3136:
+  - string: Role Reversal
+  3137:
+  - string: |-
+      Swaps HP of master and automaton. Recast: 4min.
+      Shorten recast 30 seconds for every additional merit.
+  3138:
+  - string: Ventriloquy
+  3139:
+  - string: |-
+      Swaps the enmity of master and automaton for target. Recast: 2min.
+      Shorten recast 15 seconds for every additional merit.
+  3140:
+  - string: Fine-Tuning
+  3141:
+  - string: |-
+      Grants a bonus to your automaton's accuracy, ranged accuracy, evasion, and magic defense.
+      Increase accuracy by 5, ranged accuracy by 5, evasion by 5, and magic defense by 5.
+  3142:
+  - string: Optimization
+  3143:
+  - string: |-
+      Grants a bonus to your automaton's attack, defense, and magic attack.
+      Increase attack by 5%, defense by 5%, and magic attack by 5.
+  3144:
+  - string: ''
+  3145:
+  - string: ''
+  3146:
+  - string: ''
+  3147:
+  - string: ''
+  3148:
+  - string: ''
+  3149:
+  - string: ''
+  3150:
+  - string: ''
+  3151:
+  - string: ''
+  3152:
+  - string: ''
+  3153:
+  - string: ''
+  3154:
+  - string: ''
+  3155:
+  - string: ''
+  3156:
+  - string: ''
+  3157:
+  - string: ''
+  3158:
+  - string: ''
+  3159:
+  - string: ''
+  3160:
+  - string: ''
+  3161:
+  - string: ''
+  3162:
+  - string: ''
+  3163:
+  - string: ''
+  3164:
+  - string: ''
+  3165:
+  - string: ''
+  3166:
+  - string: ''
+  3167:
+  - string: ''
+  3168:
+  - string: ''
+  3169:
+  - string: ''
+  3170:
+  - string: ''
+  3171:
+  - string: ''
+  3172:
+  - string: ''
+  3173:
+  - string: ''
+  3174:
+  - string: ''
+  3175:
+  - string: ''
+  3176:
+  - string: ''
+  3177:
+  - string: ''
+  3178:
+  - string: ''
+  3179:
+  - string: ''
+  3180:
+  - string: ''
+  3181:
+  - string: ''
+  3182:
+  - string: ''
+  3183:
+  - string: ''
+  3184:
+  - string: ''
+  3185:
+  - string: ''
+  3186:
+  - string: ''
+  3187:
+  - string: ''
+  3188:
+  - string: ''
+  3189:
+  - string: ''
+  3190:
+  - string: ''
+  3191:
+  - string: ''
+  3192:
+  - string: ''
+  3193:
+  - string: ''
+  3194:
+  - string: ''
+  3195:
+  - string: ''
+  3196:
+  - string: ''
+  3197:
+  - string: ''
+  3198:
+  - string: ''
+  3199:
+  - string: ''
+  3200:
+  - string: Saber Dance
+  3201:
+  - string: |-
+      Increases Double Attack rate, but renders waltzes unusable. Double Attack rate gradually decreases. Recast: 3min.
+      Increase samba duration by 5%.
+  3202:
+  - string: Fan Dance
+  3203:
+  - string: |-
+      Reduces physical damage taken and increases enmity, but renders sambas unusable. Physical damage reduction gradually decreases with each hit taken. Recast: 3min.
+      Shorten waltz recast time by 5%.
+  3204:
+  - string: No Foot Rise
+  3205:
+  - string: |-
+      Instantly grants additional finishing moves. Recast: 3min.
+      Increase finishing moves granted by 1.
+  3206:
+  - string: Closed Position
+  3207:
+  - string: |-
+      Grants a bonus to accuracy and evasion when face-to-face with an enemy.
+      Increase accuracy and evasion bonuses
+      by 3.
+  3208:
+  - string: ''
+  3209:
+  - string: ''
+  3210:
+  - string: ''
+  3211:
+  - string: ''
+  3212:
+  - string: ''
+  3213:
+  - string: ''
+  3214:
+  - string: ''
+  3215:
+  - string: ''
+  3216:
+  - string: ''
+  3217:
+  - string: ''
+  3218:
+  - string: ''
+  3219:
+  - string: ''
+  3220:
+  - string: ''
+  3221:
+  - string: ''
+  3222:
+  - string: ''
+  3223:
+  - string: ''
+  3224:
+  - string: ''
+  3225:
+  - string: ''
+  3226:
+  - string: ''
+  3227:
+  - string: ''
+  3228:
+  - string: ''
+  3229:
+  - string: ''
+  3230:
+  - string: ''
+  3231:
+  - string: ''
+  3232:
+  - string: ''
+  3233:
+  - string: ''
+  3234:
+  - string: ''
+  3235:
+  - string: ''
+  3236:
+  - string: ''
+  3237:
+  - string: ''
+  3238:
+  - string: ''
+  3239:
+  - string: ''
+  3240:
+  - string: ''
+  3241:
+  - string: ''
+  3242:
+  - string: ''
+  3243:
+  - string: ''
+  3244:
+  - string: ''
+  3245:
+  - string: ''
+  3246:
+  - string: ''
+  3247:
+  - string: ''
+  3248:
+  - string: ''
+  3249:
+  - string: ''
+  3250:
+  - string: ''
+  3251:
+  - string: ''
+  3252:
+  - string: ''
+  3253:
+  - string: ''
+  3254:
+  - string: ''
+  3255:
+  - string: ''
+  3256:
+  - string: ''
+  3257:
+  - string: ''
+  3258:
+  - string: ''
+  3259:
+  - string: ''
+  3260:
+  - string: ''
+  3261:
+  - string: ''
+  3262:
+  - string: ''
+  3263:
+  - string: ''
+  3264:
+  - string: Altruism
+  3265:
+  - string: |-
+      Light Arts Stratagem.
+      Increases the accuracy of your next white magic spell.
+      Increase magic accuracy by 5.
+  3266:
+  - string: Focalization
+  3267:
+  - string: |-
+      Dark Arts Stratagem.
+      Increases the accuracy of your next black magic spell.
+      Increase magic accuracy by 5.
+  3268:
+  - string: Tranquility
+  3269:
+  - string: |-
+      Light Arts Stratagem.
+      Your next white magic spell will generate less enmity.
+      Reduce enmity by 10.
+  3270:
+  - string: Equanimity
+  3271:
+  - string: |-
+      Dark Arts Stratagem.
+      Your next black magic spell will generate less enmity.
+      Reduce enmity by 10.
+  3272:
+  - string: Enlightenment
+  3273:
+  - string: |-
+      Optimizes both white and black magic capabilities and allows access to both addenda for your next spell. Recast: 5min.
+      +5 bonus to INT and MND.
+  3274:
+  - string: Stormsurge
+  3275:
+  - string: |-
+      Storm-type spells grant a bonus to attributes associated with their element. Initial bonus value: +3.
+      Increase bonus value by 1.
+  3276:
+  - string: ''
+  3277:
+  - string: ''
+  3278:
+  - string: ''
+  3279:
+  - string: ''
+  3280:
+  - string: ''
+  3281:
+  - string: ''
+  3282:
+  - string: ''
+  3283:
+  - string: ''
+  3284:
+  - string: ''
+  3285:
+  - string: ''
+  3286:
+  - string: ''
+  3287:
+  - string: ''
+  3288:
+  - string: ''
+  3289:
+  - string: ''
+  3290:
+  - string: ''
+  3291:
+  - string: ''
+  3292:
+  - string: ''
+  3293:
+  - string: ''
+  3294:
+  - string: ''
+  3295:
+  - string: ''
+  3296:
+  - string: ''
+  3297:
+  - string: ''
+  3298:
+  - string: ''
+  3299:
+  - string: ''
+  3300:
+  - string: ''
+  3301:
+  - string: ''
+  3302:
+  - string: ''
+  3303:
+  - string: ''
+  3304:
+  - string: ''
+  3305:
+  - string: ''
+  3306:
+  - string: ''
+  3307:
+  - string: ''
+  3308:
+  - string: ''
+  3309:
+  - string: ''
+  3310:
+  - string: ''
+  3311:
+  - string: ''
+  3312:
+  - string: ''
+  3313:
+  - string: ''
+  3314:
+  - string: ''
+  3315:
+  - string: ''
+  3316:
+  - string: ''
+  3317:
+  - string: ''
+  3318:
+  - string: ''
+  3319:
+  - string: ''
+  3320:
+  - string: ''
+  3321:
+  - string: ''
+  3322:
+  - string: ''
+  3323:
+  - string: ''
+  3324:
+  - string: ''
+  3325:
+  - string: ''
+  3326:
+  - string: ''
+  3327:
+  - string: ''
+  3328:
+  - string: ''
+  3329:
+  - string: ''
+  3330:
+  - string: ''
+  3331:
+  - string: ''
+  3332:
+  - string: ''
+  3333:
+  - string: ''
+  3334:
+  - string: ''
+  3335:
+  - string: ''
+  3336:
+  - string: ''
+  3337:
+  - string: ''
+  3338:
+  - string: ''
+  3339:
+  - string: ''
+  3340:
+  - string: ''
+  3341:
+  - string: ''
+  3342:
+  - string: ''
+  3343:
+  - string: ''
+  3344:
+  - string: ''
+  3345:
+  - string: ''
+  3346:
+  - string: ''
+  3347:
+  - string: ''
+  3348:
+  - string: ''
+  3349:
+  - string: ''
+  3350:
+  - string: ''
+  3351:
+  - string: ''
+  3352:
+  - string: ''
+  3353:
+  - string: ''
+  3354:
+  - string: ''
+  3355:
+  - string: ''
+  3356:
+  - string: ''
+  3357:
+  - string: ''
+  3358:
+  - string: ''
+  3359:
+  - string: ''
+  3360:
+  - string: ''
+  3361:
+  - string: ''
+  3362:
+  - string: ''
+  3363:
+  - string: ''
+  3364:
+  - string: ''
+  3365:
+  - string: ''
+  3366:
+  - string: ''
+  3367:
+  - string: ''
+  3368:
+  - string: ''
+  3369:
+  - string: ''
+  3370:
+  - string: ''
+  3371:
+  - string: ''
+  3372:
+  - string: ''
+  3373:
+  - string: ''
+  3374:
+  - string: ''
+  3375:
+  - string: ''
+  3376:
+  - string: ''
+  3377:
+  - string: ''
+  3378:
+  - string: ''
+  3379:
+  - string: ''
+  3380:
+  - string: ''
+  3381:
+  - string: ''
+  3382:
+  - string: ''
+  3383:
+  - string: ''
+  3384:
+  - string: ''
+  3385:
+  - string: ''
+  3386:
+  - string: ''
+  3387:
+  - string: ''
+  3388:
+  - string: ''
+  3389:
+  - string: ''
+  3390:
+  - string: ''
+  3391:
+  - string: ''
+  3392:
+  - string: Mending Halation
+  3393:
+  - string: "Causes your luopan to vanish and \nrestores HP of party members within area of effect. \nRecast: 5min. Increase amount of HP restored by 5 percent."
+  3394:
+  - string: Radial Arcana
+  3395:
+  - string: "Causes your luopan to vanish and \nrestores MP of party members within area of effect. \nRecast: 5min. Increase amount of MP restored by 3 percent."
+  3396:
+  - string: Curative Recantation
+  3397:
+  - string: "Grants a healing effect to Full Circle. \nIncrease amount of HP healed by 5 percent."
+  3398:
+  - string: Primeval Zeal
+  3399:
+  - string: "Shortens casting times of elemental magic spells while under the effects of Collimated Fervor. \nShorten cast time by 10 percent."
+  3400:
+  - string: ''
+  3401:
+  - string: ''
+  3402:
+  - string: ''
+  3403:
+  - string: ''
+  3404:
+  - string: ''
+  3405:
+  - string: ''
+  3406:
+  - string: ''
+  3407:
+  - string: ''
+  3408:
+  - string: ''
+  3409:
+  - string: ''
+  3410:
+  - string: ''
+  3411:
+  - string: ''
+  3412:
+  - string: ''
+  3413:
+  - string: ''
+  3414:
+  - string: ''
+  3415:
+  - string: ''
+  3416:
+  - string: ''
+  3417:
+  - string: ''
+  3418:
+  - string: ''
+  3419:
+  - string: ''
+  3420:
+  - string: ''
+  3421:
+  - string: ''
+  3422:
+  - string: ''
+  3423:
+  - string: ''
+  3424:
+  - string: ''
+  3425:
+  - string: ''
+  3426:
+  - string: ''
+  3427:
+  - string: ''
+  3428:
+  - string: ''
+  3429:
+  - string: ''
+  3430:
+  - string: ''
+  3431:
+  - string: ''
+  3432:
+  - string: ''
+  3433:
+  - string: ''
+  3434:
+  - string: ''
+  3435:
+  - string: ''
+  3436:
+  - string: ''
+  3437:
+  - string: ''
+  3438:
+  - string: ''
+  3439:
+  - string: ''
+  3440:
+  - string: ''
+  3441:
+  - string: ''
+  3442:
+  - string: ''
+  3443:
+  - string: ''
+  3444:
+  - string: ''
+  3445:
+  - string: ''
+  3446:
+  - string: ''
+  3447:
+  - string: ''
+  3448:
+  - string: ''
+  3449:
+  - string: ''
+  3450:
+  - string: ''
+  3451:
+  - string: ''
+  3452:
+  - string: ''
+  3453:
+  - string: ''
+  3454:
+  - string: ''
+  3455:
+  - string: ''
+  3456:
+  - string: Battuta
+  3457:
+  - string: "Increases the likelihood of parrying and deals counter damage after parrying dependent upon harbored runes. \nRecast: 5min. Increase chance of parrying by 4 percent and increase counter damage by 4 points per rune harbored."
+  3458:
+  - string: Rayke
+  3459:
+  - string: "Expends runes to reduce elemental resistance of the target. \nRecast: 5min. Increase duration of effect by 3 seconds."
+  3460:
+  - string: Inspiration
+  3461:
+  - string: "Grants a \"Fast Cast\" effect to Vallation and Valiance. \nIncrease cast speed by 10 percent."
+  3462:
+  - string: Sleight of Sword
+  3463:
+  - string: "Grants a \"Subtle Blow\" effect during Swordplay. \nIncrease the maximum value of Subtle Blow by 5 points."
+  3464:
+  - string: ''
+  3465:
+  - string: ''
+  3466:
+  - string: ''
+  3467:
+  - string: ''
+  3468:
+  - string: ''
+  3469:
+  - string: ''
+  3470:
+  - string: ''
+  3471:
+  - string: ''
+  3472:
+  - string: ''
+  3473:
+  - string: ''
+  3474:
+  - string: ''
+  3475:
+  - string: ''
+  3476:
+  - string: ''
+  3477:
+  - string: ''
+  3478:
+  - string: ''
+  3479:
+  - string: ''
+  3480:
+  - string: ''
+  3481:
+  - string: ''
+  3482:
+  - string: ''
+  3483:
+  - string: ''
+  3484:
+  - string: ''
+  3485:
+  - string: ''
+  3486:
+  - string: ''
+  3487:
+  - string: ''
+  3488:
+  - string: ''
+  3489:
+  - string: ''
+  3490:
+  - string: ''
+  3491:
+  - string: ''
+  3492:
+  - string: ''
+  3493:
+  - string: ''
+  3494:
+  - string: ''
+  3495:
+  - string: ''
+  3496:
+  - string: ''
+  3497:
+  - string: ''
+  3498:
+  - string: ''
+  3499:
+  - string: ''
+  3500:
+  - string: ''
+  3501:
+  - string: ''
+  3502:
+  - string: ''
+  3503:
+  - string: ''
+  3504:
+  - string: ''
+  3505:
+  - string: ''
+  3506:
+  - string: ''
+  3507:
+  - string: ''
+  3508:
+  - string: ''
+  3509:
+  - string: ''
+  3510:
+  - string: ''
+  3511:
+  - string: ''
+  3512:
+  - string: ''
+  3513:
+  - string: ''
+  3514:
+  - string: ''
+  3515:
+  - string: ''
+  3516:
+  - string: ''
+  3517:
+  - string: ''
+  3518:
+  - string: ''
+  3519:
+  - string: ''
+  3520:
+  - string: ''
+  3521:
+  - string: ''
+  3522:
+  - string: ''
+  3523:
+  - string: ''
+  3524:
+  - string: ''
+  3525:
+  - string: ''
+  3526:
+  - string: ''
+  3527:
+  - string: ''
+  3528:
+  - string: ''
+  3529:
+  - string: ''
+  3530:
+  - string: ''
+  3531:
+  - string: ''
+  3532:
+  - string: ''
+  3533:
+  - string: ''
+  3534:
+  - string: ''
+  3535:
+  - string: ''
+  3536:
+  - string: ''
+  3537:
+  - string: ''
+  3538:
+  - string: ''
+  3539:
+  - string: ''
+  3540:
+  - string: ''
+  3541:
+  - string: ''
+  3542:
+  - string: ''
+  3543:
+  - string: ''
+  3544:
+  - string: ''
+  3545:
+  - string: ''
+  3546:
+  - string: ''
+  3547:
+  - string: ''
+  3548:
+  - string: ''
+  3549:
+  - string: ''
+  3550:
+  - string: ''
+  3551:
+  - string: ''
+  3552:
+  - string: ''
+  3553:
+  - string: ''
+  3554:
+  - string: ''
+  3555:
+  - string: ''
+  3556:
+  - string: ''
+  3557:
+  - string: ''
+  3558:
+  - string: ''
+  3559:
+  - string: ''
+  3560:
+  - string: ''
+  3561:
+  - string: ''
+  3562:
+  - string: ''
+  3563:
+  - string: ''
+  3564:
+  - string: ''
+  3565:
+  - string: ''
+  3566:
+  - string: ''
+  3567:
+  - string: ''
+  3568:
+  - string: ''
+  3569:
+  - string: ''
+  3570:
+  - string: ''
+  3571:
+  - string: ''
+  3572:
+  - string: ''
+  3573:
+  - string: ''
+  3574:
+  - string: ''
+  3575:
+  - string: ''
+  3576:
+  - string: ''
+  3577:
+  - string: ''
+  3578:
+  - string: ''
+  3579:
+  - string: ''
+  3580:
+  - string: ''
+  3581:
+  - string: ''
+  3582:
+  - string: ''
+  3583:
+  - string: ''
+  3584:
+  - string: ''
+  3585:
+  - string: ''
+  3586:
+  - string: ''
+  3587:
+  - string: ''
+  3588:
+  - string: ''
+  3589:
+  - string: ''
+  3590:
+  - string: ''
+  3591:
+  - string: ''
+  3592:
+  - string: ''
+  3593:
+  - string: ''
+  3594:
+  - string: ''
+  3595:
+  - string: ''
+  3596:
+  - string: ''
+  3597:
+  - string: ''
+  3598:
+  - string: ''
+  3599:
+  - string: ''
+  3600:
+  - string: ''
+  3601:
+  - string: ''
+  3602:
+  - string: ''
+  3603:
+  - string: ''
+  3604:
+  - string: ''
+  3605:
+  - string: ''
+  3606:
+  - string: ''
+  3607:
+  - string: ''
+  3608:
+  - string: ''
+  3609:
+  - string: ''
+  3610:
+  - string: ''
+  3611:
+  - string: ''
+  3612:
+  - string: ''
+  3613:
+  - string: ''
+  3614:
+  - string: ''
+  3615:
+  - string: ''
+  3616:
+  - string: ''
+  3617:
+  - string: ''
+  3618:
+  - string: ''
+  3619:
+  - string: ''
+  3620:
+  - string: ''
+  3621:
+  - string: ''
+  3622:
+  - string: ''
+  3623:
+  - string: ''
+  3624:
+  - string: ''
+  3625:
+  - string: ''
+  3626:
+  - string: ''
+  3627:
+  - string: ''
+  3628:
+  - string: ''
+  3629:
+  - string: ''
+  3630:
+  - string: ''
+  3631:
+  - string: ''
+  3632:
+  - string: ''
+  3633:
+  - string: ''
+  3634:
+  - string: ''
+  3635:
+  - string: ''
+  3636:
+  - string: ''
+  3637:
+  - string: ''
+  3638:
+  - string: ''
+  3639:
+  - string: ''
+  3640:
+  - string: ''
+  3641:
+  - string: ''
+  3642:
+  - string: ''
+  3643:
+  - string: ''
+  3644:
+  - string: ''
+  3645:
+  - string: ''
+  3646:
+  - string: ''
+  3647:
+  - string: ''
+  3648:
+  - string: ''
+  3649:
+  - string: ''
+  3650:
+  - string: ''
+  3651:
+  - string: ''
+  3652:
+  - string: ''
+  3653:
+  - string: ''
+  3654:
+  - string: ''
+  3655:
+  - string: ''
+  3656:
+  - string: ''
+  3657:
+  - string: ''
+  3658:
+  - string: ''
+  3659:
+  - string: ''
+  3660:
+  - string: ''
+  3661:
+  - string: ''
+  3662:
+  - string: ''
+  3663:
+  - string: ''
+  3664:
+  - string: ''
+  3665:
+  - string: ''
+  3666:
+  - string: ''
+  3667:
+  - string: ''
+  3668:
+  - string: ''
+  3669:
+  - string: ''
+  3670:
+  - string: ''
+  3671:
+  - string: ''
+  3672:
+  - string: ''
+  3673:
+  - string: ''
+  3674:
+  - string: ''
+  3675:
+  - string: ''
+  3676:
+  - string: ''
+  3677:
+  - string: ''
+  3678:
+  - string: ''
+  3679:
+  - string: ''
+  3680:
+  - string: ''
+  3681:
+  - string: ''
+  3682:
+  - string: ''
+  3683:
+  - string: ''
+  3684:
+  - string: ''
+  3685:
+  - string: ''
+  3686:
+  - string: ''
+  3687:
+  - string: ''
+  3688:
+  - string: ''
+  3689:
+  - string: ''
+  3690:
+  - string: ''
+  3691:
+  - string: ''
+  3692:
+  - string: ''
+  3693:
+  - string: ''
+  3694:
+  - string: ''
+  3695:
+  - string: ''
+  3696:
+  - string: ''
+  3697:
+  - string: ''
+  3698:
+  - string: ''
+  3699:
+  - string: ''
+  3700:
+  - string: ''
+  3701:
+  - string: ''
+  3702:
+  - string: ''
+  3703:
+  - string: ''
+  3704:
+  - string: ''
+  3705:
+  - string: ''
+  3706:
+  - string: ''
+  3707:
+  - string: ''
+  3708:
+  - string: ''
+  3709:
+  - string: ''
+  3710:
+  - string: ''
+  3711:
+  - string: ''
+  3712:
+  - string: ''
+  3713:
+  - string: ''
+  3714:
+  - string: ''
+  3715:
+  - string: ''
+  3716:
+  - string: ''
+  3717:
+  - string: ''
+  3718:
+  - string: ''
+  3719:
+  - string: ''
+  3720:
+  - string: ''
+  3721:
+  - string: ''
+  3722:
+  - string: ''
+  3723:
+  - string: ''
+  3724:
+  - string: ''
+  3725:
+  - string: ''
+  3726:
+  - string: ''
+  3727:
+  - string: ''
+  3728:
+  - string: ''
+  3729:
+  - string: ''
+  3730:
+  - string: ''
+  3731:
+  - string: ''
+  3732:
+  - string: ''
+  3733:
+  - string: ''
+  3734:
+  - string: ''
+  3735:
+  - string: ''
+  3736:
+  - string: ''
+  3737:
+  - string: ''
+  3738:
+  - string: ''
+  3739:
+  - string: ''
+  3740:
+  - string: ''
+  3741:
+  - string: ''
+  3742:
+  - string: ''
+  3743:
+  - string: ''
+  3744:
+  - string: ''
+  3745:
+  - string: ''
+  3746:
+  - string: ''
+  3747:
+  - string: ''
+  3748:
+  - string: ''
+  3749:
+  - string: ''
+  3750:
+  - string: ''
+  3751:
+  - string: ''
+  3752:
+  - string: ''
+  3753:
+  - string: ''
+  3754:
+  - string: ''
+  3755:
+  - string: ''
+  3756:
+  - string: ''
+  3757:
+  - string: ''
+  3758:
+  - string: ''
+  3759:
+  - string: ''
+  3760:
+  - string: ''
+  3761:
+  - string: ''
+  3762:
+  - string: ''
+  3763:
+  - string: ''
+  3764:
+  - string: ''
+  3765:
+  - string: ''
+  3766:
+  - string: ''
+  3767:
+  - string: ''
+  3768:
+  - string: ''
+  3769:
+  - string: ''
+  3770:
+  - string: ''
+  3771:
+  - string: ''
+  3772:
+  - string: ''
+  3773:
+  - string: ''
+  3774:
+  - string: ''
+  3775:
+  - string: ''
+  3776:
+  - string: ''
+  3777:
+  - string: ''
+  3778:
+  - string: ''
+  3779:
+  - string: ''
+  3780:
+  - string: ''
+  3781:
+  - string: ''
+  3782:
+  - string: ''
+  3783:
+  - string: ''
+  3784:
+  - string: ''
+  3785:
+  - string: ''
+  3786:
+  - string: ''
+  3787:
+  - string: ''
+  3788:
+  - string: ''
+  3789:
+  - string: ''
+  3790:
+  - string: ''
+  3791:
+  - string: ''
+  3792:
+  - string: ''
+  3793:
+  - string: ''
+  3794:
+  - string: ''
+  3795:
+  - string: ''
+  3796:
+  - string: ''
+  3797:
+  - string: ''
+  3798:
+  - string: ''
+  3799:
+  - string: ''
+  3800:
+  - string: ''
+  3801:
+  - string: ''
+  3802:
+  - string: ''
+  3803:
+  - string: ''
+  3804:
+  - string: ''
+  3805:
+  - string: ''
+  3806:
+  - string: ''
+  3807:
+  - string: ''
+  3808:
+  - string: ''
+  3809:
+  - string: ''
+  3810:
+  - string: ''
+  3811:
+  - string: ''
+  3812:
+  - string: ''
+  3813:
+  - string: ''
+  3814:
+  - string: ''
+  3815:
+  - string: ''
+  3816:
+  - string: ''
+  3817:
+  - string: ''
+  3818:
+  - string: ''
+  3819:
+  - string: ''
+  3820:
+  - string: ''
+  3821:
+  - string: ''
+  3822:
+  - string: ''
+  3823:
+  - string: ''
+  3824:
+  - string: ''
+  3825:
+  - string: ''
+  3826:
+  - string: ''
+  3827:
+  - string: ''
+  3828:
+  - string: ''
+  3829:
+  - string: ''
+  3830:
+  - string: ''
+  3831:
+  - string: ''
+  3832:
+  - string: ''
+  3833:
+  - string: ''
+  3834:
+  - string: ''
+  3835:
+  - string: ''
+  3836:
+  - string: ''
+  3837:
+  - string: ''
+  3838:
+  - string: ''
+  3839:
+  - string: ''
+  3840:
+  - string: ''
+  3841:
+  - string: ''
+  3842:
+  - string: ''
+  3843:
+  - string: ''
+  3844:
+  - string: ''
+  3845:
+  - string: ''
+  3846:
+  - string: ''
+  3847:
+  - string: ''
+  3848:
+  - string: ''
+  3849:
+  - string: ''
+  3850:
+  - string: ''
+  3851:
+  - string: ''
+  3852:
+  - string: ''
+  3853:
+  - string: ''
+  3854:
+  - string: ''
+  3855:
+  - string: ''
+  3856:
+  - string: ''
+  3857:
+  - string: ''
+  3858:
+  - string: ''
+  3859:
+  - string: ''
+  3860:
+  - string: ''
+  3861:
+  - string: ''
+  3862:
+  - string: ''
+  3863:
+  - string: ''
+  3864:
+  - string: ''
+  3865:
+  - string: ''
+  3866:
+  - string: ''
+  3867:
+  - string: ''
+  3868:
+  - string: ''
+  3869:
+  - string: ''
+  3870:
+  - string: ''
+  3871:
+  - string: ''
+  3872:
+  - string: ''
+  3873:
+  - string: ''
+  3874:
+  - string: ''
+  3875:
+  - string: ''
+  3876:
+  - string: ''
+  3877:
+  - string: ''
+  3878:
+  - string: ''
+  3879:
+  - string: ''
+  3880:
+  - string: ''
+  3881:
+  - string: ''
+  3882:
+  - string: ''
+  3883:
+  - string: ''
+  3884:
+  - string: ''
+  3885:
+  - string: ''
+  3886:
+  - string: ''
+  3887:
+  - string: ''
+  3888:
+  - string: ''
+  3889:
+  - string: ''
+  3890:
+  - string: ''
+  3891:
+  - string: ''
+  3892:
+  - string: ''
+  3893:
+  - string: ''
+  3894:
+  - string: ''
+  3895:
+  - string: ''
+  3896:
+  - string: ''
+  3897:
+  - string: ''
+  3898:
+  - string: ''
+  3899:
+  - string: ''
+  3900:
+  - string: ''
+  3901:
+  - string: ''
+  3902:
+  - string: ''
+  3903:
+  - string: ''
+  3904:
+  - string: ''
+  3905:
+  - string: ''
+  3906:
+  - string: ''
+  3907:
+  - string: ''
+  3908:
+  - string: ''
+  3909:
+  - string: ''
+  3910:
+  - string: ''
+  3911:
+  - string: ''
+  3912:
+  - string: ''
+  3913:
+  - string: ''
+  3914:
+  - string: ''
+  3915:
+  - string: ''
+  3916:
+  - string: ''
+  3917:
+  - string: ''
+  3918:
+  - string: ''
+  3919:
+  - string: ''
+  3920:
+  - string: ''
+  3921:
+  - string: ''
+  3922:
+  - string: ''
+  3923:
+  - string: ''
+  3924:
+  - string: ''
+  3925:
+  - string: ''
+  3926:
+  - string: ''
+  3927:
+  - string: ''
+  3928:
+  - string: ''
+  3929:
+  - string: ''
+  3930:
+  - string: ''
+  3931:
+  - string: ''
+  3932:
+  - string: ''
+  3933:
+  - string: ''
+  3934:
+  - string: ''
+  3935:
+  - string: ''
+  3936:
+  - string: ''
+  3937:
+  - string: ''
+  3938:
+  - string: ''
+  3939:
+  - string: ''
+  3940:
+  - string: ''
+  3941:
+  - string: ''
+  3942:
+  - string: ''
+  3943:
+  - string: ''
+  3944:
+  - string: ''
+  3945:
+  - string: ''
+  3946:
+  - string: ''
+  3947:
+  - string: ''
+  3948:
+  - string: ''
+  3949:
+  - string: ''
+  3950:
+  - string: ''
+  3951:
+  - string: ''
+  3952:
+  - string: ''
+  3953:
+  - string: ''
+  3954:
+  - string: ''
+  3955:
+  - string: ''
+  3956:
+  - string: ''
+  3957:
+  - string: ''
+  3958:
+  - string: ''
+  3959:
+  - string: ''
+  3960:
+  - string: ''
+  3961:
+  - string: ''
+  3962:
+  - string: ''
+  3963:
+  - string: ''
+  3964:
+  - string: ''
+  3965:
+  - string: ''
+  3966:
+  - string: ''
+  3967:
+  - string: ''
+  3968:
+  - string: ''
+  3969:
+  - string: ''
+  3970:
+  - string: ''
+  3971:
+  - string: ''
+  3972:
+  - string: ''
+  3973:
+  - string: ''
+  3974:
+  - string: ''
+  3975:
+  - string: ''
+  3976:
+  - string: ''
+  3977:
+  - string: ''
+  3978:
+  - string: ''
+  3979:
+  - string: ''
+  3980:
+  - string: ''
+  3981:
+  - string: ''
+  3982:
+  - string: ''
+  3983:
+  - string: ''
+  3984:
+  - string: ''
+  3985:
+  - string: ''
+  3986:
+  - string: ''
+  3987:
+  - string: ''
+  3988:
+  - string: ''
+  3989:
+  - string: ''
+  3990:
+  - string: ''
+  3991:
+  - string: ''
+  3992:
+  - string: ''
+  3993:
+  - string: ''
+  3994:
+  - string: ''
+  3995:
+  - string: ''
+  3996:
+  - string: ''
+  3997:
+  - string: ''
+  3998:
+  - string: ''
+  3999:
+  - string: ''
+  4000:
+  - string: ''
+  4001:
+  - string: ''
+  4002:
+  - string: ''
+  4003:
+  - string: ''
+  4004:
+  - string: ''
+  4005:
+  - string: ''
+  4006:
+  - string: ''
+  4007:
+  - string: ''
+  4008:
+  - string: ''
+  4009:
+  - string: ''
+  4010:
+  - string: ''
+  4011:
+  - string: ''
+  4012:
+  - string: ''
+  4013:
+  - string: ''
+  4014:
+  - string: ''
+  4015:
+  - string: ''
+  4016:
+  - string: ''
+  4017:
+  - string: ''
+  4018:
+  - string: ''
+  4019:
+  - string: ''
+  4020:
+  - string: ''
+  4021:
+  - string: ''
+  4022:
+  - string: ''
+  4023:
+  - string: ''
+  4024:
+  - string: ''
+  4025:
+  - string: ''
+  4026:
+  - string: ''
+  4027:
+  - string: ''
+  4028:
+  - string: ''
+  4029:
+  - string: ''
+  4030:
+  - string: ''
+  4031:
+  - string: ''
+  4032:
+  - string: ''
+  4033:
+  - string: ''
+  4034:
+  - string: ''
+  4035:
+  - string: ''
+  4036:
+  - string: ''
+  4037:
+  - string: ''
+  4038:
+  - string: ''
+  4039:
+  - string: ''
+  4040:
+  - string: ''
+  4041:
+  - string: ''
+  4042:
+  - string: ''
+  4043:
+  - string: ''
+  4044:
+  - string: ''
+  4045:
+  - string: ''
+  4046:
+  - string: ''
+  4047:
+  - string: ''
+  4048:
+  - string: ''
+  4049:
+  - string: ''
+  4050:
+  - string: ''
+  4051:
+  - string: ''
+  4052:
+  - string: ''
+  4053:
+  - string: ''
+  4054:
+  - string: ''
+  4055:
+  - string: ''
+  4056:
+  - string: ''
+  4057:
+  - string: ''
+  4058:
+  - string: ''
+  4059:
+  - string: ''
+  4060:
+  - string: ''
+  4061:
+  - string: ''
+  4062:
+  - string: ''
+  4063:
+  - string: ''
+  4064:
+  - string: ''
+  4065:
+  - string: ''
+  4066:
+  - string: ''
+  4067:
+  - string: ''
+  4068:
+  - string: ''
+  4069:
+  - string: ''
+  4070:
+  - string: ''
+  4071:
+  - string: ''
+  4072:
+  - string: ''
+  4073:
+  - string: ''
+  4074:
+  - string: ''
+  4075:
+  - string: ''
+  4076:
+  - string: ''
+  4077:
+  - string: ''
+  4078:
+  - string: ''
+  4079:
+  - string: ''
+  4080:
+  - string: ''
+  4081:
+  - string: ''
+  4082:
+  - string: ''
+  4083:
+  - string: ''
+  4084:
+  - string: ''
+  4085:
+  - string: ''
+  4086:
+  - string: ''
+  4087:
+  - string: ''
+  4088:
+  - string: ''
+  4089:
+  - string: ''
+  4090:
+  - string: ''
+  4091:
+  - string: ''
+  4092:
+  - string: ''
+  4093:
+  - string: ''
+  4094:
+  - string: ''
+  4095:
+  - string: ''
+  4096:
+  - string: ''
+  4097:
+  - string: ''
