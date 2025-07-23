@@ -1,4 +1,4 @@
-bytes_per_entry: 256
+bytes_per_list: 256
 flip_bytes: false
 lists:
   0:

@@ -1,3 +1,5 @@
+bytes_per_list: 0
+flip_bytes: true
 lists:
   0:
   - string: 'Current setting: Your treasure is being pooled.'
