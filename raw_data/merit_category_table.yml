@@ -1,0 +1,339 @@
+categories:
+- category: None
+  max_merits: 0
+  jobs: []
+- category: HpMp
+  max_merits: 75
+  jobs:
+  - All
+- category: Attributes
+  max_merits: 105
+  jobs:
+  - All
+- category: CombatSkills
+  max_merits: 152
+  jobs:
+  - All
+- category: MagicSkills
+  max_merits: 112
+  jobs:
+  - All
+- category: Others
+  max_merits: 10
+  jobs:
+  - All
+- category: WeaponSkills
+  max_merits: 15
+  jobs:
+  - All
+- category: WarriorGroup1
+  max_merits: 10
+  jobs:
+  - WAR
+- category: MonkGroup1
+  max_merits: 10
+  jobs:
+  - MNK
+- category: WhiteMageGroup1
+  max_merits: 10
+  jobs:
+  - WHM
+- category: BlackMageGroup1
+  max_merits: 10
+  jobs:
+  - BLM
+- category: RedMageGroup1
+  max_merits: 10
+  jobs:
+  - RDM
+- category: ThiefGroup1
+  max_merits: 10
+  jobs:
+  - THF
+- category: PaladinGroup1
+  max_merits: 10
+  jobs:
+  - PLD
+- category: DarkKnightGroup1
+  max_merits: 10
+  jobs:
+  - DRK
+- category: BeastmasterGroup1
+  max_merits: 10
+  jobs:
+  - BST
+- category: BardGroup1
+  max_merits: 10
+  jobs:
+  - BRD
+- category: RangerGroup1
+  max_merits: 10
+  jobs:
+  - RNG
+- category: SamuraiGroup1
+  max_merits: 10
+  jobs:
+  - SAM
+- category: NinjaGroup1
+  max_merits: 10
+  jobs:
+  - NIN
+- category: DragoonGroup1
+  max_merits: 10
+  jobs:
+  - DRG
+- category: SummonerGroup1
+  max_merits: 10
+  jobs:
+  - SMN
+- category: BlueMageGroup1
+  max_merits: 10
+  jobs:
+  - BLU
+- category: CorsairGroup1
+  max_merits: 10
+  jobs:
+  - COR
+- category: PuppetmasterGroup1
+  max_merits: 10
+  jobs:
+  - PUP
+- category: DancerGroup1
+  max_merits: 10
+  jobs:
+  - DNC
+- category: ScholarGroup1
+  max_merits: 10
+  jobs:
+  - SCH
+- category: GeomancerGroup1
+  max_merits: 10
+  jobs:
+  - GEO
+- category: RuneFencerGroup1
+  max_merits: 10
+  jobs:
+  - RUN
+- category: !Unnamed 29
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 30
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 31
+  max_merits: 0
+  jobs: []
+- category: WarriorGroup2
+  max_merits: 10
+  jobs:
+  - WAR
+- category: MonkGroup2
+  max_merits: 10
+  jobs:
+  - MNK
+- category: WhiteMageGroup2
+  max_merits: 10
+  jobs:
+  - WHM
+- category: BlackMageGroup2
+  max_merits: 10
+  jobs:
+  - BLM
+- category: RedMageGroup2
+  max_merits: 10
+  jobs:
+  - RDM
+- category: ThiefGroup2
+  max_merits: 10
+  jobs:
+  - THF
+- category: PaladinGroup2
+  max_merits: 10
+  jobs:
+  - PLD
+- category: DarkKnightGroup2
+  max_merits: 10
+  jobs:
+  - DRK
+- category: BeastmasterGroup2
+  max_merits: 10
+  jobs:
+  - BST
+- category: BardGroup2
+  max_merits: 10
+  jobs:
+  - BRD
+- category: RangerGroup2
+  max_merits: 10
+  jobs:
+  - RNG
+- category: SamuraiGroup2
+  max_merits: 10
+  jobs:
+  - SAM
+- category: NinjaGroup2
+  max_merits: 10
+  jobs:
+  - NIN
+- category: DragoonGroup2
+  max_merits: 10
+  jobs:
+  - DRG
+- category: SummonerGroup2
+  max_merits: 10
+  jobs:
+  - SMN
+- category: BlueMageGroup2
+  max_merits: 10
+  jobs:
+  - BLU
+- category: CorsairGroup2
+  max_merits: 10
+  jobs:
+  - COR
+- category: PuppetmasterGroup2
+  max_merits: 10
+  jobs:
+  - PUP
+- category: DancerGroup2
+  max_merits: 10
+  jobs:
+  - DNC
+- category: ScholarGroup2
+  max_merits: 10
+  jobs:
+  - SCH
+- category: !Unnamed 52
+  max_merits: 0
+  jobs: []
+- category: GeomancerGroup2
+  max_merits: 10
+  jobs:
+  - GEO
+- category: RuneFencerGroup2
+  max_merits: 10
+  jobs:
+  - RUN
+- category: !Unnamed 55
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 56
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 57
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 58
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 59
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 60
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 61
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 62
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 63
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 64
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 65
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 66
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 67
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 68
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 69
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 70
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 71
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 72
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 73
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 74
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 75
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 76
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 77
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 78
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 79
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 80
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 81
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 82
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 83
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 84
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 85
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 86
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 87
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 88
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 89
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 90
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 91
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 92
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 93
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 94
+  max_merits: 0
+  jobs: []
+- category: !Unnamed 95
+  max_merits: 0
+  jobs: []

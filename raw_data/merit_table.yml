@@ -1,0 +1,1636 @@
+category_count: 96
+categories:
+  HpMp:
+  - entry_idx: 0
+    max_merits: 15
+    unknown: '0x010105'
+    jobs:
+    - All
+  - entry_idx: 1
+    max_merits: 15
+    unknown: '0x010105'
+    jobs:
+    - All
+  - entry_idx: 2
+    max_merits: 45
+    unknown: '0x000000'
+    jobs:
+    - All
+  Attributes:
+  - entry_idx: 0
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  - entry_idx: 1
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  - entry_idx: 2
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  - entry_idx: 3
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  - entry_idx: 4
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  - entry_idx: 5
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  - entry_idx: 6
+    max_merits: 15
+    unknown: '0x030109'
+    jobs:
+    - All
+  CombatSkills:
+  - entry_idx: 0
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - MNK
+    - THF
+    - NIN
+    - PUP
+    - DNC
+  - entry_idx: 1
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - BLM
+    - RDM
+    - THF
+    - PLD
+    - DRK
+    - BST
+    - BRD
+    - RNG
+    - SAM
+    - NIN
+    - DRG
+    - SMN
+    - COR
+    - PUP
+    - DNC
+    - SCH
+    - GEO
+  - entry_idx: 2
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - RDM
+    - THF
+    - PLD
+    - DRK
+    - BST
+    - BRD
+    - RNG
+    - SAM
+    - NIN
+    - DRG
+    - BLU
+    - COR
+    - DNC
+    - RUN
+  - entry_idx: 3
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - PLD
+    - DRK
+    - RUN
+  - entry_idx: 4
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - DRK
+    - BST
+    - RNG
+    - RUN
+  - entry_idx: 5
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - DRK
+    - RUN
+  - entry_idx: 6
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - BLM
+    - DRK
+    - BST
+  - entry_idx: 7
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - PLD
+    - SAM
+    - DRG
+  - entry_idx: 8
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - NIN
+  - entry_idx: 9
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - SAM
+    - NIN
+  - entry_idx: 10
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - MNK
+    - WHM
+    - BLM
+    - RDM
+    - THF
+    - PLD
+    - DRK
+    - BST
+    - BRD
+    - RNG
+    - SAM
+    - NIN
+    - DRG
+    - SMN
+    - BLU
+    - PUP
+    - SCH
+    - GEO
+    - RUN
+  - entry_idx: 11
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - MNK
+    - WHM
+    - BLM
+    - PLD
+    - BRD
+    - DRG
+    - SMN
+    - SCH
+    - GEO
+  - entry_idx: 12
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - RDM
+    - THF
+    - RNG
+    - SAM
+    - NIN
+  - entry_idx: 13
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - THF
+    - DRK
+    - RNG
+    - NIN
+    - COR
+  - entry_idx: 14
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - MNK
+    - WHM
+    - BLM
+    - RDM
+    - THF
+    - BRD
+    - RNG
+    - SAM
+    - NIN
+    - COR
+    - PUP
+    - DNC
+    - SCH
+  - entry_idx: 15
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - MNK
+    - PUP
+  - entry_idx: 16
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - All
+  - entry_idx: 17
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - WHM
+    - RDM
+    - THF
+    - PLD
+    - BST
+  - entry_idx: 18
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WAR
+    - MNK
+    - RDM
+    - THF
+    - PLD
+    - DRK
+    - BST
+    - BRD
+    - SAM
+    - NIN
+    - DRG
+    - BLU
+    - COR
+    - PUP
+    - DNC
+    - SCH
+    - GEO
+    - RUN
+  MagicSkills:
+  - entry_idx: 0
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WHM
+    - RDM
+    - PLD
+    - SCH
+    - RUN
+  - entry_idx: 1
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WHM
+    - RDM
+    - PLD
+    - SCH
+  - entry_idx: 2
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WHM
+    - BLM
+    - RDM
+    - PLD
+    - SCH
+    - RUN
+  - entry_idx: 3
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - WHM
+    - BLM
+    - RDM
+    - DRK
+    - SCH
+    - GEO
+  - entry_idx: 4
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - BLM
+    - RDM
+    - DRK
+    - SCH
+    - GEO
+  - entry_idx: 5
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - BLM
+    - RDM
+    - DRK
+    - SCH
+    - GEO
+  - entry_idx: 6
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - SMN
+  - entry_idx: 7
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - NIN
+  - entry_idx: 8
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - BRD
+  - entry_idx: 9
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - BRD
+  - entry_idx: 10
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - BRD
+  - entry_idx: 11
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - BLU
+  - entry_idx: 12
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - GEO
+  - entry_idx: 13
+    max_merits: 8
+    unknown: '0x030303'
+    jobs:
+    - GEO
+  Others:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - All
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - All
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - All
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - All
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - All
+  WarriorGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WAR
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WAR
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WAR
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WAR
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WAR
+  MonkGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - MNK
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - MNK
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - MNK
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - MNK
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - MNK
+  WhiteMageGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WHM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WHM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WHM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WHM
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - WHM
+  BlackMageGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  - entry_idx: 6
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLM
+  RedMageGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  - entry_idx: 6
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RDM
+  ThiefGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - THF
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - THF
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - THF
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - THF
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - THF
+  PaladinGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PLD
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PLD
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PLD
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PLD
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PLD
+  DarkKnightGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRK
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRK
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRK
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRK
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRK
+  BeastmasterGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BST
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BST
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BST
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BST
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BST
+  BardGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BRD
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BRD
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BRD
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BRD
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BRD
+  RangerGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RNG
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RNG
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RNG
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RNG
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - RNG
+  - entry_idx: 5
+    unexpected_idx: 6
+  SamuraiGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SAM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SAM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SAM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SAM
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SAM
+  NinjaGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  - entry_idx: 6
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - NIN
+  DragoonGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRG
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRG
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRG
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRG
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DRG
+  SummonerGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SMN
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SMN
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SMN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SMN
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SMN
+  BlueMageGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLU
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLU
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLU
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLU
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - BLU
+  CorsairGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - COR
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - COR
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - COR
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - COR
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - COR
+  PuppetmasterGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PUP
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PUP
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PUP
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PUP
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - PUP
+  DancerGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DNC
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DNC
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DNC
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - DNC
+  ScholarGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SCH
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SCH
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SCH
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010105'
+    jobs:
+    - SCH
+  WeaponSkills:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - MNK
+    - PUP
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - RDM
+    - THF
+    - BST
+    - BRD
+    - RNG
+    - NIN
+    - COR
+    - DNC
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - RDM
+    - PLD
+    - DRK
+    - SAM
+    - BLU
+    - COR
+    - RUN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - PLD
+    - DRK
+    - RUN
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - DRK
+    - BST
+    - RNG
+    - RUN
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - DRK
+    - RUN
+  - entry_idx: 6
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - DRK
+    - BST
+  - entry_idx: 7
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - SAM
+    - DRG
+  - entry_idx: 8
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - NIN
+  - entry_idx: 9
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - SAM
+  - entry_idx: 10
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - MNK
+    - WHM
+    - BLM
+    - PLD
+    - SMN
+    - BLU
+    - SCH
+    - GEO
+  - entry_idx: 11
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - WAR
+    - MNK
+    - WHM
+    - BLM
+    - PLD
+    - BRD
+    - DRG
+    - SMN
+    - SCH
+    - GEO
+  - entry_idx: 12
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - RNG
+    - SAM
+  - entry_idx: 13
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - THF
+    - RNG
+    - COR
+  - entry_idx: 31
+    unexpected_idx: 30
+  GeomancerGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - GEO
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - GEO
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - GEO
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - GEO
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - GEO
+  RuneFencerGroup1:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - RUN
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - RUN
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - RUN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - RUN
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x010100'
+    jobs:
+    - RUN
+  WarriorGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WAR
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WAR
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WAR
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WAR
+  MonkGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - MNK
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - MNK
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - MNK
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - MNK
+  WhiteMageGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WHM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WHM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WHM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - WHM
+  BlackMageGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLM
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLM
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLM
+  RedMageGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RDM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RDM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RDM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RDM
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RDM
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RDM
+  ThiefGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - THF
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - THF
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - THF
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - THF
+  PaladinGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PLD
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PLD
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PLD
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PLD
+  DarkKnightGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRK
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRK
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRK
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRK
+  BeastmasterGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BST
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BST
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BST
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BST
+  BardGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BRD
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BRD
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BRD
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BRD
+  RangerGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RNG
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RNG
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RNG
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - RNG
+  SamuraiGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SAM
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SAM
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SAM
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SAM
+  NinjaGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 6
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  - entry_idx: 7
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - NIN
+  DragoonGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRG
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRG
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRG
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DRG
+  SummonerGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SMN
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SMN
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SMN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SMN
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SMN
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SMN
+  BlueMageGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLU
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLU
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLU
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - BLU
+  CorsairGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - COR
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - COR
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - COR
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - COR
+  PuppetmasterGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PUP
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PUP
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PUP
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - PUP
+  DancerGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DNC
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DNC
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DNC
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - DNC
+  ScholarGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SCH
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SCH
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SCH
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SCH
+  - entry_idx: 4
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SCH
+  - entry_idx: 5
+    max_merits: 5
+    unknown: '0x000005'
+    jobs:
+    - SCH
+  GeomancerGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - GEO
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - GEO
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - GEO
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - GEO
+  RuneFencerGroup2:
+  - entry_idx: 0
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - RUN
+  - entry_idx: 1
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - RUN
+  - entry_idx: 2
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - RUN
+  - entry_idx: 3
+    max_merits: 5
+    unknown: '0x000000'
+    jobs:
+    - RUN
