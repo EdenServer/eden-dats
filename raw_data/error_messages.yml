@@ -437,50 +437,56 @@ lists:
   174:
   - string: Connection to the FINAL FANTASY XI server lost. Press OK to shut down.
   175:
-  - string: Partially depleted items cannot be put up for auction.
+  - string: Connection to the FINAL FANTASY XI server lost. Press OK to shut down.
   176:
-  - string: That command cannot be performed while wearing a costume.
+  - string: Partially depleted items cannot be put up for auction.
   177:
-  - string: That command cannot be used outside of your Mog House.
+  - string: That command cannot be performed while wearing a costume.
   178:
-  - string: That command cannot be used on players on your blacklist.
+  - string: That command cannot be used outside of your Mog House.
   179:
+  - string: That command cannot be used on players on your blacklist.
+  180:
   - string: |-
       A Gold World Pass is valid
       for your first character only.
-  180:
-  - string: You cannot cast blue magic spells that have not been set.
   181:
-  - string: You do not currently have access to a Mog Locker.
+  - string: You cannot cast blue magic spells that have not been set.
   182:
-  - string: Your blue magic spells have recently been reset. Unable to cast spell.
+  - string: You do not currently have access to a Mog Locker.
   183:
-  - string: You cannot customize an activated automaton.
+  - string: Your blue magic spells have recently been reset. Unable to cast spell.
   184:
-  - string: (The delivery service is currently unavailable.)
+  - string: You cannot customize an activated automaton.
   185:
-  - string: (Auction house services are currently unavailable.)
+  - string: (The delivery service is currently unavailable.)
   186:
-  - string: You cannot perform that action while under a level restriction or participating in Besieged.
+  - string: (Auction house services are currently unavailable.)
   187:
-  - string: You cannot use that command inside another character's Mog House.
+  - string: You cannot perform that action while under a level restriction or participating in Besieged.
   188:
-  - string: Your current status prevents you from using that ability.
+  - string: You cannot use that command inside another character's Mog House.
   189:
-  - string: You have not met one or more requirements needed to enter Mog Gardens.
+  - string: Your current status prevents you from using that ability.
   190:
-  - string: You are unable to use Trust magic at this time.
+  - string: You have not met one or more requirements needed to enter Mog Gardens.
   191:
-  - string: You cannot perform this action because no synthesis history exists.
+  - string: You are unable to use Trust magic at this time.
   192:
-  - string: You must wait longer before repeating that action.
+  - string: You cannot perform this action because no synthesis history exists.
   193:
-  - string: You do not possess that chair.
+  - string: You must wait longer before repeating that action.
   194:
-  - string: Focus targeting can only be applied to other party members.
+  - string: You do not possess that chair.
   195:
-  - string: You cannot request to join that player's party.
+  - string: Focus targeting can only be applied to other party members.
   196:
-  - string: You are unable to request to join the party of someone you have blacklisted.
+  - string: You cannot request to join that player's party.
   197:
+  - string: You are unable to request to join the party of someone you have blacklisted.
+  198:
   - string: You were unable to make a request to join.
+  199:
+  - string: No characters are currently muted.
+  200:
+  - string: Macro Book %u Set %u contains invalid data and has been reset.
